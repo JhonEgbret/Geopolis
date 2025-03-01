@@ -1,0 +1,3 @@
+Al Borges is a swordsman known for his prowess in battle and allegiance to the interstellar government as one of the commanders, his dream is that of protecting and preserving life in the road to glory that he considers precious. His daughter [[Licci]] shares his love of nature although they have been growing distant since her 10th birthday.
+
+Al has been part of several important universal wars and has won many alongside his sworn brother [[Onpapa]], an equally talented swordsman. He owns 2 Sacred Blades created by The [[Cosmic Blips]] 2 weeks after their assassination and the end of the [[Lax Era]]. 

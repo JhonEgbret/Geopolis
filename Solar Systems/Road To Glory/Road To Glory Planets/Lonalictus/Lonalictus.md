@@ -1,0 +1,1 @@
+Lonalictus is the forgotten home planet of The [[Gabigool Family]] It has been abandoned for decades, and was used as scrap when captured by [[Lord Noir|Lord Noir's]] ship, The Barathrum.

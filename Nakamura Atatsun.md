@@ -1,0 +1,1 @@
+Nakamura Atatsun is The Interstellar Government's [[Commanders|7th Commander]] (out of 10) and a master of the "[[Kagemocha]]" Martial Arts Style, one of the deadliest in the universe. He is from the planet

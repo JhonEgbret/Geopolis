@@ -1,0 +1,1 @@
+Nonoka is a nation of [[The Divide SIDE A|The Divide]] once part of [[Aofuria]].

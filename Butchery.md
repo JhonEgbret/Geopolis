@@ -1,0 +1,1 @@
+The Butchery is an underground ancient facility owned by [[Fumblington Pickleswallow]], wherein the people known as The [[Macellarius]], isolated by society and given a fate worse than death, are forced, in this cold and damp cave environment, to butcher and skin all of the animals utilized to produce food for [[Strixitania|Strixitania's]] people.

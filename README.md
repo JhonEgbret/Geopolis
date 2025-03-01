@@ -1,2 +1,0 @@
-# Geopolis
-my little world !

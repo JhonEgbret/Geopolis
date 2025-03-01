@@ -1,0 +1,1 @@
+MC Amblingo is a famous rapper known for his jingles 

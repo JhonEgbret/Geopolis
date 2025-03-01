@@ -1,0 +1,5 @@
+Vostros is a superplanet, housing several species such as the humans and Canis. Its surface has a flat coverage of stone, called [[The Outerlands]]. Its most characteristic aspect is its 2 (?) large craters that house the Subdermal Sea, which contain a mass of islands, mountains and tectonic plates, called [[The Divide]].
+
+Few can survive the harsh weather and incredibly dangerous fauna and flora of The Outerlands, as they are considered inhabitable and for that reason have rendered the planet useless to the eyes of The [[-Interstellar Government|Interstellar Government]], although their perception seems to be changing based on the level of power and skill from major groups located in Vostros.
+
+Vostros only becomes an attraction when its most powerful Royal Families and Crews are escolted out of the planet in order to participate in the [[Hunters' Reunion]].

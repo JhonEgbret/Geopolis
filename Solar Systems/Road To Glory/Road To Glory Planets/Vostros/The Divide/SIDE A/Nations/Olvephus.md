@@ -1,0 +1,1 @@
+Olvephus is a coastal nation of [[The Divide SIDE A|The Divide]] with its economy based on trading, bartering and exporting/importing goods and services to other more important nations such as [[Strixitania]], [[Dogland]] and sometimes [[The Fool]].

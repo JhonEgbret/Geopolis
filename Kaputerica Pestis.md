@@ -1,0 +1,3 @@
+Kaputerica Pestis, also known as The Kapu Fever, is a prion disease in SIDE A of The Divide transmitted by either coming in contact with an infected animal's body fluids or waste, or consuming its meat. It can be possessed any mammal or avian in The Divide, but its patient zero is the mammal/avian species known as the [[Kapu]], in the nation of [[Carcino]].
+
+The trillionaire [[Fumblington Pickleswallow]] was responsible for the spread of the disease with his highly antihygienic meat factories as well as what occured in The [[Butchery]].

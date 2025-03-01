@@ -1,0 +1,1 @@
+Totsugeki Majin is the first mate of The Drunkard Pirates.

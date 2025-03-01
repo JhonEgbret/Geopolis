@@ -1,0 +1,3 @@
+**Hell-Radios** are small, portable radios that were made by The [redacted] Family in order to communicate with devils in The Underworld. The only one seen in The Divide was bought by Weepasta for her artifact collection, although she forgot who she bought it from.
+
+They can be tuned to the frequency of specific devils that can only be verified through a book guide or talking to specific devils in The Underworld. If a Devil's power is too strong the Hell-Radio has the capacity to overheat and explode, and older models can cause **extreme** levels of damage to its surroundings and user if a rare situation of the sort occurs, thus making them highly sought for as weapons, especially its first model, which has been lost somewhere on The [[Forgotten System]].

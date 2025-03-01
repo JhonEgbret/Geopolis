@@ -1,0 +1,5 @@
+The Mahou Shoujiety is a small group of young women considered to be "Magical". It was founded by a mysterious man named [[Hokurado]], and not much is known about him besides the fact he seems to observe them in all of their traveling, and that he only accepts underage women into the group, the women swiftly kicking out any one of them who ages to adulthood. Their life expectancy is very low, and many of them die or get injured horribly during their time on the group. They have grown desensitized to that fact.
+
+The "Shoujiety" girls travel through space in search of gaining power and skills, going on a life-changing trip and fulfilling their own dreams, religious objectives and vendettas. They are considered Neutral, and don't pick sides with anyone.
+
+Their main enemy crew is the female-led organization [[Donnas|The "Donnas"]], whose leader has a personal vendetta against their founder and his ideals, as well as considering them too young to journey through the unforgiving depths of space.

@@ -1,0 +1,1 @@
+The planet of Lamiace is the home planet of [[Alusia Mentha Piperita]] and [[Ponadrum Verum|Ponadrum Cinammomum Verum]]. 

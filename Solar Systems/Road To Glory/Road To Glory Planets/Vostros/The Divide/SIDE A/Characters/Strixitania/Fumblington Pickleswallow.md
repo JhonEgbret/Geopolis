@@ -1,0 +1,3 @@
+Fumblington Cobblebottom Pickleswallow is a charming, fat old rich man, and one of the main business owners in [[Strixitania|Strixitania]] being considered part of The Royal Crew due to his control over weapons and ammunition factories in all of Strixitania's territory.
+
+He is currently trying to find a cure for the sudden outburst of [[Kaputerica Pestis]] (Or the Kapu Plague) in many of his factories, leaving workers sick and causing mass death, as well as his main concern, which is the halting of weapon production at the midst of the most important event being planned for in Strixitania's history.

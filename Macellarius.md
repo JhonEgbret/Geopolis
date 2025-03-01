@@ -1,0 +1,3 @@
+The Macellarius are a group of people, given the role of butchering and skinning animals for [[Strixitania]], prisoners with a sentence so heavy that they are given a fate worse than death. 
+
+They are mostly tall and skinny, with lots of scars from workplace accidents, and/or ridden with disease due to the unhygienic working conditions of their role. They are forced to work until their deaths, being given no breaks and no escape, with The [[Butchery]] acting as their prison for the rest of their lives.
