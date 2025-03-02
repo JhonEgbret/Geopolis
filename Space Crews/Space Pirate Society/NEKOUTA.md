@@ -4,14 +4,12 @@ They travel around the universe singing their experimental songs, alternating be
 
 ## Members
 
-### [Nekocious Neko :3](Nekocious Neko) **|** Vocalist
-
-### [[Lana Retrodus]] **|** Drummer
+### [Nekocious Neko :3](Nekocious Neko) **|** Vocalist/Guitarist
 
 ### [[Ponokota Ony]] **|** Keyboardist
 
-### [[Jerojero Lambarin]] **|** Guitarist
-
+### [[Jerojero Lambarin]] **|** Misc. Instruments
+### [[Lana Retrodus]] **|** Drummer
 ### [[Bringue Balingue]] **|** Ex-Bassist
 
 ### [[Jack Lowbends]] **|** Bassist
