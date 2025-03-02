@@ -1,0 +1,1 @@
+Jerojero Lambarin is the Second Son of Queen Vanabara of the Lambarin Royal Family, and was born in the planet of Tchaldaq-Nabir in Palagna Castle.

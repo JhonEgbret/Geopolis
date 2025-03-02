@@ -1,9 +1,5 @@
 A true monster. The most powerful demon in the universe. [[Personagem]] is its last creation sent to Geopolis, and its best. Not much is known about it, but the words "Barathrum" or "Noir" have become a massive taboo universe-wide because of its ancient and evil actions, without most people even knowing why or who they were.
 
-It has luckily never returned to Geopolis.
-
-Yet.
-
 Very little is known about Noir itself, with its presence being limited to a few historical records, and evidence of its existence being destroyed due to fear of its return. It is told its rise to power began around the end of the Worthwhile Era, at a time of great distrust and fear after the Second Universal Strike. Its planet and species of origin are unknown, and its technological prowess is centuries ahead of its date of origin, with even the simplest of its machinery being impossible to replicate even with today's technology. 
 
 2 theories prevail on the topic of its origin, but with fickle evidence regarding both. The first related to the planet of (), claiming that Noir is part of their pantheon, known as The God of Death. Its symbol and the inexistence of a God representing Death in their pantheon may point to its veracity, but its amount of technological prowess and knowledge of other languages may prove otherwise, as well as the main evidence disproving it, that it was able to exit the planet. The second is one of the most incredible, but the most widely known. It claims it to be a time traveler, who was able to grow its notoriety quickly by traveling to one of the most vulnerable Universal Era, and that now plans to destroy it, seeking twisted revenge. It is disproven by the recently unearthed records of its humble beginnings on the [[Wacatac]] Solar System, now mostly oral, as well as the impossibility of time travel. 
@@ -12,4 +8,4 @@ Reports of his appearance are equally vague, but with certain point of consensus
 
 Some claim to have known it, before it donned the mask (if it is even a mask), but those people have been lost to time and their stories forgotten. They remain only as echoes of a history that it once had a place in, a history that dared to claim that it was even human.
 
-Noir's ship, called the Barathrum, is the largest ship in the universe, and houses millions of the most powerful soldiers and monsters in Geopolis, as well as all the citizens from all the Solar Syt
+Noir's ship, called the [[Barathrum]], is the largest ship in the universe, and houses millions of the most powerful soldiers and monsters in Geopolis. It is the approximate size of an entire Solar System, fitting for a creature of its scale, and houses the Mark of The Dead Sun in its front doors. It accepts visitors, armed or otherwise, as it knows anyone intending to do them harm will never be able to do so. [[Ganymetsu]] is a girl that has been proven to visit them whenever big developments are happening, and she is a great friend of it.
