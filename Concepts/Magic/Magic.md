@@ -16,7 +16,9 @@ The amount of spells and the type of spell a Magician can cast are practically i
 
 ### **BEGINNER SPELLS - OFFENSIVE
 
-### Scratch
+### Matter Manipulation
+
+Matter Manipulation is a form of Telekinesis spell that requires very little Soul Power to cast and is very controllable depending on the circumstances and size of the object manipulated. It is the spell most closely associated to Novice Magicians and the one that is mostly discovered on accident with Gifted Users. Its rules can be bended and twisted and it is a very adaptable spell, but it mainly consists on the levitation or simply moving of matter outside one's physical touch, be it a grain of sand or a can of soda.
 
 
 ## **REINCARNATION
