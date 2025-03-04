@@ -14,11 +14,15 @@ The amount of spells and the type of spell a Magician can cast are practically i
 
 ## **SPELL LIST
 
-### **BEGINNER SPELLS - OFFENSIVE
+### **BEGINNER SPELLS - GENERAL
 
 ### Matter Manipulation
 
 Matter Manipulation is a form of Telekinesis spell that requires very little Soul Power to cast and is very controllable depending on the circumstances and size of the object manipulated. It is the spell most closely associated to Novice Magicians and the one that is mostly discovered on accident with Gifted Users. Its rules can be bended and twisted and it is a very adaptable spell, but it mainly consists on the levitation or simply moving of matter outside one's physical touch, be it a grain of sand or a can of soda.
+
+### Restore
+
+Restore is a highly known Novice spell and one of the most popular spells in the Universe. It requires very little Soul Power to cast but it is the first to involve factors such as focus and control to its successful, and therefore is highly popular with Novice Magicians. It involves the simple Restoration of matter to a previous state, be it removing a dent in a piece of metal or turning ice into water. It can be twisted into many forms, be them for good spells such as healing spells and surgery spells or more horrifying offensive spells that can do things like remove oxygen from blood cells or damage DNA strands.
 
 
 ## **REINCARNATION
