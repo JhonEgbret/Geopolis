@@ -1,7 +1,7 @@
 " Kanashimi, you fool... Alongside you, our land has been forsaken."
 — Josun Kanpai to a dying Kanashimi.
 
-The War of The Josuns is a historical event in [[The Divide SIDE A|SIDE A of The Divide]] responsible for the death of the [[Josun]] system in [[Konatsuka]], and its splitup and transformation into the nations of [[Nonoka]] and [[Aofuria]] during the [[Fallscure Era]].
+The War of The Josuns is a historical event in [[The Divide SIDE A|SIDE A of The Divide]] responsible for the death of the [[Josun]] system in [[Konatsuka]], and its split-up and transformation into the nations of [[Nonoka]] and [[Aofuria]] during the [[Fallscure Era]].
 [[Azure Corps|Azure]], in its way to overtake all of The Divide's nations with its "advanced security protocols", reached the nation of Konatsuka, ruled by the 2 Josuns, known as [[Kanpai]] and [[Kanashimi]], who did not take Azure Corps' intrusion lightly.
 
 Due to a mixture of paranoia, fearing the fall of their traditional culture and their empire, as well as many other reasons, the Josuns sent several of their soldiers into Konatsuka's cities in order to check the legitimacy of each citizen living in their territory, and if they were not native to their land, they would be sent to camps where they would wait on a line to be executed. Many deaths occurred due to this erratic choice, with total fatalities of men, women and children reaching an estimate of 430,000,000,000.
