@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagem.md",
+                "file": "Planets/Lamiace/Lamiace.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personagem"
+              "title": "Lamiace"
             }
           }
         ]
@@ -180,8 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3fb415ece9abcb8",
+  "active": "2b35b61671aad7c8",
   "lastOpenFiles": [
+    "Planets/Oitis/Oitis.md",
+    "Planets/Lamiace/Lamiace.md",
+    "Solar Systems/Road To Glory/Road To Glory.md",
+    "Solar Systems/Panko/Panko Planets/Karn/Karn.md",
+    "Personagem.md",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/Fallscure Era/Fallscure Era Events/Fascure Era Wars/War of The Josuns.md",
     "Space Crews/Interstellar Government/Commanders.md",
     "Space Crews/Space Pirate Society/Conquerors.md",
@@ -199,15 +204,10 @@
     "Space Crews/Space Pirate Society/Mahou Shoujiety.md",
     "Solar Systems/Sect/Sect Planets/Miriam/Miriam.md",
     "Solar Systems/Panko/Panko Planets/Halrebar/Halrebar.md",
-    "Solar Systems/Panko/Panko Planets/Karn/Karn.md",
-    "Solar Systems/Road To Glory/Road To Glory.md",
     "Concepts/Objects/Hell-Radios.md",
     "Concepts/Martial Arts/Yaminisatsu.md",
     "Concepts/Martial Arts/Kagemocha.md",
     "Concepts/Martial Arts/Inugeki.md",
-    "Concepts/Magic/Black Magic.md",
-    "Concepts/Magic/Magic.md",
-    "Planets/Lamiace/Lamiace.md",
     "UNIVERSAL ERAS/Untitled",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE B/Crews/Royal Families - SIDE B",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE B/Species/Flora",
