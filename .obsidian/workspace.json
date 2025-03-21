@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/Fallscure Era/Fallscure Era Events/Fascure Era Wars/War of The Josuns.md",
+                "file": "Personagem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "War of The Josuns"
+              "title": "Personagem"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nekociou",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b35b61671aad7c8",
+  "active": "f3fb415ece9abcb8",
   "lastOpenFiles": [
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/Fallscure Era/Fallscure Era Events/Fascure Era Wars/War of The Josuns.md",
     "Space Crews/Interstellar Government/Commanders.md",
     "Space Crews/Space Pirate Society/Conquerors.md",
     "Space Crews/Interstellar Government/Governmental Protection Community.md",
@@ -207,7 +208,6 @@
     "Concepts/Magic/Black Magic.md",
     "Concepts/Magic/Magic.md",
     "Planets/Lamiace/Lamiace.md",
-    "Planets/Oitis/Oitis.md",
     "UNIVERSAL ERAS/Untitled",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE B/Crews/Royal Families - SIDE B",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE B/Species/Flora",
