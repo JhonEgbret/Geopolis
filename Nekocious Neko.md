@@ -15,13 +15,15 @@
 > 5'5'' - 165 cm
 > ##### Affiliation
 > - Affiliated with the [[-Space Pirate Society|S.P.S.]]
+> ##### Bounty
+> $
 > ##### Occupation
 > [[Conquerors|Conqueror]] - [[NEKOUTA]] Vocalist
 > # Relationships
-> - Unknown parents
-> - Unknown step-parents (Hates)
+> - Unknown parents †
+> - Unknown step-parents † (Hates)
 > - [[Ponokota Ony]] (Friend/NEKOUTA Keyboardist)
-> - [[Nagoshi Catto]] (Brother)
+> - [[Nagoshi Catto]] † (Brother)
 > - [[Jerojero Lambarin]] (Friend/NEKOUTA Misc. Instruments)
 > - [[Lana Retrodus]] (Best Friend/NEKOUTA Drummer)
 > - [[Lupino P. Alerma]] (Dislikes)

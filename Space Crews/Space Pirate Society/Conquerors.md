@@ -6,7 +6,7 @@ The Conquerors are a group of people considered to be the "most powerful" in the
 
 ### [[Masaru Of The Winds]]
 
-### [[Nekocious Neko|Nekocious Neko :3]]
+### [[Nekocious Neko|Nekocious Neko :3]] (BOUNTY: 1,839,544,000,000,000,000,000,000,000)
 
 ### [[Personagem]]
 
@@ -18,7 +18,7 @@ The Conquerors are a group of people considered to be the "most powerful" in the
 
 ## Candidates (Can only be recruited after a Conqueror's death or decay) | **Pre-Saltman)
 
-### [[Alusia Mentha Piperita]]
+### [[Alusia Mentha Piperita]] (BOUNTY: $540,000,000,000,000,000,000,000,000)
 
 ### [[Ignatius Polanka|Ignatius Artjen Polanka]]
 
@@ -28,4 +28,4 @@ The Conquerors are a group of people considered to be the "most powerful" in the
 
 ### Pohrtori Anerid †
 
-### [[Tomoe Gervogyan|Tomoe Gervogyan Williamson Barbosa Baghdasar]] **(NO BOUNTY) | CONSIDERED TOO DANGEROUS TO BECOME A TARGET |**
+### [[Tomoe Gervogyan|Tomoe Gervogyan Williamson Barbosa Baghdasar]] (NO BOUNTY) | CONSIDERED TOO DANGEROUS TO BECOME A TARGET |
