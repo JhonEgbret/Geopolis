@@ -16,7 +16,7 @@
 > ##### Affiliation
 > - Affiliated with the [[-Space Pirate Society|S.P.S.]]
 > ##### Bounty
-> $
+> $4,839,544,000,000,000,000,000,000,000
 > ##### Occupation
 > [[Conquerors|Conqueror]] - [[NEKOUTA]] Vocalist
 > # Relationships

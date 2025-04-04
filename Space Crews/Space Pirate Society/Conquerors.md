@@ -6,7 +6,7 @@ The Conquerors are a group of people considered to be the "most powerful" in the
 
 ### [[Masaru Of The Winds]]
 
-### [[Nekocious Neko|Nekocious Neko :3]] (BOUNTY: 1,839,544,000,000,000,000,000,000,000)
+### [[Nekocious Neko|Nekocious Neko :3]] (BOUNTY: $4,839,544,000,000,000,000,000,000,000)
 
 ### [[Personagem]]
 
