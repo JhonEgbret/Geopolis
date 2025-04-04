@@ -4,7 +4,7 @@ _that goes for everyone. would you be able to do the most vile things humanity h
 
 — Alusia, on the process of assembling her new crew.
 
-Orion's Wrath (or The Orions) is one of the most infamous space pirate crews in the universe, being the main catalyst behind the 5th Universal Strike and, by association, the original impetus for the arrival of The [[Gabigool Family]] on planet [[Vostros]].
+Orion's Wrath (or The Orions) is one of the most infamous space pirate crews in the universe, being the main catalyst behind the 2nd Universal Strike and, by association, the original impetus for the arrival of The [[Gabigool Family]] on planet [[Vostros]].
 
 Before their eventual downfall, their captain, Alusia Mentha Piperita, was speculated by many to be the next member of [[Conquerors|The Conquerors]], due to her and her crew's influence on the universe and unabashed level of power and recklessness. Much of their reputation comes from their combination of determination, firepower, intelligence and plot armor being considered one of the best to have in a crew, as well as their mark being left in universal history since their rise to power, taking part in many historical events outside of [[Road To Glory|The Road to Glory]].
 

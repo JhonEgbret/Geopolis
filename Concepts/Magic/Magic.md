@@ -1,6 +1,6 @@
 " *You seem not comprehend, the power of the human spirit! Our souls face unimaginable battles out of our sight!* "
 
-— [[Personagem]] to [[Wells]], during the Seventh [[Universal Strike]].
+— [[Personagem]] to [[Wells]], during the Third [[Universal Strike]].
 
 Magic is a power born from the souls of every living thing in the universe. It is a form of energy that moves the soul and allows it to function, and it can grow bigger depending on how one trains it. Most people spend their whole lives without training their innate magical power, and therefore it is a power only known of by few.
 

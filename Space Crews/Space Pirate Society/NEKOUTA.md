@@ -9,7 +9,7 @@ They travel around the universe singing their experimental songs, alternating be
 ### [[Ponokota Ony]] **|** Keyboardist
 
 ### [[Jerojero Lambarin]] **|** Misc. Instruments
-### [[Lana Retrodus]] **|** Drummer
 ### [[Bringue Balingue]] **|** Ex-Bassist
 
+### [[Lana Retrodus]] **|** Drummer
 ### [[Jack Lowbends]] **|** Bassist
