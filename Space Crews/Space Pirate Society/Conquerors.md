@@ -1,6 +1,6 @@
 The Conquerors are a group of people considered to be the "most powerful" in the universe, either in terms of power and influence. When a person is considered a Conqueror by the laws of the [[Hunters' Reunion]], they are considered a priority to be hunted by [[Commanders|The Commanders]], as well as any and all people connected to them being either imprisoned or executed. Their bounty is also raised to the maximum price possible.
 
-## Members (Pre-Saltman | **In Order of Arrival)
+## Members (Pre-Saltman | **In Order of Arrival**)
 
 ### Person
 
@@ -16,7 +16,7 @@ The Conquerors are a group of people considered to be the "most powerful" in the
 
 ### [[Wells Ataranis]]
 
-## Candidates (Can only be recruited after a Conqueror's death or decay) | **Pre-Saltman)
+## Candidates (Can only be recruited after a Conqueror's death or decay) | **Pre-Saltman**)
 
 ### [[Alusia Mentha Piperita]] (BOUNTY: $540,000,000,000,000,000,000,000,000)
 
@@ -24,7 +24,7 @@ The Conquerors are a group of people considered to be the "most powerful" in the
 
 ### [[Narmiller Knox]]
 
-## Ex-Conquerors (**Pre-Saltman)
+## Ex-Conquerors (**Pre-Saltman**)
 
 ### Pohrtori Anerid †
 

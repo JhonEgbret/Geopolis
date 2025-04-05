@@ -6,14 +6,17 @@ They are separated into 3 different groups with a very clear hierarchy. Firstly 
 
 If the two guilds protecting NEKOUTA fail at their respective missions, the threat is handled by the band itself, a most undesirable outcome for whoever it is that decided to cross their path. The NEKOUTA Crew have never lost a battle ever since that night in Litrkan, the night that ended it all. At this point, the only people that could outmatch them is if all the other Conquerors banded together against them, and even then they would find a way to overcome them, with few losses.
 vocalist guitarist
-## Members
+## Members (**In Order of Arrival**)
 
 ### [[Nekocious Neko|Nekocious Neko :3]] | Liverdaria Catto (BOUNTY: $4,840,545,000,000,000,000,000,000,000) **|** Vocalist/Guitarist
 
 ### Onylicious | [[Ponokota Ony]] **|** Keyboardist
 
 ### The Forgotten Prince | [[Jerojero Lambarin]] **|** Misc. Instruments
-### Kingblades | [[Bringue Balingue]] **|** Ex-Bassist
 
 ### The Magician of Fate | [[Lana Retrodus]] **|** Drummer
 ### [[Jack Lowbends]] **|** Bassist
+
+## Ex-Members
+### Kingblades | [[Bringue Balingue]] **|** Ex-Bassist
+### Sad Grinot | [[Neruda Altair]] **|** Executive/Spy †
