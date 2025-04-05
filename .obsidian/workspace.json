@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Nekocious Neko.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -34,18 +34,9 @@
               "icon": "lucide-file",
               "title": "NEKOUTA"
             }
-          },
-          {
-            "id": "1f76761640999706",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,34 +195,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b35b61671aad7c8",
+  "active": "a3a3c98334e2344f",
   "lastOpenFiles": [
-    "Solar Systems/Panko/Panko Planets/Halrebar/Species/Aeluningen.md",
     "Nekocious Neko.md",
+    "Narmiller Knox.md",
+    "Nakamura Atatsun.md",
+    "Nagaiji Tsurugi.md",
+    "GEOPOLIS CENTRAL.md",
+    "Lord Noir.md",
+    "Macellarius.md",
+    "MC Amblingo.md",
+    "Mr. Azure.md",
     "Onmoy.md",
+    "Personagem.md",
+    "Solar Systems/Panko/Panko Planets/Halrebar/Species/Aeluningen.md",
     "Space Crews/Space Pirate Society/Conquerors.md",
     "Space Crews/Space Pirate Society/Orion's Wrath.md",
     "Alusia Mentha Piperita.md",
     "Space Crews/Space Pirate Society/NEKOUTA.md",
     "Solar Systems/Panko/Panko Planets/Halrebar/Halrebar.md",
     "Conqueror.md",
-    "Lord Noir.md",
     "UNIVERSAL ERAS/-Events (GENERAL)/Universal Strike.md",
     "Concepts/Magic/Magic.md",
-    "GEOPOLIS CENTRAL.md",
     "Space Crews/Interstellar Government/Commanders.md",
     "Planets/Lamiace/Lamiace.md",
     "Planets/Oitis/Oitis.md",
     "Solar Systems/Road To Glory/Road To Glory.md",
     "Solar Systems/Panko/Panko Planets/Karn/Karn.md",
-    "Personagem.md",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/Fallscure Era/Fallscure Era Events/Fascure Era Wars/War of The Josuns.md",
-    "Space Crews/Interstellar Government/Governmental Protection Community.md",
-    "Space Crews/Interstellar Government/-Interstellar Government.md",
-    "Space Crews/Space Pirate Society/Donnas.md",
-    "Space Crews/Space Pirate Society/-Space Pirate Society.md",
-    "Chiuanna.md",
-    "Al Borges.md",
     "UNIVERSAL ERAS/Untitled",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE B/Crews/Royal Families - SIDE B",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE B/Species/Flora",
