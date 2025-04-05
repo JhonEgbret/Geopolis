@@ -13,8 +13,10 @@
 > 5'2'' - 157 cm
 > ##### Affiliation
 > - Affiliated with the [[-Space Pirate Society|S.P.S.]]
+> ##### Bounty
+> $540,000,000,000,000,000,000,000,000
 > ##### Occupation
-> None - Ex-Captain of [[Orion's Wrath]]
+> None - Captain of [[Orion's Wrath]]
 > # Relationships
 > - Unknown parents
 > - Merangue Saccharum (Idol/Inspiration)
