@@ -35,8 +35,7 @@
               "title": "Alusia Mentha Piperita"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4006d2dc2d62faba",
+  "active": "2b35b61671aad7c8",
   "lastOpenFiles": [
-    "Nekocious Neko.md",
     "Alusia Mentha Piperita.md",
+    "Nekocious Neko.md",
     "Space Crews/Space Pirate Society/Orion's Wrath.md",
     "Space Crews/Space Pirate Society/NEKOUTA.md",
     "Amarill Ciccer.md",
