@@ -35,4 +35,4 @@ Liverdaria Catto, commonly known as her alias "Nekocious Neko :3", is the founde
 
 Many know her as the devil herself, although the few that have ever gotten to know her know of her true story and suffering, a long-winded and complex tale of betrayal, love and pain. Those few are sympathetic towards her and her group, knowing her as the one who cheated death at several occasions, broke out of the largest and most evil superprison in the known universe, gotten married and had all she ever fought for including her [[NEKOUTA|Fighters' Guild]], Crew, [[AD]] and her husband and child, lost in the span of minutes during the War of Wars. 
 
-Given to an unknown family living at the planet of Halrebar
+Given to an unknown family living at the planet of Halrebar, she spent most of her childhood years working towards her 
