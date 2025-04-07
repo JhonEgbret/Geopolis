@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nekocious Neko.md",
+                "file": "Concepts/Miscellaneous/Space Travel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nekocious Neko"
+              "title": "Space Travel"
             }
           },
           {
@@ -196,8 +196,11 @@
   },
   "active": "2b35b61671aad7c8",
   "lastOpenFiles": [
-    "Alusia Mentha Piperita.md",
+    "Concepts/Miscellaneous/Races.md",
+    "Concepts/Miscellaneous/Space Travel.md",
     "Nekocious Neko.md",
+    "Concepts/Miscellaneous",
+    "Alusia Mentha Piperita.md",
     "Space Crews/Space Pirate Society/Orion's Wrath.md",
     "Space Crews/Space Pirate Society/NEKOUTA.md",
     "Amarill Ciccer.md",
@@ -220,8 +223,6 @@
     "Solar Systems/Panko/Panko Planets/Halrebar/Species/Aeluningen.md",
     "Solar Systems/Panko/Panko Planets/Halrebar/Halrebar.md",
     "Conqueror.md",
-    "UNIVERSAL ERAS/-Events (GENERAL)/Universal Strike.md",
-    "Concepts/Magic/Magic.md",
     "UNIVERSAL ERAS/Untitled",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE B/Crews/Royal Families - SIDE B",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE B/Species/Flora",
@@ -231,7 +232,6 @@
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE B/Nations/Upachevy",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE B/Nations/Republic of Garfell",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE B/Nations/Sibillara",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE B/Nations/Ugornia",
     "Images/Flags/dogland flag.png",
     "Images/Flags/carcino flag.png",
     "Images/Flags/kalt suae flag.png",
