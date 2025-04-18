@@ -36,3 +36,14 @@ Liverdaria Catto, commonly known as her alias "Nekocious Neko :3", is the founde
 Many know her as the devil herself, although the few that have ever gotten to know her know of her true story, a long-winded and complex tale of betrayal, love and pain. Those few are sympathetic towards her and her group, knowing her as the one who cheated death at several occasions, broke out of the largest and most evil superprison in the known universe, gotten married and had all she ever fought for lost in the span of minutes during the War of Wars. 
 
 Given to an unknown family living at the planet of Halrebar, she spent most of her childhood years working towards her 
+
+## BACKSTORY
+##
+- Peasant childhood at the planet of Halrebar --> Shitty stepfamily, abusive
+- Friendship with street kids -->Encounter with the post-cun band "Emperor" during their tour, wherein their guitarist gives her one of his prized Guitars. Love for music develops
+- Heist at Abraxis goes wrong --> Friends are killed --> She encounters the Interstellar Government Commander Tokillius Relvashin
+- Escape from Halrebar --> Wounded crashland at the moon of Tephades --> Destruction of Guitar
+- Fateful encounter with Ponokota Ony during her graduation personal trip --> Travels together
+- Stay at the music shop of Semperho --> First heist
+- First encounter with the Interstellar Government as enemies --> Officer by the name of "Waton"
+- Defeat --> First classified as a Space Pirate (Bounty of $400, at 13)
