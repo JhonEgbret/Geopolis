@@ -50,7 +50,16 @@ Given to an unknown family living at the planet of Halrebar, she spent most of h
 - First encounter with the Interstellar Government as enemies --> Officer by the name of "[[Waton]]"
 - Defeat --> First classified as a Space Pirate (Bounty of $400, at 13)
 - Separation from Ony --> Training at the moon of Satellaria by herself, learning magic for the first time.
-## 2 MONTHS SKIP - TLDR
+## 2 YEARS SKIP - TLDR
 - Halrebar poisoning itself - Hate against Aeluningen at an all time high
 - Nekocious develops the Cattarsis Techniques
-- Spells learned: Caruda (Tail Rankyaku), Shendaw (Gamble-Type, Body Control), Gundajus (Dark Energy Release), Semaluh (Hiss, Paralyze), Kanopis (Gamble-Type, Flower-Type), Gennai (Last Resort Spell, Incredibly Dangerous, Cuts own tail off with claws and with cursed pain summons Black Magic spell San)
+- Spells learned: Caruda (Tail Rankyaku), Shendaw (Gamble-Type, Body Control), Gundajus (Dark Energy Release), Semaluh (Hiss, Paralyze), Kanopis (Gamble-Type, Flower-Type), Gennai (Last Resort Spell, Incredibly Dangerous, Cuts own tail off with claws and with cursed pain summons Black Magic spell ***Sanai**,* with 50% chance of making either the opponent or user bleed from every orifice in an incurable and painful mess until ***Soul Death***)
+## 1748
+- Small Spaceship (Model TI-10 C-CLASS) obtained from dumb tourist
+- Exit from Satellaria after extensive training --> Travel to Ony, who now has a job in Asyo
+- Break from cubicle -> Escape together -> Reforming of their friendship -> They return to the Onylicious
+- Nekocious is reported to be back  - No one cares
+- Nekocious meets her twin - Nagoshi Catto -> Researcher at Limpex
+- Nagoshi reports her to the authorities -> Her bounty is increased to $650
+- Lana Retrodus is saved from Limpex's unethical scientific experiments by Ony -> She is escorted to the Interstellar Government A5 Space Station for reeducation and to be recognized as an official citizen.
+- 
