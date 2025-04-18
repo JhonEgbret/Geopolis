@@ -53,7 +53,7 @@ Given to an unknown family living at the planet of Halrebar, she spent most of h
 - Defeat --> First classified as a Space Pirate (Bounty of $400, at 13)
 - Separation from Ony --> Training at the moon of Satellaria by herself, learning magic for the first time.
 ## 2 YEARS SKIP - TLDR
-- Halrebar poisoning itself - Hate against Aeluningen at an all time high
+- Halrebar poisoning itself -> Hate against Aeluningen at an all time high
 - Nekocious develops the Cattarsis Techniques
 - Spells learned: Caruda (Tail Rankyaku), Shendaw (Gamble-Type, Body Control), Gundajus (Dark Energy Release), Semaluh (Hiss, Paralyze), Kanopis (Gamble-Type, Flower-Type), Gennai (Last Resort Spell, Incredibly Dangerous, Cuts own tail off with claws and with cursed pain summons Black Magic spell ***Sanai**,* with 50% chance of making either the opponent or user bleed from every orifice in an incurable and painful mess until ***Soul Death***)
 ## 1748
