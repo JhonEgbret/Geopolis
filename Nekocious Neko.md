@@ -37,7 +37,9 @@ Many know her as the devil herself, although the few that have ever gotten to kn
 
 Given to an unknown family living at the planet of Halrebar, she spent most of her childhood years working towards her 
 
-## BACKSTORY
+## Backstory
+
+# EARLY NEKOUTA
 ## 1733 - 1751
 - Peasant childhood at the planet of [[Halrebar ]]--> Shitty stepfamily, abusive
 - Friendship with street kids -->Encounter with the post-cun band "[[Emperor]]" during their tour, wherein their guitarist gives her one of his prized Guitars. Love for music develops
@@ -62,4 +64,10 @@ Given to an unknown family living at the planet of Halrebar, she spent most of h
 - Nekocious meets her twin - Nagoshi Catto -> Researcher at Limpex
 - Nagoshi reports her to the authorities -> Her bounty is increased to $650
 - Lana Retrodus is saved from Limpex's unethical scientific experiments by Ony -> She is escorted to the Interstellar Government A5 Space Station for reeducation and to be recognized as an official citizen.
+- NEKOCIOUS BIRTHDAY BASH --> Heist at the Fortress of Fudaheim in Arfrag
+- Birthday party at the Lost Moon of Cartakali --> Sudden re-encounter with Tokillius, he is... proud. -> He lets them go
+- Stop at the station of XLI -> Crisis of faith -> They continue.
+- Stop at the music studio in Pirnoli -> First recording sessions, "just for fun".
+- They land on a name. NEKOUTA. ---> Their first album is published, titled "Seed Of Hate".
+- Search for a publisher begins --> Nekocious begins torching every recording agency that does not accept their music
 - 
