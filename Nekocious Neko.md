@@ -38,12 +38,19 @@ Many know her as the devil herself, although the few that have ever gotten to kn
 Given to an unknown family living at the planet of Halrebar, she spent most of her childhood years working towards her 
 
 ## BACKSTORY
-##
-- Peasant childhood at the planet of Halrebar --> Shitty stepfamily, abusive
-- Friendship with street kids -->Encounter with the post-cun band "Emperor" during their tour, wherein their guitarist gives her one of his prized Guitars. Love for music develops
+## 1733 - 1751
+- Peasant childhood at the planet of [[Halrebar ]]--> Shitty stepfamily, abusive
+- Friendship with street kids -->Encounter with the post-cun band "[[Emperor]]" during their tour, wherein their guitarist gives her one of his prized Guitars. Love for music develops
+## 1745
 - Heist at Abraxis goes wrong --> Friends are killed --> She encounters the Interstellar Government Commander Tokillius Relvashin
-- Escape from Halrebar --> Wounded crashland at the moon of Tephades --> Destruction of Guitar
+- Escape from Halrebar --> Wounded crash-land at the moon of [[Tephades]] --> Destruction of Guitar
 - Fateful encounter with Ponokota Ony during her graduation personal trip --> Travels together
-- Stay at the music shop of Semperho --> First heist
-- First encounter with the Interstellar Government as enemies --> Officer by the name of "Waton"
+## 1746
+- Stay at the music shop of [[Semperho]] --> First heist
+- First encounter with the Interstellar Government as enemies --> Officer by the name of "[[Waton]]"
 - Defeat --> First classified as a Space Pirate (Bounty of $400, at 13)
+- Separation from Ony --> Training at the moon of Satellaria by herself, learning magic for the first time.
+## 2 MONTHS SKIP - TLDR
+- Halrebar poisoning itself - Hate against Aeluningen at an all time high
+- Nekocious develops the Cattarsis Techniques
+- Spells learned: Caruda (Tail Rankyaku), Shendaw (Gamble-Type, Body Control), Gundajus (Dark Energy Release), Semaluh (Hiss, Paralyze), Kanopis (Gamble-Type, Flower-Type), Gennai (Last Resort Spell, Incredibly Dangerous, Cuts own tail off with claws and with cursed pain summons Black Magic spell San)
