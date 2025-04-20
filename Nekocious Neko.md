@@ -85,4 +85,4 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 #### - HEIST IS ON THE COMPANY BUILDING OF LIMPEX, AT THE MOON OF AFRELLIS
 #### - OBJECTIVE IS TO CAPTURE THEIR LEADER
 
-- Partnered with the terrorist group "Zokan", the heist begins discretely at midnight
+- Partnered with the terrorist group "[[Zokan]]", the heist begins discretely at midnight
