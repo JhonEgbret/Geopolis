@@ -22,6 +22,7 @@
 > # Relationships
 > - Unknown parents †
 > - Unknown step-parents † (Hates)
+> - [[Tokillius Relvashin Aquir]] (Respects)
 > - [[Ponokota Ony]] (Friend/NEKOUTA Keyboardist)
 > - [[Nagoshi Catto]] † (Brother)
 > - [[Jerojero Lambarin]] (Friend/NEKOUTA Misc. Instruments)
@@ -51,7 +52,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Stay at the music shop of [[Semperho]] --> First heist
 - First encounter with the Interstellar Government as enemies --> Officer by the name of "[[Waton]]"
 - Defeat --> First classified as a Space Pirate (Bounty of $400, at 13)
-- Separation from Ony --> Training at the moon of Satellaria by herself, learning magic for the first time.
+- Separation from Ony --> Training at the moon of [[Satellaria]] by herself, learning magic for the first time.
 ## 2 YEARS SKIP - TLDR
 - Halrebar poisoning itself -> Hate against Aeluningen at an all time high
 - Nekocious develops the [[Cattarsis]] Techniques
@@ -62,19 +63,26 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Break from cubicle -> Escape together -> Reforming of their friendship -> They return to the Onylicious
 - Nekocious is reported to be back  - No one cares
 - Nekocious meets her twin - Nagoshi Catto -> Researcher at [[Limpex]]
-- Nagoshi reports her to the authorities -> Her bounty is increased to $650
-- Lana Retrodus is saved from Limpex's unethical scientific experiments by Ony -> She is escorted to the Interstellar Government A5 Space Station for reeducation and to be recognized as an official citizen.
+- Nagoshi notices NEKOUTA scouting out the place, reports her to the authorities -> Her bounty is increased to $650
+- Lana Retrodus is saved from Limpex's unethical scientific experiments by Ony -> She is escorted to the [[Interstellar Government A5 Space Station]] for reeducation and to be recognized as an official citizen.
 - NEKOCIOUS BIRTHDAY BASH --> Heist at the Fortress of [[Fudaheim]] in Arfrag
-- Birthday party at the Lost Moon of Cartakali --> Sudden re-encounter with Tokillius, he is... proud. -> He lets them go
-- Stop at the station of XLI -> Crisis of faith -> They continue.
-- Stop at the music studio in Pirnoli -> First recording sessions, "just for fun".
-- They land on a name. NEKOUTA. ---> Their first album is published, titled "Seed Of Hate".
+- Birthday party at the Lost Moon of [[Cartakali]] --> Sudden re-encounter with Tokillius, he is... proud. -> He lets them go
+- Stop at the station of [[XLI]] -> Crisis of faith -> They continue.
+- Stop at the music studio in [[Pirnoli]] -> First recording sessions, "just for fun".
+- They land on a name. NEKOUTA. ---> Their first album is published, titled "[[Seed Of Hate]]".
 - Search for a publisher begins --> Nekocious begins torching every recording agency that does not accept their music
-- Mass production of bootleg CC's - Album reception high
+- Mass production of bootleg [[CC's]] - Album reception high
 - Post-cun genre is revitalized, NEKOUTA reaches top charts. "They're criminals, but they make good music."
 - Nekocious is considered an [[Influential]]. -> She has the money to live clean, but her mission is not over.
-- Neko recruits Jerojero Lambarin, at the planet of Aligunya. A man with a dream much alike hers.
+- Neko recruits Jerojero Lambarin, at the planet of [[Aligunya]]. A man with a dream much alike hers.
 - Jerojero proves himself invaluable --> Preparations for Album 2 begin
-- NEKOUTA can no longer be in public without being persecuted - Their life as official citizens are **over**. They first realize this at the planet of Af-Uyan.
+## 1749
+- NEKOUTA can no longer be in public without being persecuted - Their life as official citizens are **over**. They first realize this at the planet of [[Af-Uyan]].
 - Jerojero is used by them to enter planets discreetly, as the others do not know of his existence --> Their plan very shortly backfires, Jerojero does not specify why he was recognized.
-- The Onylicious is upgraded to a Class-A ship at the Craftsmen's Station of Mecina
+- The Onylicious is upgraded to a Class-A ship at the Craftsmen's Station of [[Mecina]]
+- The [[Nekocious Fighters' Guild]] is formed and amasses a total of 40 capable fighters - Their preparations are complete.
+### **- THE HEIST OF LIMPEX -**
+#### - HEIST IS ON THE COMPANY BUILDING OF LIMPEX, AT THE MOON OF AFRELLIS
+#### - OBJECTIVE IS TO CAPTURE THEIR LEADER
+
+- Partnered with the terrorist group "Zokan", the heist begins discretely at midnight
