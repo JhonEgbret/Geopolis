@@ -35,16 +35,16 @@ Liverdaria Catto, commonly known as her alias "Nekocious Neko :3", is the founde
 
 Many know her as the devil herself, although the few that have ever gotten to know her know of her true story, a long-winded and complex tale of betrayal, love and pain. Those few are sympathetic towards her and her group, knowing her as the one who cheated death at several occasions, broke out of the largest and most evil superprison in the known universe, gotten married and had all she ever fought for lost in the span of minutes during the War of Wars. 
 
-Given to an unknown family living at the planet of Halrebar, she spent most of her childhood years working towards her 
+Given to an unknown family living at the planet of Halrebar and separated from her brother Nagoshi, herself and him are the last remaining members of the Aeluningen Species. 
 
 ## Backstory
 
 # EARLY NEKOUTA
 ## 1733 - 1751
 - Peasant childhood at the planet of [[Halrebar ]]--> Shitty stepfamily, abusive
-- Friendship with street kids -->Encounter with the post-cun band "[[Emperor]]" during their tour, wherein their guitarist gives her one of his prized Guitars. Love for music develops
+- Friendship with street kids --> Encounter with the post-cun band "[[Emperor]]" during their tour, wherein their guitarist gives her one of his prized Guitars. Love for music develops
 ## 1745
-- Heist at Abraxis goes wrong --> Friends are killed --> She encounters the Interstellar Government Commander Tokillius Relvashin
+- Heist at [[Abraxis]] goes wrong --> Friends are killed --> She encounters the Interstellar Government Commander Tokillius Relvashin
 - Escape from Halrebar --> Wounded crash-land at the moon of [[Tephades]] --> Destruction of Guitar
 - Fateful encounter with Ponokota Ony during her graduation personal trip --> Travels together
 ## 1746
@@ -54,20 +54,27 @@ Given to an unknown family living at the planet of Halrebar, she spent most of h
 - Separation from Ony --> Training at the moon of Satellaria by herself, learning magic for the first time.
 ## 2 YEARS SKIP - TLDR
 - Halrebar poisoning itself -> Hate against Aeluningen at an all time high
-- Nekocious develops the Cattarsis Techniques
+- Nekocious develops the [[Cattarsis]] Techniques
 - Spells learned: Caruda (Tail Rankyaku), Shendaw (Gamble-Type, Body Control), Gundajus (Dark Energy Release), Semaluh (Hiss, Paralyze), Kanopis (Gamble-Type, Flower-Type), Gennai (Last Resort Spell, Incredibly Dangerous, Cuts own tail off with claws and with cursed pain summons Black Magic spell ***Sanai**,* with 50% chance of making either the opponent or user bleed from every orifice in an incurable and painful mess until ***Soul Death***)
 ## 1748
 - Small Spaceship (Model TI-10 C-CLASS) obtained from dumb tourist
-- Exit from Satellaria after extensive training --> Travel to Ony, who now has a job in Asyo
+- Exit from Satellaria after extensive training --> Travel to Ony, who now has a job in [[Asyo]]
 - Break from cubicle -> Escape together -> Reforming of their friendship -> They return to the Onylicious
 - Nekocious is reported to be back  - No one cares
-- Nekocious meets her twin - Nagoshi Catto -> Researcher at Limpex
+- Nekocious meets her twin - Nagoshi Catto -> Researcher at [[Limpex]]
 - Nagoshi reports her to the authorities -> Her bounty is increased to $650
 - Lana Retrodus is saved from Limpex's unethical scientific experiments by Ony -> She is escorted to the Interstellar Government A5 Space Station for reeducation and to be recognized as an official citizen.
-- NEKOCIOUS BIRTHDAY BASH --> Heist at the Fortress of Fudaheim in Arfrag
+- NEKOCIOUS BIRTHDAY BASH --> Heist at the Fortress of [[Fudaheim]] in Arfrag
 - Birthday party at the Lost Moon of Cartakali --> Sudden re-encounter with Tokillius, he is... proud. -> He lets them go
 - Stop at the station of XLI -> Crisis of faith -> They continue.
 - Stop at the music studio in Pirnoli -> First recording sessions, "just for fun".
 - They land on a name. NEKOUTA. ---> Their first album is published, titled "Seed Of Hate".
 - Search for a publisher begins --> Nekocious begins torching every recording agency that does not accept their music
-- 
+- Mass production of bootleg CC's - Album reception high
+- Post-cun genre is revitalized, NEKOUTA reaches top charts. "They're criminals, but they make good music."
+- Nekocious is considered an [[Influential]]. -> She has the money to live clean, but her mission is not over.
+- Neko recruits Jerojero Lambarin, at the planet of Aligunya. A man with a dream much alike hers.
+- Jerojero proves himself invaluable --> Preparations for Album 2 begin
+- NEKOUTA can no longer be in public without being persecuted - Their life as official citizens are **over**. They first realize this at the planet of Af-Uyan.
+- Jerojero is used by them to enter planets discreetly, as the others do not know of his existence --> Their plan very shortly backfires, Jerojero does not specify why he was recognized.
+- The Onylicious is upgraded to a Class-A ship at the Craftsmen's Station of Mecina
