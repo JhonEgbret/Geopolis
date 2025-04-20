@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saltman (Story).md",
+                "file": "Saltman (Character).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Saltman (Story)"
+              "title": "Saltman (Character)"
             }
           },
           {
@@ -196,6 +196,7 @@
   },
   "active": "2b35b61671aad7c8",
   "lastOpenFiles": [
+    "Saltman (Story).md",
     "Saltman (Character).md",
     "Nekocious Neko.md",
     "README.md",
@@ -213,7 +214,6 @@
     "Concepts/Miscellaneous/Races.md",
     "Concepts/Miscellaneous",
     "Amarill Ciccer.md",
-    "Saltman (Story).md",
     "Narmiller Knox.md",
     "Nakamura Atatsun.md",
     "Nagaiji Tsurugi.md",
