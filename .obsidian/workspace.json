@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "4edb2230d5146b23",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
             "id": "4006d2dc2d62faba",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Commanders"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +207,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b35b61671aad7c8",
+  "active": "4edb2230d5146b23",
   "lastOpenFiles": [
+    "Macellarius.md",
     "Saltman (Character).md",
     "README.md",
     "Nekocious Neko.md",
@@ -220,7 +234,6 @@
     "Nagaiji Tsurugi.md",
     "GEOPOLIS CENTRAL.md",
     "Lord Noir.md",
-    "Macellarius.md",
     "MC Amblingo.md",
     "Mr. Azure.md",
     "UNIVERSAL ERAS/Untitled",
