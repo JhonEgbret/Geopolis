@@ -95,4 +95,4 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Nekocious Fighters Guild and Zokan are wiped out -> Teri is killed in action, shot by over 20 soldiers repeatedly, killed the same way she lived, carelessly.
 - Nekocious utilizes full skillset to stop Al --> The president is captured by NEKOUTA
 - She flees on the Onylicious alongside her crew
-- The Onylicious suffers heavy damage --> Chased for over 6 hours 
+- The Onylicious suffers heavy damage --> 
