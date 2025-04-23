@@ -86,3 +86,13 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 #### - OBJECTIVE IS TO CAPTURE THEIR LEADER
 
 - Partnered with the terrorist group "[[Zokan]]", the heist begins discretely at midnight
+- Their leader, Teri, enters the building along with Nekocious
+- Fate plays its hand. Nagoshi, who decided to take up the night shift, finds Nekocious and tips her off to the authorities in secret --> Commander Al Borges is sent.
+- Nekocious Fighters Guild sent in --> Interstellar Government forces arrive
+- Nekocious draws first blood in combat 
+- The president is captured by Teri
+- Their attempt to escape is halted by Al alongside 30 other trained officers. Limpex is a company holding highly confidential governmental secrets, and their president is one of the main investors behind the Interstellar Government.
+- Nekocious Fighters Guild and Zokan are wiped out -> Teri is killed in action, shot by over 20 soldiers repeatedly, killed the same way she lived, carelessly.
+- Nekocious utilizes full skillset to stop Al --> The president is captured by NEKOUTA
+- She flees on the Onylicious alongside her crew
+- The Onylicious suffers heavy damage --> Chased for over 6 hours 

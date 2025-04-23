@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macellarius.md",
+                "file": "Nekocious Neko.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Macellarius"
-            }
-          },
-          {
-            "id": "4edb2230d5146b23",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "Nekocious Neko"
             }
           },
           {
@@ -47,8 +35,7 @@
               "title": "Commanders"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4edb2230d5146b23",
+  "active": "2b35b61671aad7c8",
   "lastOpenFiles": [
     "Macellarius.md",
     "Saltman (Character).md",
