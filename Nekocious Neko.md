@@ -79,7 +79,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 ## 1749
 - NEKOUTA can no longer be in public without being persecuted - Their life as official citizens are **over**. They first realize this at the planet of [[Af-Uyan]].
 - Jerojero is used by them to enter planets discreetly, as the others do not know of his existence --> Their plan very shortly backfires, Jerojero does not specify why he was recognized.
-- The Onylicious is upgraded to a Class-A ship at the Craftsmen's Station of [[Mecina]]
+- The Onylicious is upgraded to a Class-B ship at the Craftsmen's Station of [[Mecina]]
 - The [[Nekocious Fighters' Guild]] is formed and amasses a total of 40 capable fighters - Their preparations are complete.
 ### **- THE HEIST OF LIMPEX -**
 #### - HEIST IS ON THE COMPANY BUILDING OF LIMPEX, AT THE MOON OF AFRELLIS
@@ -99,4 +99,19 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Encounter with General Kun Nung -> Longest battle of Early NEKOUTA history, taking over 2 hours to finish. 
 - Nekocious is the victor, but she finally realizes her weakness, barely being able to protect her crew and their allied partners.
 - The Onylicious breaks down --> They are forced to communicate with the Interstellar Government and steal their ship
-- Travel to Mecina
+- Travel to Mecina --> They hire Mechanic Ortino to help tow their ship --> Return to Lugili
+- The Onylicious was taken.
+### **- END OF THE HEIST OF LIMPEX -**
+#### - TOTAL CASUALTIES: 
+##### - CIVILIAN: 0
+##### - ENEMY: 451
+##### - ALLY: 93
+#### - TOTAL TIME: 9 HOURS
+#### - TOTAL BOUNTY: NEKOCIOUS: $6,544
+####                               ZOKAN (TOTAL): -$14,788
+- Nekouta in hiding alongside the President of Limpex
+- Recording sessions for Album 2 begin at Mecina
+- Change in style due to influence from Kinrin - Name: No Place in The Snow
+- Halfway through its productin, Nekocious receives the news that her species has been considered extinct by the Interstellar Government, as she has been marked as dead, and her brother as well.
+- A profound sadness and dread strike NEKOUTA in its core
+- The album is finished 
