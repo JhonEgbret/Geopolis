@@ -85,8 +85,8 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 #### - HEIST IS ON THE COMPANY BUILDING OF LIMPEX, AT THE MOON OF AFRELLIS
 #### - OBJECTIVE IS TO CAPTURE THEIR LEADER
 
-- Partnered with the terrorist group "[[Zokan]]", the heist begins discretely at midnight
-- Their leader, Teri, enters the building along with Nekocious
+- Partnered with the terrorist group "[[Zokan]]", the operation begins discretely at midnight
+- The mysterious rookie leader of Zokan, [[Teri]], enters the building along with Nekocious
 - Fate plays its hand. Nagoshi, who decided to take up the night shift, finds Nekocious and tips her off to the authorities in secret --> Commander Al Borges is sent.
 - Nekocious Fighters Guild sent in --> Interstellar Government forces arrive
 - Nekocious draws first blood in combat 
@@ -95,4 +95,8 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Nekocious Fighters Guild and Zokan are wiped out -> Teri is killed in action, shot by over 20 soldiers repeatedly, killed the same way she lived, carelessly.
 - Nekocious utilizes full skillset to stop Al --> The president is captured by NEKOUTA
 - She flees on the Onylicious alongside her crew
-- The Onylicious suffers heavy damage --> 
+- The Onylicious suffers heavy damage --> It lands at the moon of Lugili
+- Encounter with General Kun Nung -> Longest battle of Early NEKOUTA history, taking over 2 hours to finish. 
+- Nekocious is the victor, but she finally realizes her weakness, barely being able to protect her crew and their allied partners.
+- The Onylicious breaks down --> They are forced to communicate with the Interstellar Government and steal their ship
+- Travel to Mecina
