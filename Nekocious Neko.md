@@ -107,7 +107,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 ##### - ENEMY: 451
 ##### - ALLY: 93
 #### - TOTAL TIME: 9 HOURS
-#### - TOTAL BOUNTY: NEKOCIOUS: $6,544
+#### - TOTAL BOUNTY: NEKOCIOUS:        $6,544
 ####                               ZOKAN (TOTAL): -$14,788
 - Nekouta in hiding alongside the President of Limpex
 - Recording sessions for Album 2 begin at Mecina
