@@ -114,4 +114,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Change in style due to influence from Kinrin - Name: No Place in The Snow
 - Halfway through its productin, Nekocious receives the news that her species has been considered extinct by the Interstellar Government, as she has been marked as dead, and her brother as well.
 - A profound sadness and dread strike NEKOUTA in its core
-- The album is finished 
+- The album is finished , marking the end of Early NEKOUTA
+- It is published independently, with the music being recorded in over 6,000 CC's simultaneously then sold
+- The world rapidly takes notice, Nekocious is alive, at the time called Livertania.
+- NEKOCIOUS hides a carto number within the CC Case for negotiations -> It quickly becomes flooded
