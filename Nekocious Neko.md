@@ -165,4 +165,13 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 ### **- THE ROYAL RAID OF TCHALDAQ -**
 #### - RAID IS ON THE CASTLE OF PALAGNA OWNED BY THE LAMBARIN ROYAL FAMILY, AT THE PLANET OF TCHALDAQ-NABIR
 #### - OBJECTIVE IS TO RETRIEVE THEIR KING
-- At nightfall the Surveillance Drones are deployed on the planet
+- At nightfall the Surveillance Drones are deployed on the planet from above
+- The Onylicious lowers itself towards the atmosphere, with the Miglia quickly following behind
+- The Drones map out the entrances and exits of the Castle, as well as any vulnerabilities on its walls
+- The Miglia lands on the Sunken Earth, with 5 of the Fighters Guild soldiers getting near the castle walls and planting explosives on the soil -> They are set to activate in 8 minutes
+- Fighters' Guild reunites near the walls -> They prepare their weapons and pray for the best.
+- Commander Waton utilizes Cartonication to order the troops. Ony is scared, but tells them to stay strong and avoid unneeded casualties
+- Jerojero is kept on a small, guarded room when he is not in the throne, inside the Castle. Their Queen is on her deathbed, being protected by The Royal Guard.
+- The explosives go off and the Guild rushes into the castle, making their way to the Royal Living Quarters --> The enemies are taken aback and killed in waves and waves by the Fighters' Guild, going against Ony's orders. She feels sick to her stomach.
+- Kingdom fights back -> More guards begin to come out -> Fighters' Guild begins taking heavy losses
+- Jerojero is found, and Ony is 
