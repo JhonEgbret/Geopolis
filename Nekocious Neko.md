@@ -152,7 +152,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Ony arrives at Tchaldaq-Nabir --> She heads to the Royal Palace and demands to speak with their king --> Lambarin lets her in, to the Royal Guards' disapproval, and they converse as the two sit together on the stairway leading to his throne.
 - "I can't leave, Ony. I never wanted this, but you have to understand, there are forces way more powerful than the two of us within this castle alone." Jero says. 
 - "Then I'll have to be even stronger. And get more people." Ony determinedly replies, then jumps out of her seat and begins walking in circles.
-- Shocked at her boldness, Lambarin decides to explain the structure of the castle. He is being protected by The [[Royal Guard of Palagna]], 3 competent and near-immortal leaders who have devoted their lives to the Lambarin Royal Family's life. Under them are the trained soldiers of [[Palagna Castle]], over 8,000 men. Then above all is Queen Vanabara, who has stepped down from her role, but still controls everything in the shadows. She has ties to other Royal Families across the Universe, and can call Commanders to the castle at the lift of a finger.
+- Shocked at her boldness, Lambarin decides to explain the structure of the castle. He is being protected by The [[Queen's Guards]], 3 competent and near-immortal leaders who have devoted their lives to the Lambarin Royal Family's life. Under them are the trained soldiers of [[Palagna Castle]], over 8,000 men. Then above all is Queen Vanabara, who has stepped down from her role, but still controls everything in the shadows. She has ties to other Royal Families across the Universe, and can call Commanders to the castle at the lift of a finger.
 - "I'm not even going to ask, as I know you're now determined to go. But be careful, please. Please, Ony." Lambarin says, taking one last look at her.
 - "Yeah. Yeah... When this is all done we'll be making music with Nekocious again, and I'll pick the genre this time!" Ony wittingly answers, before turning her back to him and walking away.
 - Ony begins preparations in Mecina for "The [[Royal Raid of Tchaldaq]]" --> She reassembles the Nekocious Fighters Guild, and obtains a Class-C Miglia Ship for transportation. The Onylicious is used only for the 6 most powerful of the Fighters Guild.
@@ -174,4 +174,14 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Jerojero is kept on a small, guarded room when he is not in the throne, inside the Castle. Their Queen is on her deathbed, being protected by The Royal Guard.
 - The explosives go off and the Guild rushes into the castle, making their way to the Royal Living Quarters --> The enemies are taken aback and killed in waves and waves by the Fighters' Guild, going against Ony's orders. She feels sick to her stomach.
 - Kingdom fights back -> More guards begin to come out -> Fighters' Guild begins taking heavy losses
-- Jerojero is found, and Ony is 
+- Jerojero is found, and Waton is notified, but the Fighters' Guild quickly begins to fall before successful recovery
+- Eventually, battle stagnates with even losses -> The Queen's Guards are sent in to even the odds -> Destruction. Massive losses. Panic.
+- Ony realizes her failure, and goes into the Castle alongside the strongest members of the Fighters Guild, and Commander Waton.
+- The Queen's Guards knows Magic -> They brutalize what is left of the Fighters Guild.
+- Ony and the remains of the Fighters Guild are stopped by the Queen's Guards -> Ony witnesses true despair at their hands.
+- She calls Kinrin for backup and is forced to draw first blood. Ony is now one of "them".
+- As Kinrin arrives on the scene of the battle, The Queen's Guards (Salamar, Rinath, Dominic) realize the true scale of the attack -> Queen Vanabara calls the Interstellar Government. Commander Sengano Danki is on his way.
+- Ony finds Jerojero and retrieves him. "Told you I'd do it, dummy." Ony says with a smirk, trying to hide her tears. 
+- "We're not out of this yet, Nyny." Lambarin says, concerned. 
+- Before they can leave the Castle Grounds they are intercepted by Sengano -> The Fighters Guild has fallen and the Queen's Guards are picking off who's left. -> Before Sengano can strike, they are protected by Mathias. He looks at the two with the look of a concerned parent. "Just what have you two done."
+- The Interstellar Government tries to take the Onylicious, thus revealing the Security Measures Ony had implemented
