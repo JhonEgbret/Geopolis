@@ -60,7 +60,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Nekocious develops the [[Cattarsis]] Techniques
 - Spells learned: Caruda (Tail Rankyaku), Shendaw (Gamble-Type, Body Control), Gundajus (Dark Energy Release), Semaluh (Hiss, Paralyze), Kanopis (Gamble-Type, Flower-Type), Gennai (Last Resort Spell, Incredibly Dangerous, Cuts own tail off with claws and with cursed pain summons Black Magic spell ***Sanai**,* with 50% chance of making either the opponent or user bleed from every orifice in an incurable and painful mess until ***Soul Death***)
 ## 1748
-- Small Spaceship (Model TI-10 C-CLASS) obtained from dumb tourist
+- Small Spaceship (Model TI-10 Class-C) obtained from dumb tourist
 - Exit from Satellaria after extensive training --> Travel to Ony, who now has a job in [[Asyo]]
 - Break from cubicle -> Escape together -> Reforming of their friendship -> They return to the Onylicious
 - Nekocious is reported to be back  - No one cares
@@ -141,4 +141,9 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 ## 1751
 - Jerojero is found by the [[Royal Family of Lambarin]] --> He is revealed to be the second son of [[Queen Vanabara]] --> Their first son was killed in combat during the War against the [[Venticus Royal Family]] at 1750, therefore Jero is heir to the throne
 - Jerojero is taken from Ony to be sent to [[Tchaldaq-Nabir]], his home planet, wherein he will become prince
-- Nagoshi releases his final genetics study and surprises the scientific community -> When asked about his sister, he publ
+- Nagoshi releases his final genetics study and surprises the scientific community -> When asked about his sister, he breaks down for unknown reasons, and publicly disowns her --> A week later, he is reported missing.
+- Ponokota utilizes her mother (begrudgingly) to track down the Onylicious, and steals a Class-E Ship to confront its buyer, at SIDE A of The Divide.
+- Nekocious is brought to a strange room while incarcerated --> She unknowingly begins her first training session with the least expected individual. Her old nemesis, Tokillius, who desires to have a balanced fight with her one day. Neko demands she get better food in exchange for fulfilling his wish. He accepts.
+## 1752
+- Ony confronts the Onylicious' new owner, Weetorio, and by his suggestions, competes on a simple game of [[Quar]] for the ship. --> She manages to get his last piece, and wins easily enough, now making her way towards Tchaldaq-Nabir to get Jerojero back.
+- General Kun Nung is made part of the GPC, along with 
