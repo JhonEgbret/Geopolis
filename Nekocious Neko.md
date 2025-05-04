@@ -128,7 +128,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - The random is settled --> They want their album released officially
 - The IG arrives at Tephades, Tokillius at prow.
 - Negotiation goes south --> Tokillius singlehandedly destroys NEKOUTA
-- The president is taken --> Nekocious arrested and sent to the superprison of Labalda
+- The president is taken --> Nekocious arrested and sent to the superprison of Alamita
 - NEKOUTA is over.
 # END OF EARLY NEKOUTA
 
@@ -213,4 +213,10 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - The two are surrounded and extremely wounded, with no escape in sight.
 - At the last moment, they are miraculously saved by the Last Son of the Balingue Family, a young man by the name of Bringue, who cuts down all ships in sight effortlessly with his sword, in an attempt to save them. He saw the IG's transmission and knew they were in peril.
 - Jerojero and Ony manage to escape, just the two of them, and are left in silence for the first time in about 8 months. They cry and scream in anguish like they had never done before in their lives. Not just for themselves and their injuries, but also for the people they had lost. For Kinrin, Flory, The Onylicious, and for Nekocious.
-- The two have their wounds treated to the best capacity the Doctors of Mecina could manage. 
+- The two have their wounds treated to the best capacity the Doctors of Mecina could manage. Ponokota's body will be forever scarred from the experience. They said to themselves they got off easy compared to the rest.
+- After treating their injuries, they know where they need to go next - Talk to Nekocious, in the superprison of Alamita.
+## 1753
+- They head to the superprison in disguise, and sneak into a room with a Frond Wall. NEKOUTA meets once more.
+- It has been 4 years, and they all look awful. Dirty, scarred, and traumatized. They begin telling her of all they had done, and all that's happened in Geopolis since her capture. Nekocious cries like she had never done before ever since she met Ony for the first time, 6 years ago. 
+- After wiping her tears, Nekocious feels an unbridled rage the likes of which she had never felt before. This was almost the last time she's ever cried in her life. She says, gritting her teeth:
+- "The Interstellar Government, as well as any other organizations associated with it, for the suffering they have caused me and my friends, are now my sworn enemy. When I was innocent, I would think of an Officer's life before ending them. Now I know the truth. All of these pigs are demons, with the sole purpose of raping, killing and eating this Universe until there is nothing left to eat. They do not deserve my mercy"
