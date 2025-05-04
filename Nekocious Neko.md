@@ -117,6 +117,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Change in musical style due to influence from Mathias and Flory, of the Kinrin Criminal Group - Album Name: No Place in The Snow
 - Halfway through its production, Nekocious receives the news that her species has been considered extinct by the Interstellar Government, as she has been marked as dead, and her brother as well.
 - A profound sadness and dread strike NEKOUTA in its core
+- Nekocious decides it's time to finally tell NEKOUTA her true dream, kept secret from everyone she had ever known.
 ## 6 MONTHS LATER
 - The album is finished.
 - It is published independently at first, with the album being recorded in over 100,000 CC's simultaneously then sold
@@ -198,5 +199,15 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Flory locates Lambarin from her ship and lands to assist him -> Ony isn't breathing and her heart has stopped over an hour ago -> A deep felling of dread overtakes them all. "I couldn't even say goodbye..."
 - Flory decides to use her last spell to guarantee the New Generation - A Black Magic spell to save one from death, but that in exchange requires Untainted Souls. Flory gives her own life alongside the lives of her 7 fallen crewmates. 100 years of solitude on her back, she fulfills her selfish act. 
 - As her last order, Flory asks Jerojero to protect Ony at all costs, and fades away. In 3000 years of Universal History, there had never been one like her, and why she gave her life to such an insignificant soul (at the time) still remains a mystery, although her reason becomes clearer and clearer with time.
-- Ony goes back to life, but their ship is intercepted, by the Interstellar Government's Second Freighter -> The IG cartos them, inquiring about their details.
-- "I'm Ponokota Ony, from the group NEKOUTA! I was a Lite Citizen on Kurandel, but not anymore "
+- Ony goes back to life, but their ship is intercepted, by the Interstellar Government's Second Freighter. -> The IG cartos them, inquiring about their details and objective.
+- "I'm Ponokota Ony, from the group NEKOUTA! I was a [[Lite Citizen]] on [[Kurandel]], but not anymore I'm not! My objective, and the one of my crew is... To kill all the Conquerors!"
+- It was the first time, the people of Geopolis had seen such a bold statement from a complete rookie. Some laughed at the absurdity of it, others admired their confidence, but most were terrified. The people were afraid of NEKOUTA. And for forever more they will be...
+### **- END OF THE ROYAL RAID OF TCHALDAQ -**
+#### - TOTAL CASUALTIES: 
+##### - CIVILIAN: 4,872,340,600~
+##### - ENEMY: 8,566
+##### - ALLY: 11,954
+#### - TOTAL TIME: 15 HOURS
+#### - TOTAL BOUNTY: PONOKOTA ONY:         $1,335,647
+####                               JEROJERO LAMBARIN: $300,114
+- 
