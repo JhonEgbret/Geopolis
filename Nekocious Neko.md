@@ -137,6 +137,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Nagoshi utilizes his sister's imprisonment to begin publishing his biology projects after years of personal research --> Several breakthroughs ensue
 - The President of Limpex writes a [[book]] detailing his experience in captivity --> It is a best-seller, NEKOUTA is vilified by the general public
 - All NEKOUTA albums/bootleg merchandise begin to be incinerated --> Album 2 is bootlegged by fans
+- The Onylicious is pawned off to a rich collector at [[The Divide SIDE A]], a man named [[Weetorio Lenox]].
 ## 1751
 - Jerojero is found by the [[Royal Family of Lambarin]] --> He is revealed to be the second son of [[Queen Vanabara]] --> Their first son was killed in combat during the War against the [[Venticus Royal Family]] at 1750, therefore Jero is heir to the throne
 - Jerojero is taken from Ony to be sent to [[Tchaldaq-Nabir]], his home planet, wherein he will become prince
