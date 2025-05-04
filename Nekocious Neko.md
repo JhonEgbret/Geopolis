@@ -14,8 +14,8 @@
 > ##### Height
 > 5'5'' - 165 cm
 > ##### Affiliation
-> - Affiliated with the [[Nekocious Fighters' Guild]]
 > - Affiliated with the [[Kinrin]] Criminal Group
+> - Affiliated with the [[Nekocious Fighters' Guild]]
 > - Affiliated with the [[-Space Pirate Society|S.P.S.]]
 > ##### Bounty
 > $4,839,544,000,000,000,000,000,000,000
@@ -54,6 +54,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Stay at the music shop of [[Semperho]] --> First heist
 - First encounter with the Interstellar Government as enemies --> Officer by the name of "[[Waton]]"
 - Defeat --> First classified as a Space Pirate (Bounty of $400, at 13)
+- They make their last stop at the dying planet of [[Janzal]] --> Encounter with up-and-coming space pirate group "Kinrin", and their leaders, Ghost-Lady Flory and Canis Eyes Mathias. --> NEKOUTA makes its first alliance before its disbanding.
 - Separation from Ony --> Training at the moon of [[Satellaria]] by herself, learning magic for the first time.
 ## 2 YEARS SKIP - TLDR
 - Halrebar poisoning itself -> Hate against Aeluningen at an all time high
@@ -159,3 +160,4 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Surveillance drones are brought in from the C-Zone in the Planet of Miriam. The Seventrion are highly technological but incredibly proud and boastful.
 - The Army of the [[Tower of Paedes]] is brought to the Fighters Guild. The Army has over 6,000 soldiers, all crammed, together with the Fighters Guild, into a relatively small spaceship
 - In their travels throughout space, they find a most unexpected ally. Officer Waton, from the Interstellar Government and the GPC, now a deserter on the run, is found in the snowy fields of Kiuu. After a lengthy negotiation, which took over 2 days and a battle (which Ony did not participate on), Waton agrees to commandeer the troops due to his short but impressive history as Commander. Ony is initially revolted to his sudden return, but eventually learns to appreciate his skill, as she needs all the help she can get.
+- After around 5 months, the only free member of NEKOUTA, the Nekocious Fighters Guild, the Army of Paedes and Commander Waton reunite at the Kalystory Freighter owned by NEKOUTA's partnered pirate group
