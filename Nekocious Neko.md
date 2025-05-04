@@ -146,4 +146,9 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Nekocious is brought to a strange room while incarcerated --> She unknowingly begins her first training session with the least expected individual. Her old nemesis, Tokillius, who desires to have a balanced fight with her one day. Neko demands she get better food in exchange for fulfilling his wish. He accepts.
 ## 1752
 - Ony confronts the Onylicious' new owner, Weetorio, and by his suggestions, competes on a simple game of [[Quar]] for the ship. --> She manages to get his last piece, and wins easily enough, now making her way towards Tchaldaq-Nabir to get Jerojero back.
-- General Kun Nung is made part of the GPC, along with 
+- General Kun Nung is made part of the [[Governmental Protection Community|GPC]], along with Officer [[Waton]], Corporal [[Akiko]] and General [[Lambaster]], to oversee the protection of Tchaldaq-Nabir while its coronation is taking place.
+- 3 weeks later, before Ponokota's arrival, the [[Accounts War]] happens in the skies of Tchaldaq-Nabir, and the coronation officially takes place. The GPC unit is disbanded, and its agents fade into obscurity.
+- Ony arrives at Tchaldaq-Nabir --> She heads to the Royal Palace and demands to speak with their king --> Lambarin lets her in, to the Royal Guards' disapproval, and they converse as the two sit together on the stairway leading to his throne.
+- "I can't leave, Ony. I never wanted this, but you have to understand, there are forces way more powerful than the two of us within this castle alone." Jero says. 
+- "Then I'll have to be even stronger. And get more people." Ony determinedly replies, then jumps out of her seat and begins walking in circles.
+- Shocked at her boldness, Lambarin decides to explain the structure of the castle. He is being prote
