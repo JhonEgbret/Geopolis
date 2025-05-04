@@ -111,10 +111,22 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 ####                               ZOKAN (TOTAL): -$14,788
 - Nekouta in hiding alongside the President of Limpex
 - Recording sessions for Album 2 begin at Mecina
-- Change in style due to influence from Kinrin - Name: No Place in The Snow
-- Halfway through its productin, Nekocious receives the news that her species has been considered extinct by the Interstellar Government, as she has been marked as dead, and her brother as well.
+- Change in musical style due to influence from Mathias and Flory, of the Kinrin Criminal Group - Album Name: No Place in The Snow
+- Halfway through its production, Nekocious receives the news that her species has been considered extinct by the Interstellar Government, as she has been marked as dead, and her brother as well.
 - A profound sadness and dread strike NEKOUTA in its core
-- The album is finished , marking the end of Early NEKOUTA
-- It is published independently, with the music being recorded in over 6,000 CC's simultaneously then sold
+- The album is finished.
+## 1750
+- It is published independently, with the album being recorded in over 300,000 CC's simultaneously then sold
 - The world rapidly takes notice, Nekocious is alive, at the time called Livertania.
 - NEKOCIOUS hides a carto number within the CC Case for negotiations -> It quickly becomes flooded
+- They buy a Carto Conceiver from Mecina and head to the moon of Tephades to handle negotiation offers
+- The Interstellar Government calls --> They want the president. Over 6 months after the heist, they have still kept him captive and he is tired.
+- The random is settled --> They want their album released officially
+- The IG arrives at Tephades, Tokillius at prow.
+- Negotiation goes south --> Tokillius singlehandedly destroys NEKOUTA
+- The president is taken --> Nekocious arrested and sent to the superprison of Labalda
+- NEKOUTA is over.
+# END OF EARLY NEKOUTA
+
+# NOVICE NEKOUTA
+Nekocious is imprisoned 
