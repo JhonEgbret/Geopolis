@@ -227,7 +227,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - [[Atarani Wells]] is declared Conqueror in the newest [[Hunters' Reunion]]. He is the youngest, at 21, to attain Conqueror Status.
 - The Balingue Family, alongside the Royal Families of Lambarin, [[Ayumu]] and [[Anifasta]], leave the known universe, abandoning their sons and daughters. [[Ayumi Ayumu]] would swear vengeance upon them.
 ## 1753
-- They head to the superprison in disguise, and sneak into a room with a Frond Wall. NEKOUTA meets once more.
+- They head to the superprison in disguise, and sneak into a room with a [[Frond]] Wall. NEKOUTA meets once more.
 - It has been 4 years, and they all look awful. Dirty, scarred, and traumatized. They begin telling her of all they had done, and all that's happened in Geopolis since her capture. Nekocious cries like she had never done before ever since she met Ony for the first time, 6 years ago. 
 - After wiping her tears, Nekocious feels an unbridled rage the likes of which she had never felt before. This was almost the last time she's ever cried in her life. She writes her declaration on her notepad, gritting her teeth, and puts it to the Frond Wall.
 - "The Interstellar Government, as well as any other organizations associated with it, and for the suffering they have caused me and my friends, is now my sworn enemy. From my time here, witnessing all the dirty secrets of this failed system come to the forefront, I have realized the truth. They're all demons, with the sole purpose of raping, killing and eating this Universe until there is nothing left to shove down their throats, and they do not deserve my mercy, for they have given us none. -Nekocious Neko, from NEKOUTA"
