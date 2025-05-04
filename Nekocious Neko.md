@@ -157,7 +157,12 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - "Yeah. Yeah... When this is all done we'll be making music with Nekocious again, and I'll pick the genre this time!" Ony wittingly answers, before turning her back to him and walking away.
 - Ony begins preparations in Mecina for "The [[Royal Raid of Tchaldaq]]" --> She reassembles the Nekocious Fighters Guild, and obtains a Class-C Miglia Ship for transportation. The Onylicious is used only for the 6 most powerful of the Fighters Guild.
 - They obtain explosives from the Enlightened Planet of [[Gino'oh]], as the Hyperintelligent Ylaruans have forsaken their warmongering culture. Before their redemption, they utilized the explosive Taka Crystals to make weaponry enough to destroy entire cities.
-- Surveillance drones are brought in from the C-Zone in the Planet of Miriam. The Seventrion are highly technological but incredibly proud and boastful.
+- Surveillance Drones are brought in from the C-Zone in the Planet of Miriam. The Seventrion are highly technological but incredibly proud and boastful.
 - The Army of the [[Tower of Paedes]] is brought to the Fighters Guild. The Army has over 6,000 soldiers, all crammed, together with the Fighters Guild, into a relatively small spaceship
 - In their travels throughout space, they find a most unexpected ally. Officer Waton, from the Interstellar Government and the GPC, now a deserter on the run, is found in the snowy fields of Kiuu. After a lengthy negotiation, which took over 2 days and a battle (which Ony did not participate on), Waton agrees to commandeer the troops due to his short but impressive history as Commander. Ony is initially revolted to his sudden return, but eventually learns to appreciate his skill, as she needs all the help she can get.
-- After around 5 months, the only free member of NEKOUTA, the Nekocious Fighters Guild, the Army of Paedes and Commander Waton reunite at the Kalystory Freighter owned by NEKOUTA's partnered pirate group
+- After around 5 months, the only free member of NEKOUTA, the Nekocious Fighters Guild, the Army of Paedes and Commander Waton reunite at the Kalystory Freighter owned by NEKOUTA's partnered pirate group, Kinrin. They discuss their final plan.
+- All preparations end on the 55th of Notagis, 1752.
+### **- THE ROYAL RAID OF TCHALDAQ -**
+#### - RAID IS ON THE CASTLE OF PALAGNA OWNED BY THE LAMBARIN ROYAL FAMILY, AT THE PLANET OF TCHALDAQ-NABIR
+#### - OBJECTIVE IS TO RETRIEVE THEIR KING
+- At nightfall the Surveillance Drones are deployed on the planet
