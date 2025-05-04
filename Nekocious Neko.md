@@ -49,7 +49,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 ## 1745
 - Heist at [[Abraxis]] goes wrong --> Friends are killed --> She encounters the Interstellar Government Commander Tokillius Relvashin
 - Escape from Halrebar --> Wounded crash-land at the moon of [[Tephades]] --> Destruction of Guitar
-- Fateful encounter with Ponokota Ony during her graduation personal trip --> Travels together
+- Fateful encounter with Ponokota Ony during her personal graduation trip --> They begin traveling together
 ## 1746
 - Stay at the music shop of [[Semperho]] --> First heist
 - First encounter with the Interstellar Government as enemies --> Officer by the name of "[[Waton]]"
@@ -141,3 +141,4 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 ## 1751
 - Jerojero is found by the [[Royal Family of Lambarin]] --> He is revealed to be the second son of [[Queen Vanabara]] --> Their first son was killed in combat during the War against the [[Venticus Royal Family]] at 1750, therefore Jero is heir to the throne
 - Jerojero is taken from Ony to be sent to [[Tchaldaq-Nabir]], his home planet, wherein he will become prince
+- Nagoshi releases his final genetics study and surprises the scientific community -> When asked about his sister, he publ
