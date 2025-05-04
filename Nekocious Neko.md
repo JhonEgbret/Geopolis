@@ -14,8 +14,8 @@
 > ##### Height
 > 5'5'' - 165 cm
 > ##### Affiliation
-> - Affil
-> - Affiliated with the Kinrin Criminal Group
+> - Affiliated with the [[Nekocious Fighters' Guild]]
+> - Affiliated with the [[Kinrin]] Criminal Group
 > - Affiliated with the [[-Space Pirate Society|S.P.S.]]
 > ##### Bounty
 > $4,839,544,000,000,000,000,000,000,000
@@ -97,11 +97,11 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Nekocious Fighters Guild and Zokan are wiped out -> Teri is killed in action, shot by over 20 soldiers repeatedly, killed the same way she lived, carelessly.
 - Nekocious utilizes full skillset to stop Al --> The president is captured by NEKOUTA
 - She flees on the Onylicious alongside her crew
-- The Onylicious suffers heavy damage --> It lands at the moon of Lugili
-- Encounter with General Kun Nung -> Longest battle of Early NEKOUTA history, taking over 2 hours to finish. 
+- The Onylicious suffers heavy damage --> It lands at the moon of [[Lugili]]
+- Encounter with General [[Kun Nung]] -> Longest battle of Early NEKOUTA history, taking over 2 hours to finish. 
 - Nekocious is the victor, but she finally realizes her weakness, barely being able to protect her crew and their allied partners.
 - The Onylicious breaks down --> They are forced to communicate with the Interstellar Government and steal their ship
-- Travel to Mecina --> They hire Mechanic Ortino to help tow their ship --> Return to Lugili
+- Travel to Mecina --> They hire Mechanic [[Ortino]] to help tow their ship --> Return to Lugili
 - The Onylicious was taken.
 ### **- END OF THE HEIST OF LIMPEX -**
 #### - TOTAL CASUALTIES: 
@@ -132,11 +132,11 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 
 # NOVICE NEKOUTA
 ## 1750
-- Nekocious is imprisoned and tortured -> She allies with the Tenar Terrorist Group and the Magicians Guild of Labalda to become more powerful
+- Nekocious is imprisoned and tortured -> She allies with the [[Tenar]] Terrorist Group and the [[Magicians' Guild of Labalda]] to become more powerful
 - Ponokota lives in hiding alongside Jerojero --> They plan a break and start preparations --> Album 3's genre is also decided
-- Nagoshi begins publishing his biology projects after years of personal research --> Several breakthroughs ensue
-- The President of Limpex writes a book detailing his experience in captivity --> It is a best-seller, NEKOUTA is vilified by the general public
+- Nagoshi utilizes his sister's imprisonment to begin publishing his biology projects after years of personal research --> Several breakthroughs ensue
+- The President of Limpex writes a [[book]] detailing his experience in captivity --> It is a best-seller, NEKOUTA is vilified by the general public
 - All NEKOUTA albums/bootleg merchandise begin to be incinerated --> Album 2 is bootlegged by fans
 ## 1751
-- Jerojero is found by the Royal Family of Lambarin --> He is revealed to be the second son of Queen Vanabara --> Their first son was killed in combat during the War against the Venticus Royal Family at 1750, therefore Jero is heir to the throne
-- Jerojero is taken from Ony to be sent to Tchaldaq-Nabir, his home planet, wherein he will become prince
+- Jerojero is found by the [[Royal Family of Lambarin]] --> He is revealed to be the second son of [[Queen Vanabara]] --> Their first son was killed in combat during the War against the [[Venticus Royal Family]] at 1750, therefore Jero is heir to the throne
+- Jerojero is taken from Ony to be sent to [[Tchaldaq-Nabir]], his home planet, wherein he will become prince
