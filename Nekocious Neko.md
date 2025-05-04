@@ -133,7 +133,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 # NOVICE NEKOUTA
 ## 1750
 - Nekocious is imprisoned and tortured -> She allies with the [[Tenar]] Terrorist Group and the [[Magicians' Guild of Labalda]] to become more powerful
-- Ponokota lives in hiding alongside Jerojero --> They plan a break and start preparations --> Album 3's genre is also decided
+- Ponokota lives in hiding alongside Jerojero --> They plan a break and start preparations
 - Nagoshi utilizes his sister's imprisonment to begin publishing his biology projects after years of personal research --> Several breakthroughs ensue
 - The President of Limpex writes a [[book]] detailing his experience in captivity --> It is a best-seller, NEKOUTA is vilified by the general public
 - All NEKOUTA albums/bootleg merchandise begin to be incinerated --> Album 2 is bootlegged by fans
@@ -151,4 +151,8 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Ony arrives at Tchaldaq-Nabir --> She heads to the Royal Palace and demands to speak with their king --> Lambarin lets her in, to the Royal Guards' disapproval, and they converse as the two sit together on the stairway leading to his throne.
 - "I can't leave, Ony. I never wanted this, but you have to understand, there are forces way more powerful than the two of us within this castle alone." Jero says. 
 - "Then I'll have to be even stronger. And get more people." Ony determinedly replies, then jumps out of her seat and begins walking in circles.
-- Shocked at her boldness, Lambarin decides to explain the structure of the castle. He is being prote
+- Shocked at her boldness, Lambarin decides to explain the structure of the castle. He is being protected by The [[Royal Guard of Palagna]], 3 competent and near-immortal leaders who have devoted their lives to the Lambarin Royal Family's life. Under them are the trained soldiers of [[Palagna Castle]], over 8,000 men. Then above all is Queen Vanabara, who has stepped down from her role, but still controls everything in the shadows. She has ties to other Royal Families across the Universe, and can call Commanders to the castle at the lift of a finger.
+- "I'm not even going to ask, as I know you're now determined to go. But be careful, please. Please, Ony." Lambarin says, taking one last look at her.
+- "Yeah. Yeah... When this is all done we'll be making music with Nekocious again, and I'll pick the genre this time!" Ony wittingly answers, before turning her back to him and walking away.
+- Ony begins preparations in Mecina for "The [[Royal Raid of Tchaldaq]]" --> She reassembles the Nekocious Fighters Guild, and obtains a Class-C Miglia Ship for transportation. The Onylicious is used only for the 6 most powerful of the Fighters Guild.
+- They obtain explosives from the Enlightened Planet of Gino'oh, as the Hyperintelligent Alarians 
