@@ -196,4 +196,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - The Castle of Palagna is now a massive pile of rubble and all forests and cities and people have died. The planet of Tchaldaq-Nabir is now a wasteland. Sunrise.
 - Jerojero limps along the empty roads while dragging Ony's dead body, only hearing explosions and screams from afar.
 - Flory locates Lambarin from her ship and lands to assist him -> Ony isn't breathing and her heart has stopped over an hour ago -> A deep felling of dread overtakes them all. "I couldn't even say goodbye..."
-- Flory decides to use her last spell to guarantee the New Generation
+- Flory decides to use her last spell to guarantee the New Generation - A Black Magic spell to save one from death, but that in exchange requires Untainted Souls. Flory gives her own life alongside the lives of her 7 fallen crewmates. 100 years of solitude on her back, she fulfills her selfish act. 
+- As her last order, Flory asks Jerojero to protect Ony at all costs, and fades away. In 3000 years of Universal History, there had never been one like her, and why she gave her life to such an insignificant soul (at the time) still remains a mystery, although her reason becomes clearer and clearer with time.
+- Ony goes back to life, but their ship is intercepted, by the Interstellar Government's Second Freighter -> The IG cartos them, inquiring about their details.
+- "I'm Ponokota Ony, from the group NEKOUTA! I was a Lite Citizen on Kurandel, but not anymore "
