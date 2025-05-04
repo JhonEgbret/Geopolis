@@ -155,4 +155,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - "I'm not even going to ask, as I know you're now determined to go. But be careful, please. Please, Ony." Lambarin says, taking one last look at her.
 - "Yeah. Yeah... When this is all done we'll be making music with Nekocious again, and I'll pick the genre this time!" Ony wittingly answers, before turning her back to him and walking away.
 - Ony begins preparations in Mecina for "The [[Royal Raid of Tchaldaq]]" --> She reassembles the Nekocious Fighters Guild, and obtains a Class-C Miglia Ship for transportation. The Onylicious is used only for the 6 most powerful of the Fighters Guild.
-- They obtain explosives from the Enlightened Planet of Gino'oh, as the Hyperintelligent Alarians 
+- They obtain explosives from the Enlightened Planet of [[Gino'oh]], as the Hyperintelligent Ylaruans have forsaken their warmongering culture. Before their redemption, they utilized the explosive Taka Crystals to make weaponry enough to destroy entire cities.
+- Surveillance drones are brought in from the C-Zone in the Planet of Miriam. The Seventrion are highly technological but incredibly proud and boastful.
+- The Army of the [[Tower of Paedes]] is brought to the Fighters Guild. The Army has over 6,000 soldiers, all crammed, together with the Fighters Guild, into a relatively small spaceship
+- 
