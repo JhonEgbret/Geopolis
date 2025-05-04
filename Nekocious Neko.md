@@ -212,12 +212,20 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 #### - TOTAL BOUNTY: PONOKOTA ONY:         $1,335,647
 ####                               JEROJERO LAMBARIN: $300,114
 - The two are surrounded and extremely wounded, with no escape in sight.
-- At the last moment, they are miraculously saved by the Last Son of the Balingue Family, a young man by the name of Bringue, who cuts down all ships in sight effortlessly with his sword, in an attempt to save them. He saw the IG's transmission and knew they were in peril.
+- At the last moment, they are miraculously saved by the Last Son of the [[Balingue Family]], a young man by the name of Bringue, who cuts down all ships in sight effortlessly with his sword, in an attempt to save them. He saw the IG's transmission and knew they were in peril.
 - Jerojero and Ony manage to escape, just the two of them, and are left in silence for the first time in about 8 months. They cry and scream in anguish like they had never done before in their lives. Not just for themselves and their injuries, but also for the people they had lost. For Kinrin, Flory, The Onylicious, and for Nekocious.
 - The two have their wounds treated to the best capacity the Doctors of Mecina could manage. Ponokota's body will be forever scarred from the experience. They said to themselves they got off easy compared to the rest.
 - After treating their injuries, they know where they need to go next - Talk to Nekocious, in the superprison of Alamita.
 #### MEANWHILE . . .
-- 
+- Nagoshi is marked as dead once again. The Aeluningen man who after finishing all his projects a year ago, went mysteriously missing, is going on a personal quest to find his true parents, working towards his dream.
+- The President of Limpex is assassinated in his home by an unknown assailant. Likely for political reasons.
+- [[Mr. A]] withdraws all [[Petraco Mines]] from the Solar System of Tchaldaq-Nabir after receiving news of the tragedy
+- [[Narmiller]] begins investment in weapons research - He senses war is brewing, and he wouldn't be wrong. 
+- Petraco Mine Workers in the Solar Systems of [[Sect]], [[Panko]], [[Nanamus]], [[Higyu]] and the [[Border]] to the [[Forgotten Systems]] report strange ship activity in the surroundings, and dead bodies floating towards their mines every single day, by the thousands. They are faceless.
+- [[Personagem]] visits Nekocious in jail, and tells her how to escape and when. He had no need to share this information, and it could only be known by predicting the future itself. He knew about something others didn't.
+- The [[Mahou Shoujiety]] suffers through one of their greatest Wars, in the Planet of snjadjsa. There were only 3 survivors. [[Hokurado]] declared the MS Project a resounding failure. He, oddly enough, missed [[Ganymetsu]].
+- [[Atarani Wells]] is declared Conqueror in the newest [[Hunters' Reunion]]. He is the youngest, at 21, to attain Conqueror Status.
+- The Balingue Family, alongside the Royal Families of Lambarin, [[Ayumu]] and [[Anifasta]], leave the known universe, abandoning their sons and daughters. [[Ayumi Ayumu]] would swear vengeance upon them.
 ## 1753
 - They head to the superprison in disguise, and sneak into a room with a Frond Wall. NEKOUTA meets once more.
 - It has been 4 years, and they all look awful. Dirty, scarred, and traumatized. They begin telling her of all they had done, and all that's happened in Geopolis since her capture. Nekocious cries like she had never done before ever since she met Ony for the first time, 6 years ago. 
