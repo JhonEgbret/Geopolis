@@ -14,6 +14,8 @@
 > ##### Height
 > 5'5'' - 165 cm
 > ##### Affiliation
+> - Affil
+> - Affiliated with the Kinrin Criminal Group
 > - Affiliated with the [[-Space Pirate Society|S.P.S.]]
 > ##### Bounty
 > $4,839,544,000,000,000,000,000,000,000
@@ -114,9 +116,9 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Change in musical style due to influence from Mathias and Flory, of the Kinrin Criminal Group - Album Name: No Place in The Snow
 - Halfway through its production, Nekocious receives the news that her species has been considered extinct by the Interstellar Government, as she has been marked as dead, and her brother as well.
 - A profound sadness and dread strike NEKOUTA in its core
+## 6 MONTHS LATER
 - The album is finished.
-## 1750
-- It is published independently, with the album being recorded in over 300,000 CC's simultaneously then sold
+- It is published independently at first, with the album being recorded in over 100,000 CC's simultaneously then sold
 - The world rapidly takes notice, Nekocious is alive, at the time called Livertania.
 - NEKOCIOUS hides a carto number within the CC Case for negotiations -> It quickly becomes flooded
 - They buy a Carto Conceiver from Mecina and head to the moon of Tephades to handle negotiation offers
@@ -129,4 +131,12 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 # END OF EARLY NEKOUTA
 
 # NOVICE NEKOUTA
-Nekocious is imprisoned 
+## 1750
+- Nekocious is imprisoned and tortured -> She allies with the Tenar Terrorist Group and the Magicians Guild of Labalda to become more powerful
+- Ponokota lives in hiding alongside Jerojero --> They plan a break and start preparations --> Album 3's genre is also decided
+- Nagoshi begins publishing his biology projects after years of personal research --> Several breakthroughs ensue
+- The President of Limpex writes a book detailing his experience in captivity --> It is a best-seller, NEKOUTA is vilified by the general public
+- All NEKOUTA albums/bootleg merchandise begin to be incinerated --> Album 2 is bootlegged by fans
+## 1751
+- Jerojero is found by the Royal Family of Lambarin --> He is revealed to be the second son of Queen Vanabara --> Their first son was killed in combat during the War against the Venticus Royal Family at 1750, therefore Jero is heir to the throne
+- Jerojero is taken from Ony to be sent to Tchaldaq-Nabir, his home planet, wherein he will become prince
