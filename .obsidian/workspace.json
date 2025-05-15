@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nekocious Neko.md",
+                "file": "Grimm Edon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nekocious Neko"
+              "title": "Grimm Edon"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "grimm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,8 +197,10 @@
   },
   "active": "2b35b61671aad7c8",
   "lastOpenFiles": [
-    "Space Crews/Interstellar Government/Commanders.md",
+    "Space Crews/Space Pirate Society/Orion's Wrath.md",
+    "Grimm Edon.md",
     "Nekocious Neko.md",
+    "Space Crews/Interstellar Government/Commanders.md",
     "Solar Systems/Sect/Sect Planets/Miriam/Miriam.md",
     "Solar Systems/Sect/Sect Planets/Miriam/The Conditioning Zone/The Conditioning Zone.md",
     "Space Crews/Interstellar Government/Governmental Protection Community.md",
@@ -209,7 +212,6 @@
     "Saltman (Story).md",
     "Alusia Mentha Piperita.md",
     "Space Crews/Space Pirate Society/NEKOUTA.md",
-    "Space Crews/Space Pirate Society/Orion's Wrath.md",
     "Space Crews/Space Pirate Society/Conquerors.md",
     "Space Crews/Space Pirate Society/Donnas.md",
     "Space Crews/Space Pirate Society/Mahou Shoujiety.md",
@@ -222,7 +224,6 @@
     "Nakamura Atatsun.md",
     "Nagaiji Tsurugi.md",
     "GEOPOLIS CENTRAL.md",
-    "Lord Noir.md",
     "UNIVERSAL ERAS/Untitled",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE B/Crews/Royal Families - SIDE B",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE B/Species/Flora",

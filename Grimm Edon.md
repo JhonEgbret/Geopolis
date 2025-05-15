@@ -1,0 +1,1 @@
+Grimm Edon is an ex-member of the [[Cult of Difficulta]] and a member of [[Orion's Wrath]]. He likes birds or whatever.
