@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grimm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b35b61671aad7c8",
+  "active": "f3fb415ece9abcb8",
   "lastOpenFiles": [
     "Space Crews/Space Pirate Society/Orion's Wrath.md",
     "Grimm Edon.md",
