@@ -1,4 +1,4 @@
-Salankappa Gerorin is a sweet and loving [[Kapprana]] woman with energy for days. She worries a lot about the people she cares about due to being witness to the War taking millions of lives in her planet, including those of her family.
+Salankappa Gerorin is a sweet and energetic [[Kapprana]] woman. She worries a lot about the people she cares about due to being witness to the War taking millions of lives in her planet, including those of her family.
 
 On her teenage years, she was part of the anarchist space pirate crew "[[The Sofredores]]", going across the universe to "liberate" all planets. Her crew was wiped out by Lord Noir's 5th Division Ship, The Lance, in one fell swoop. After years of being in the run along with [[Xanmar]], the leader of the Sofredores, she reached a breaking point and killed him in a small village in the planet of [[Gahal]], strangling him to death after discovering the War she had lost so many people to was started by his father in an attempt to gain political favor for his son.
 

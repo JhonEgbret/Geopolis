@@ -1,1 +1,1 @@
-The Lupino Family is a subsidiary within the [[Bunaga Clan]] and the most influential crime family in The Divide's SIDE A. Its patriarch and founder is [[Lupino P. Alerma]].
+The Lupino Family is a subsidiary within the [[Bunaga Clan]] and the most influential crime family in Vostros' Divide SIDE A. Its patriarch and founder is [[Lupino P. Alerma]], and its objective is unknown.

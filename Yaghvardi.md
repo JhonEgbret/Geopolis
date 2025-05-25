@@ -1,3 +1,3 @@
-The Yaghvardi, commonly known as the Harbingers of Noir, are creatures from a distant galaxy and seemingly no planet of origin. Their appearance is undescribable and scarring.
+The Yaghvardi, commonly known as the Harbingers of Noir, are creatures from a distant galaxy and seemingly no planet of origin. They resemble a flower of fleshy material, and are highly intelligent, perhaps even more so than humanity itself.
 
 Their job is to wander throughout the universe and spread their news on Lord Noir's many feats and an estimate of how close he is to their solar system to whoever or whatever is able to listen, then make their way back. They seem to communicate via several means, including noises animals and insects can hear and understand and mind communication with other species, breaking language barriers.
