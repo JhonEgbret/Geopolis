@@ -49,7 +49,8 @@
               "title": "Nekocious Neko"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a728a6ea1b5d0105",
+  "active": "0353c31c0ce240c0",
   "lastOpenFiles": [
-    "Personagem.md",
-    "Space Crews/Space Pirate Society/Conquerors.md",
-    "Masaru of the Winds.md",
-    "Pavinio Jorel.md",
     "Nekocious Neko.md",
+    "Pavinio Jorel.md",
+    "Space Crews/Space Pirate Society/Conquerors.md",
+    "Personagem.md",
+    "Masaru of the Winds.md",
     "Boner.md",
     "Butchery.md",
     "Chiuanna.md",

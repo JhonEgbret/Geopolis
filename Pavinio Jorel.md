@@ -4,7 +4,7 @@
 > ##### Aliases
 > - The 
 > ##### Age
-> 34
+> 55
 > ##### Species
 > Human
 > ##### Gender
@@ -18,4 +18,11 @@
 > ##### Occupation
 > [[Conquerors|Conqueror]]
 > # Relationships
-> - [[Masaru of the Winds]] (Enemy)
+> - [[Dry Eye Mcgee]] (Former Enemy)
+> - [[Al Borges]] (Friend)
+> - [[Gabetta Labiroo]] (Friend)
+> - [[MC Amblingo]] (Dislikes)
+> - [[Anna Yazel]] (Ex-Wife)
+> - [[Sarah Suki ]](Daughter)
+
+Pavinio Jorel is a lone Space Hiker known for his charisma and silver tongue. In the years following his defeat at the Third Universal Strike, he began a hike towards the Border to the Forgotten Systems

@@ -3,7 +3,7 @@
 > # Liverdaria Catto
 > ![[41-nekocious neko smile.png]]
 > ##### Aliases
-> - :3
+> - Nekocious Neko :3
 > - Meowverlord
 > ##### Age
 > 34
@@ -36,7 +36,7 @@
 
 Liverdaria Catto, commonly known as her alias "Nekocious Neko :3", is the founder and captain of terrorist group/band [[NEKOUTA]] and a recognized [[Conquerors|Conqueror]] ever since the [[Universal Strike|Third Universal Strike]]. She is a sociopathic anarchist woman with the dream of destroying all that is sacred and holy in [[Geopolis]], and bringing down all forms of government. Nekocious is one of the most powerful people living in the Universe, both known and unknown, with an unending knowledge of [[Black Magic]] and boundless martial arts prowess, trained over the course of the 2 decades where she has fought to survive. She has mellowed out since her teenage years, wherein she wreaked severe havoc, being known as one of the main factors towards the wars of the 3rd Universal Strike and respective conflicts afterwards. 
 
-Many know her as the devil herself, although the few that have ever gotten to know her know of her true story, a long-winded and complex tale of betrayal, love and pain. Those few are sympathetic towards her and her group, knowing her as the one who cheated death at several occasions, broke out of the largest and most evil superprison in the [[Known Universe]], gotten married and had all she ever fought for lost in the span of minutes during the War of Wars. 
+Many know her as the devil herself, although the few that have ever gotten to know her know of her true story, a long-winded tale of betrayal, pain and love. Those few are sympathetic towards her and her group, knowing her as the one who cheated death at several occasions, broke out of the largest and most evil superprison in the [[Known Universe]], gotten married and had all she ever fought for lost in the span of minutes during the War of Wars. 
 
 Given to an unknown family living at the planet of Halrebar and separated from her brother Nagoshi, herself and him are the last remaining members of the Aeluningen Species. 
 
