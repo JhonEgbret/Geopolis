@@ -114,9 +114,8 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 ####                               ZOKAN (TOTAL): -$14,788
 - Nekouta in hiding alongside the President of Limpex
 - Recording sessions for Album 2 begin at Mecina
-- Change in musical style due to influence from Mathias and Flory, of the Kinrin Criminal Group - Album Name: No Place in The Snow
+- Change in musical style due to influence from Mathias and Flory, of Kinrin - Album Name: No Place in The Snow
 - Halfway through its production, Nekocious receives the news that her species has been considered extinct by the Interstellar Government, as she has been marked as dead, and her brother as well.
-- A profound sadness and dread strike NEKOUTA in its core
 - Nekocious decides it's time to finally tell NEKOUTA her true dream, kept secret from everyone she had ever known.
 ## 6 MONTHS SKIP
 - The album is finished.
