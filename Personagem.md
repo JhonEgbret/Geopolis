@@ -27,6 +27,6 @@ Not much is known of him, but he has a very advanced level of intelligence and a
 
 Almost completely unknown. Most of his actions have only been registered and documented post-[[Dogland Industrial Revolution]].
 
-He joined The Conquerors for the purpose of intimidation and a wish to make himself a public figure due to controlling over 80% of all land in the known universe in secret after his partnership with [[Narmiller Knox]], with his flag being displayed in all territories and cities being supervisioned by him.
+He joined The Conquerors for the purpose of intimidation, and a wish to make himself known due to controlling over 80% of all land in the [[Known Universe]] in secret after his partnership with [[Narmiller Knox]], with his flag being displayed in all territory under his supervision.
 
 Most of his actions in the past have been forgotten, although it is unknown for how long he has lived. He seems to desire attention and has no regard for human life.
