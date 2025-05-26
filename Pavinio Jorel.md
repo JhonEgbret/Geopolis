@@ -13,7 +13,9 @@
 > 
 > ##### Affiliation
 > - Number Four Biggest Threat to [[-Interstellar Government|The Interstellar Government]]
+> ##### Bounty
+> CONQUEROR LEVEL
 > ##### Occupation
-> Conqueror
+> [[Conquerors|Conqueror]]
 > # Relationships
 > - [[Masaru of the Winds]] (Enemy)

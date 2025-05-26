@@ -13,8 +13,10 @@
 > 7'2''
 > ##### Affiliation
 > - Informant of [[-Interstellar Government|The Interstellar Government]]
+>##### Bounty
+>CONQUEROR LEVEL
 > ##### Occupation
-> Conqueror
+> [[Conquerors|Conqueror]]
 > # Relationships
 > - [[Personagem]] (Enemy)
 
