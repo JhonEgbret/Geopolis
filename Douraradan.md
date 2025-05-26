@@ -1,1 +1,1 @@
-A [[Canis]] CGI Expert. Oldest Member of [[Truth Society Azure]]
+A [[Canis]] CGI Expert. Oldest Member of [[Truth Society Azure]] and TI guy of [[Edwington Gar High School]], wherein he was recruited. Kind of a loser.

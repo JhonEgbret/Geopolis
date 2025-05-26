@@ -1,1 +1,1 @@
-Chiuanna is a country in The Divide's SIDE A located in the nation of Dogland, 
+Chiuanna is a country in [[The Divide SIDE A]] in [[Vostros]], located in the nation of [[Dogland]]. It was the main site behind the terror of the [[Bodement War]].

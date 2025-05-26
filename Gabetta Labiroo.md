@@ -24,7 +24,7 @@
 > # Relationships
 >- Several historical figures in several solar systems, such as [[Lord Noir]], [[Limme Kimbler]], [[Lana Retrodus]], [[Personagem]], [[Ignatius Polanka]], [[Mr. Azure]], [[Khan Gabigool]], [[Kanpai]] and [[Kanashimi]], [[Bartholomew Strixitania]], [[Adanona Donna]], [[Joey Vinedade]], [[Captain Merangue]], [[Aru Sayaki]], etc.
 
-Gabetta Bankuroku Stephenson Amira Dvořák Illius Labiroo is a 40000+ years old immortal angel with the power of infinite handguns. She is also a high-schooler, studying in the High School of Sairakania at the top of Mount Sal.
+Gabetta Bankuroku Stephenson Amira Dvořák Illius Labiroo is a 40000+ years old immortal angel with the power of infinite handguns. She is also a high-schooler, studying in the High School of [[Sairakel]] at the top of [[Mount Sal]].
 
 ## Abilities and Techniques
 

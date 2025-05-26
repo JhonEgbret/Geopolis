@@ -1,1 +1,0 @@
-Conqueror, not to be confused with the Conquerors,

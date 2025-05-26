@@ -19,7 +19,7 @@
 > None - Captain of [[Orion's Wrath]]
 > # Relationships
 > - Unknown parents
-> - Merangue Saccharum (Idol/Inspiration)
+> - [[Captain Merangue|Merangue Saccharum|]] (Idol/Inspiration)
 > - [[Ponadrum Verum]] (Brother)
 > - [[Limme Kimbler]] (Childhood Friend/Is fascinated by)
 > - [[Drinken W. Ine]] (Understands/Respects)
