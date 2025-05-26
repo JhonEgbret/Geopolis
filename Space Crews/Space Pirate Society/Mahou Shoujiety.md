@@ -3,3 +3,5 @@ The Mahou Shoujiety is a small group of young women considered to be "Magical". 
 The "Shoujiety" girls travel through space in search of gaining power and skills, going on a life-changing trip and fulfilling their own dreams, religious objectives and vendettas. They are considered Neutral, and don't pick sides with anyone.
 
 Their main enemy crew is the female-led organization [[Donnas|The "Donnas"]], whose leader has a personal vendetta against their founder and his ideals, as well as considering them too young to journey through the unforgiving depths of space.
+
+The MS' founder, Hokurado, after their mission in the God Planet of ksdjkoad, declared the project a failure after much chagrin, but has refused to halt it for whatever reason.

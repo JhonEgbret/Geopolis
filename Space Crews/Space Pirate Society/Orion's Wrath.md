@@ -1,6 +1,6 @@
 " _you all have to remember we will stick together until each of our dreams have been achieved. then go our own ways. that may take months, years, even decades. if you're not committed to anything you shouldn't go._
 
-_that goes for everyone. would you be able to do the most vile things humanity has ever seen for your dream? would you **kill** for your dream? would you **die** for it? because that is the kind of people I am looking for._ "
+_that goes for everyone. would you be able to do the most vile things humanity has ever seen for your dream? would you kill for your dream? would you **die** for it? because that is the kind of people I am looking for._ "
 
 — Alusia, on the process of assembling her new crew.
 
