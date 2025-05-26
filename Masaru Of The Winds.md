@@ -2,7 +2,7 @@
 > # Masaru 
 > 
 > ##### Aliases
-> - Of The Winds
+> - Masaru of the Winds
 > ##### Age
 > 56
 > ##### Species

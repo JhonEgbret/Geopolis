@@ -2,12 +2,12 @@ The Commanders are the [[-Interstellar Government|Interstellar Government's]] be
 
 ## Members (Pre-Saltman | **In Order of Arrival)
 
-### [[Tokillius Aquir|Tokillius Relvashin Aquir]] (The Destroyer Of Dreamhood)
+### [[Tokillius Aquir|Tokillius Relvashin Aquir]] (The Destroyer of Dreamhood)
 
 ### [[Donore Onoreda|Donore Onoreda Aluda]] (The Ambassador of Love)
 
-### [[Sengano Danki]]
+### [[Sengano Danki]] (The Naysayer of Things)
 
-### [[Nakamura Atatsun]]
+### [[Nakamura Atatsun]] (The Master of Darkness)
 
-### [[Al Borges]]
+### [[Al Borges]] (The Swordsman of Fate)

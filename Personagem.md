@@ -16,7 +16,7 @@
 > ##### Occupation
 > Conqueror
 > # Relationships
-> - [[Masaru Of The Winds]] (Enemy)
+> - [[Masaru of the Winds]] (Enemy)
 
 **Personagem** is a mysterious cartoon bear with ambiguous motives, created by Lord Noir to cause chaos and hatred. He is the 3rd newest member of [[Conquerors|The Conquerors]].
 
