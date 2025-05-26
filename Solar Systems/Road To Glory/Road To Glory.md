@@ -1,1 +1,1 @@
-The Road To Glory is the name of the solar system wherein the planets of [[Vostros]], [[Lonalictus]], [[Ebrippe]], [[Nautilli]], [[Garuhiatto]], [[Peng 33]] and [[Mobbichi]].
+The Road To Glory is the Solar System wherein the planets of [[Vostros]], [[Lonalictus]], [[Ebrippe]], [[Nautilli]], [[Garuhiatto]], [[Peng 33]] and [[Mobbichi]] reside.

@@ -1,0 +1,1 @@
+Panko is the Solar System wherein the planets of [[Halrebar]], [[Karn]], [[Alixatra]] and [[Fwei]] reside.
