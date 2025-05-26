@@ -6,8 +6,6 @@ The Conquerors are a group of people considered to be the "most powerful" in the
 
 ### [[Masaru of the Winds]]
 
-### [[Nekocious Neko|Nekocious Neko :3]] (BOUNTY: $4,839,544,000,000,000,000,000,000,000)
-
 ### [[Personagem]]
 
 ### [[Pavinio Jorel]]
@@ -16,7 +14,9 @@ The Conquerors are a group of people considered to be the "most powerful" in the
 
 ### [[Wells Ataranis]]
 
-## Candidates (Can only be recruited after a Conqueror's death or decay) | **Pre-Saltman**)
+### [[Nekocious Neko|Nekocious Neko :3]] (BOUNTY: $4,839,544,000,000,000,000,000,000,000)
+
+## Candidates (Can only be recruited after a Conqueror's death or fall) | **Pre-Saltman**)
 
 ### [[Alusia Mentha Piperita]] (BOUNTY: $540,000,000,000,000,000,000,000,000)
 
