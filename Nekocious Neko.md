@@ -47,7 +47,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Peasant childhood at the planet of [[Halrebar ]]--> Shitty stepfamily, abusive
 - Friendship with street kids --> Encounter with the post-cun band "[[Emperor]]" during their tour, wherein their guitarist gives her one of his prized Guitars. Love for music develops
 ## 1745
-- Heist at [[Abraxis]] goes wrong --> Friends are killed --> She encounters the Interstellar Government Commander Tokillius Relvashin
+- Heist at [[Abraxis]] goes wrong --> Friends are killed --> She encounters the Interstellar Government [[Commanders|Commander]] Tokillius Relvashin
 - Escape from Halrebar --> Wounded crash-land at the moon of [[Tephades]] --> Destruction of Guitar
 - Fateful encounter with Ponokota Ony during her personal graduation trip --> They begin traveling together
 ## 1746

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce23ae24e2f389ba",
+        "id": "192e4eb02108d2b2",
         "type": "tabs",
         "children": [
           {
-            "id": "4006d2dc2d62faba",
+            "id": "a728a6ea1b5d0105",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nekocious Neko.md",
+                "file": "Space Crews/Space Pirate Society/Conquerors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nekocious Neko"
+              "title": "Conquerors"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kage",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +180,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4006d2dc2d62faba",
+  "active": "a728a6ea1b5d0105",
   "lastOpenFiles": [
+    "Space Crews/Space Pirate Society/Donnas.md",
+    "Space Crews/Space Pirate Society/Dry Pirates.md",
+    "Space Crews/Space Pirate Society/Mahou Shoujiety.md",
+    "Space Crews/Space Pirate Society/NEKOUTA.md",
+    "Space Crews/Space Pirate Society/Orion's Wrath.md",
+    "Space Crews/Space Pirate Society/Conquerors.md",
+    "Space Crews/Interstellar Government/Governmental Protection Community.md",
+    "Space Crews/Interstellar Government/Commanders.md",
+    "Space Crews/Interstellar Government/-Interstellar Government.md",
+    "Solar Systems/Sect/Sect Planets/Miriam/The Conditioning Zone/The Conditioning Zone.md",
+    "Solar Systems/Sect/Sect Planets/Miriam/Miriam.md",
+    "Planets/Lamiace/Lamiace.md",
+    "Concepts/Objects/Hell-Radios.md",
+    "Concepts/Miscellaneous/Races.md",
+    "Concepts/Miscellaneous/Space Travel.md",
+    "UNIVERSAL ERAS/-Events (GENERAL)/Universal Strike.md",
+    "GEOPOLIS CENTRAL.md",
+    "Tokillius Relvashin Aquir.md",
+    "Nekocious Neko.md",
     "Nakamura Atatsun.md",
     "Concepts/Martial Arts/Kagemocha.md",
     "Concepts/Martial Arts/Yaminisatsu.md",
@@ -189,25 +208,6 @@
     "Lennes Jalop.md",
     "Putie.md",
     "Rataria Mango.md",
-    "Salankappa Gerorin.md",
-    "Saltman (Character).md",
-    "Prince of Aofuria Ogeki.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Strixitania/Kumie Tachibaru.md",
-    "Yaghvardi.md",
-    "Workarth.md",
-    "Wah.md",
-    "Truth Society Azure.md",
-    "The Falecceri.md",
-    "The Bowling King.md",
-    "Sudokubo Assassin Family.md",
-    "Strixitania Royal Family.md",
-    "Personagem.md",
-    "Onmoy.md",
-    "Nekocious Neko.md",
-    "Narmiller Knox.md",
-    "Mr. Azure.md",
-    "Ignatius Polanka.md",
-    "Hunters' Reunion.md",
     "Solar Systems/Panko/Panko Planets/Fwei",
     "Solar Systems/Panko/Panko Planets/Alixatra",
     "UNIVERSAL ERAS/Megalo Era",

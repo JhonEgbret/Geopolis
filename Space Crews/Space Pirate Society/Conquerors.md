@@ -10,7 +10,7 @@ The Conquerors are a group of people considered to be the "most powerful" in the
 
 ### [[Personagem]]
 
-### Person
+### [[Pavinio Jorel]]
 
 ### Person
 
@@ -26,6 +26,6 @@ The Conquerors are a group of people considered to be the "most powerful" in the
 
 ## Ex-Conquerors (**Pre-Saltman**)
 
-### Pohrtori Anerid †
+### Anfilis Amad †
 
 ### [[Tomoe Gervogyan|Tomoe Gervogyan Williamson Barbosa Baghdasar]] (NO BOUNTY) | CONSIDERED TOO DANGEROUS TO BECOME A TARGET |
