@@ -16,14 +16,12 @@
 > ##### Occupation
 > Student - Leader of the [[Truth Society Azure|T.S.A.]]
 > # Relationships
-> - Mitsuru Tachibaru (Mother)
-> - Fredford Tachibaru (Father)
-> - Kashite Inuru (Childhood Friend/Inspiration)
-> - Alune Lorna (Friend)
-> - [[Putie]] (Friend)
+> - [[Mitsuru Tachibaru]] (Mother)
+> - [[Fredford Tachibaru]] (Father)
 > - [[Phoenix Gabigool]] (Friend/Love Interest)
 > - [[Douraradan]] (Friend)
 > - [[Peccata]] (Stalker/Scared of)
+> - [[Putie]] (Friend)
 
 Kumie Tachibaru is a student at [[Edwington Gar High School]] in [[Trouxas|Trouxas]], [[Stonewall]], and the responsible for the formation of the T.S.A. Kumie is a laid-back and charming young girl, although also being a bit mentally ill, who will dedicate her life to live freely amongst the other nations and combat the corruption of The Divide, as she made a promise years ago to an old friend. 
 
@@ -37,4 +35,4 @@ Slowly, she learned to live by herself in the forest, straying from the path of 
 
 Eventually, the unexpected would happen, and a massive spaceship would abduct her and take her away to space. It was the ship of [[Ignatius Polanka]], which was visiting Akai in search of young girls to fulfill his yearly tax to the [[Mahou Shoujiety]], in accordance to the rules of the [[-Space Pirate Society|S.P.S.]] She was nursed back to health, and her unconscious body was shipped to the Mahou Shoujiety HQ. She woke up in an empty, dark room, with a plate full of delicious food, which she promptly devoured, and out of the shadows stepped their dark leader Hokurado. He would then invite her to the Mahou Shoujiety, explaining for hours on end what her purpose was and how she could fulfill her dream of traveling the universe alongside his crew. It was an unrefusable offer, and she rapidly accepted, getting used to her new life and situation over the course of a few months, although suffering with grave PTSD and mental issues from her time in the war. The first few missions were tame, wherein she made friends and used her survival skills to fight lesser monsters, such as blobs, goblins, small cuboids and animals in order to save people. She would never expect, though, what her next mission would entail.
 
-The Mahou Shoujiety were tasked, in the planet of 
+The Mahou Shoujiety were then tasked, in the God Planet of 
