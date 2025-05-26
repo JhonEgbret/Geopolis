@@ -2,7 +2,7 @@
 > # Pavinio Dornelles Jorel
 > 
 > ##### Aliases
-> - The 
+> - The Hitchhiker
 > ##### Age
 > 55
 > ##### Species
@@ -10,7 +10,7 @@
 > ##### Gender
 > Male
 > ##### Height
-> 
+> 7'2'' - 218 cm
 > ##### Affiliation
 > - Number Four Biggest Threat to [[-Interstellar Government|The Interstellar Government]]
 > ##### Bounty
@@ -25,4 +25,4 @@
 > - [[Anna Yazel]] (Ex-Wife)
 > - [[Sarah Suki ]](Daughter)
 
-Pavinio Jorel is a lone Space Hiker known for his charisma and silver tongue. In the years following his defeat at the Third Universal Strike, he began a hike towards the Border to the Forgotten Systems
+Pavinio Jorel is a lone [[Space Hiker]] and Conqueror known for his charisma and silver tongue. In the years following his defeat at the [[Universal Strike|Third Universal Strike]], he began a decades-long hike towards the [[Border]] to the [[Forgotten Systems]] for an unexplained reason.
