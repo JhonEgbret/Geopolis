@@ -25,12 +25,14 @@
             "id": "0353c31c0ce240c0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Character Profs/41-nekocious neko smile.png"
+                "file": "Space Crews/Space Pirate Society/-Space Pirate Society.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "41-nekocious neko smile"
+              "icon": "lucide-file",
+              "title": "-Space Pirate Society"
             }
           },
           {
@@ -209,9 +211,9 @@
   },
   "active": "0353c31c0ce240c0",
   "lastOpenFiles": [
+    "Images/Character Profs/41-nekocious neko smile.png",
     "Images/Character Profs/weeprof.png",
     "Images/Character Profs/tomprof.png",
-    "Images/Character Profs/41-nekocious neko smile.png",
     "Images/Character Profs/30.5-lupinoedited.png",
     "Images/Character Profs/33.5-alusiaprof 1.png",
     "Images/Character Profs/34-personagemfinally.png",
