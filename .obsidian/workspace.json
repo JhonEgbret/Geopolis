@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nekocious Neko.md",
+                "file": "Jerojero Lambarin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nekocious Neko"
+              "title": "Jerojero Lambarin"
             }
           }
         ]
@@ -172,5 +172,8 @@
     }
   },
   "active": "d5468304fc15ceb8",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Joey Vinedade.md",
+    "Nekocious Neko.md"
+  ]
 }
