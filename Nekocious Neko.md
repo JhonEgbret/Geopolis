@@ -99,7 +99,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Nekocious utilizes full skillset to stop Al --> The president is captured by NEKOUTA
 - She flees on the Onylicious alongside her crew
 - The Onylicious suffers heavy damage --> It lands at the moon of [[Lugili]]
-- Encounter with General [[Kun Nung]] -> Longest battle of Early NEKOUTA history, taking over 2 hours to finish. 
+- Encounter with General [[Kun]] -> Longest battle of Early NEKOUTA history, taking over 2 hours to finish. 
 - Nekocious is the victor, but she finally realizes her weakness, barely being able to protect her crew and their allied partners.
 - The Onylicious breaks down --> They are forced to communicate with the Interstellar Government and steal their ship
 - Travel to Mecina --> They hire Mechanic [[Ortino]] to help tow their ship --> Return to Lugili
@@ -148,7 +148,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 ## 1752
 - Nekocious, or better, Liverdaria, adopts the iconic name "Nekocious Neko :3" while in training.
 - Ony confronts the Onylicious' new owner, Weetorio, and by his suggestions, competes on a simple game of [[Quar]] for the ship. --> She manages to get his last piece, and wins easily enough, now making her way towards Tchaldaq-Nabir to get Jerojero back.
-- General Kun Nung is made part of the [[Governmental Protection Community|GPC]], along with Officer [[Waton]] (Now General Waton), Corporal [[Akiko]] and General [[Lambaster]], to oversee the protection of Tchaldaq-Nabir while its coronation is taking place.
+- General Kun is made part of the [[Governmental Protection Community|GPC]], along with Officer [[Waton]] (Now General Waton), Corporal [[Akiko]] and General [[Lambaster]], to oversee the protection of Tchaldaq-Nabir while its coronation is taking place.
 - 3 weeks later, before Ponokota's arrival, the [[Accounts War]] happens in the skies of Tchaldaq-Nabir, and the coronation officially takes place. The GPC unit is disbanded, and its agents fade into obscurity.
 - Ony arrives at Tchaldaq-Nabir --> She heads to the Royal Palace and demands to speak with their king --> Lambarin lets her in, to the Royal Guards' disapproval, and they converse as the two sit together on the stairway leading to his throne.
 - "I can't leave, Ony. I never wanted this, but you have to understand, there are forces way more powerful than the two of us within this castle alone." Jero says. 
@@ -228,10 +228,10 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 ## 1753
 - They head to the superprison in disguise, and sneak into a room with a [[Frond]] Wall. NEKOUTA meets once more.
 - It has been 4 years, and they all look awful. Dirty, scarred, and traumatized. They begin telling her of all they had done, and all that's happened in Geopolis since her capture. Nekocious cries like she had never done before ever since she met Ony for the first time, 6 years ago. 
-- After wiping her tears, Nekocious feels an unbridled rage the likes of which she had never felt before. This was almost the last time she's ever cried in her life. She writes her declaration on her notepad, gritting her teeth, and puts it to the Frond Wall.
+- After wiping her tears, Nekocious feels an unbridled rage the likes of which she had never felt before. She writes her declaration on her notepad, gritting her teeth, and puts it to the wall.
 - "The Interstellar Government, as well as any other organizations associated with it, and for the suffering they have caused me and my friends, is now my sworn enemy. From my time here, witnessing all the dirty secrets of this failed system come to the forefront, I have realized the truth. They're all demons, with the sole purpose of raping, killing and eating this Universe until there is nothing left to shove down their throats, and they do not deserve my mercy, for they have given us none. -Nekocious Neko, from NEKOUTA"
-- As the two on the other side of the wall stare in shock, Nekocious says: "I want you to put this declaration on the newspaper, by any means possible. And if I ever see any of you allying with these pigs or giving them any hint of mercy whatsoever, I will fucking kill you where you stand." She makes her way back to her cell, but stops and says "I thought of a name for our next album. Free Spiral. Just thought I'd share.".
-- A silence fills the rooms as the once happy crew realized what they had done to get here. They were no longer the same, and all had blood on their hands. This moment marked the end of Novice NEKOUTA.
+- As the two on the other side of the wall stare in shock, Nekocious says: "I want you to put this declaration on the newspaper, by any means possible. And if I ever see any of you allying with these pigs or giving them any hint of mercy whatsoever, I will fucking kill you where you stand." She makes her way back to her cell, but stops and says "I thought of a name for our next album.".
+- A silence fills the room as the once happy crew realized all they had done to get here. They were no longer the same, and all had blood on their hands. This moment marked the end of Novice NEKOUTA.
 # END OF NOVICE NEKOUTA
 # ASCENSION NEKOUTA
 - Goodbye Nekocious --> Ony and Lambarin look for a new ship in the market of Mecina, but all Class-A have been sold --> [[Chief Smithmaster]] discreetly tells them about the Black Black Market, at the very end of the Known Universe, that sells even whole freighters for cheap, as long as you can get there and return. The Market of [[Dokoaelice]] Space Station in [[Badusho]]. Their damaged Class-B Cargo Ship can only handle a single trip. They would not be able to return in the same ship if they took the trip there.
