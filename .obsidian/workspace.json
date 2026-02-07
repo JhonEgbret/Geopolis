@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Ardming"
             }
+          },
+          {
+            "id": "9a83019ccd30f20d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,11 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a2f11d46f73b1c3",
+  "active": "9a83019ccd30f20d",
   "lastOpenFiles": [
+    "Ardming.md",
     "Amarill Ciccer.md",
     "Aru Sayaki.md",
-    "Ardming.md",
     "Jerojero Lambarin.md",
     "Joey Vinedade.md",
     "Nekocious Neko.md"
