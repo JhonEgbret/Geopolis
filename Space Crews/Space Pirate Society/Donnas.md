@@ -1,1 +1,1 @@
-The Donnas are a female-led organization dedicated to the spread of anti-misogynistic ideals in the Known Universe, as of the L. They are affiliated with the [[-Space Pirate Society|S.P.S.]]
+The Donnas are a female-led organization dedicated to the spread of anti-misogynistic ideals in the [[Known Universe]], as of the [[Lax Era]] spreading to the [[Forgotten Systems|Unknown Universe]], much to the suffering of their members. They are affiliated with the [[-Space Pirate Society|S.P.S.]]
