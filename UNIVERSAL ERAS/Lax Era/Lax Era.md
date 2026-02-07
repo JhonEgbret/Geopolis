@@ -1,1 +1,1 @@
-The Lax Era was a time period of much change in the [[Known Universe]], tail-ended by the [[War of Wars]] during the [[UY|Third Universal Strike]].
+The Lax Era was a time period of much change in the [[Known Universe]], tail-ended by the [[War of Wars]] during the [[Universal Strike|Third Universal Strike]] and the rise of several [[Conquerors]] to power such as [[Atarani Wells]] and [[Nekocious Neko|Nekocious Neko :3]].
