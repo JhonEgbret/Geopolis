@@ -1,0 +1,1 @@
+The Megalo Era is by far the most turbulent era in [[Universal History]] and wherein the events of [[Saltman (Character)|Saltman]] take place. 

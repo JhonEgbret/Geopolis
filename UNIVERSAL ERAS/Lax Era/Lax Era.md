@@ -1,0 +1,1 @@
+The Lax Era was a time period of much change in the [[Known Universe]], tail-ended by the [[War of Wars]] during the [[UY|Third Universal Strike]].

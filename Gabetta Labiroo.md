@@ -6,7 +6,7 @@
 > - Tereza Dvořák
 > - Amira Bayan
 > - Bankuroku Ashi
-> - Stephenson Lockfred
+> - Stephan Lockfred
 > - Gabetta Labiroo
 > - GG
 > ##### Age
@@ -24,7 +24,7 @@
 > # Relationships
 >- Several historical figures in several solar systems, such as [[Lord Noir]], [[Limme Kimbler]], [[Lana Retrodus]], [[Personagem]], [[Ignatius Polanka]], [[Mr. Azure]], [[Khan Gabigool]], [[Kanpai]] and [[Kanashimi]], [[Bartholomew Strixitania]], [[Adanona Donna]], [[Joey Vinedade]], [[Captain Merangue]], [[Aru Sayaki]], etc.
 
-Gabetta Bankuroku Stephenson Amira Dvořák Illius Labiroo is a 40000+ years old immortal angel with the power of infinite handguns. She is also a high-schooler, studying at the High School of [[Sairakel]] , in the Nation of [[Akai]] of [[Vostros]] at the top of [[Mount Sal]].
+Gabetta Bankuroku Stephan Amira Dvořák Illius Labiroo is a 40000+ years old immortal angel with the power of infinite handguns. She is also a high-schooler, studying at the High School of [[Sairakel]] , in the Nation of [[Akai]] of [[Vostros]] at the top of [[Mount Sal]].
 
 ## Abilities and Techniques
 
@@ -40,4 +40,4 @@ Another soul power, this time involving the separation of her soul from her body
 
 Her most iconic power and the most associated to her is the power of Infinite Handguns, wherein, as stated, she can summon infinite handguns of all calibers, sizes and models, old and new, as well as making them float in the air and shoot infinitely with no reloads at max efficiency and power.
 
-This power led her to working with several Arms Dealers during wars in The Divide, as well as [[Universal Strike]] and [[War of The Josuns|The War of The Josuns]], due to being able to summon handguns and produce ammo infinitely and at zero cost, although she was paid adequately for all of the jobs she took, mainly working with her friend of many years, [redacted].
+This power led her to working with several Arms Dealers during wars in The Divide, as well as [[Universal Strike|Universal Strikes]] and [[War of The Josuns|The War of The Josuns]], due to being able to summon handguns and produce ammo infinitely and at zero cost, although she was paid adequately for all of the jobs she took, mainly working with her friend of many years, [redacted].
