@@ -27,28 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Space Crews/Space Pirate Society/Donnas.md",
+                "file": "UNIVERSAL ERAS/Ganymetsu Era/Ganymetsu Era.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Donnas"
-            }
-          },
-          {
-            "id": "134ad750109ba1f8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "title": "Ganymetsu Era"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "134ad750109ba1f8",
+  "active": "fa44357eed67dc02",
   "lastOpenFiles": [
     "Space Crews/Space Pirate Society/Donnas.md",
     "Space Crews/Space Pirate Society/Mahou Shoujiety.md",
