@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Ganymetsu Era"
             }
+          },
+          {
+            "id": "76eaaecfed397227",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa44357eed67dc02",
+  "active": "76eaaecfed397227",
   "lastOpenFiles": [
     "UNIVERSAL ERAS/Ganymetsu Era/Ganymetsu Era.md",
     "Space Crews/Space Pirate Society/Donnas.md",
