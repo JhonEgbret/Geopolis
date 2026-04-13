@@ -39,12 +39,14 @@
             "id": "76eaaecfed397227",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Gabetta Labiroo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "Gabetta Labiroo"
             }
           }
         ],
@@ -200,32 +202,32 @@
   },
   "active": "76eaaecfed397227",
   "lastOpenFiles": [
-    "UNIVERSAL ERAS/Ganymetsu Era/Ganymetsu Era.md",
-    "Space Crews/Space Pirate Society/Donnas.md",
-    "Space Crews/Space Pirate Society/Mahou Shoujiety.md",
-    "Space Crews/Space Pirate Society/NEKOUTA.md",
-    "Space Crews/Space Pirate Society/Dry Pirates.md",
-    "Space Crews/Space Pirate Society/-Space Pirate Society.md",
-    "Space Crews/Conquerors.md",
-    "Space Crews/Interstellar Government/Governmental Protection Community.md",
-    "Butchery.md",
+    "Emperor.md",
+    "Elanin.md",
+    "Edwington Gar High School.md",
+    "Dry Eye Mcgee.md",
+    "Douraradan.md",
+    "Dogland Industrial Revolution.md",
+    "Chiuanna.md",
     "Captain Merangue.md",
+    "Butchery.md",
     "Boner.md",
     "Blingue.md",
-    "Aru Sayaki.md",
-    "Amarill Ciccer.md",
-    "Alusia Mentha Piperita.md",
-    "UNIVERSAL ERAS/1 - Beginning Era/Beginning Era.md",
-    "Al Borges.md",
-    "Ardming.md",
-    "UNIVERSAL ERAS/Lax Era/Lax Era.md",
-    "UNIVERSAL ERAS/Megalo Era/Megalo Era.md",
-    "UNIVERSAL ERAS/UNIVERSAL HISTORY.md",
-    "Space Crews/Interstellar Government/-Interstellar Government.md",
-    "Nekocious Neko.md",
-    "Lord Noir.md",
-    "UNIVERSAL ERAS/Worthwhile Era",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Lonalictus/Lonalictus.md",
-    "Space Crews/Interstellar Government/Commanders.md"
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Sunfarers/Tomoe Gervogyan.md",
+    "Space Crews/Conquerors.md",
+    "Space Crews/Space Pirate Society/Orion's Wrath.md",
+    "Space Crews/Space Pirate Society/NEKOUTA.md",
+    "Space Crews/Space Pirate Society/Dry Pirates.md",
+    "Space Crews/Space Pirate Society/Donnas.md",
+    "Space Crews/Space Pirate Society/Mahou Shoujiety.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/The Divide SIDE A.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Species/Flora/Sunov.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Species/Flora/Spesfleur.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Species/Fauna/Yborgo.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Species/Fauna/Sumanna.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Species/Fauna/Sinfagia.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Species/Fauna/Lupis.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Species/Fauna/Canis.md",
+    "UNIVERSAL ERAS/Worthwhile Era"
   ]
 }
