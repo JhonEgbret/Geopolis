@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSAL ERAS/Ganymetsu Era/Ganymetsu Era.md",
+                "file": "Nekocious Neko.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ganymetsu Era"
+              "title": "Nekocious Neko"
             }
           },
           {
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kinrin.md",
+                "file": "Space Crews/Kinrin.md",
                 "mode": "source",
                 "source": false
               },
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,34 +200,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76eaaecfed397227",
+  "active": "fa44357eed67dc02",
   "lastOpenFiles": [
+    "Space Crews/Space Pirate Society/NEKOUTA.md",
+    "Space Crews/Space Pirate Society/Orion's Wrath.md",
+    "Space Crews/Kinrin.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Crews/Elites.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Crews/Azure Corps.md",
+    "Space Crews/Conquerors.md",
+    "Space Crews/Space Pirate Society/Donnas.md",
+    "Space Crews/Interstellar Government/Governmental Protection Community.md",
+    "Space Crews/Interstellar Government/-Interstellar Government.md",
+    "Space Crews/Interstellar Government/Commanders.md",
+    "Space Crews/Space Pirate Society/-Space Pirate Society.md",
     "Nekocious Neko.md",
+    "UNIVERSAL ERAS/Ganymetsu Era/Ganymetsu Era.md",
+    "Space Crews/Space Pirate Society/Dry Pirates.md",
+    "Space Crews/Space Pirate Society/Mahou Shoujiety.md",
+    "Gabigool Family.md",
     "Jerojero Lambarin.md",
     "Ignatius Polanka.md",
     "Hunters' Reunion.md",
     "Hekos.md",
     "Grimm Edon.md",
     "GEOPOLIS CENTRAL.md",
-    "Gabigool Family.md",
     "Gabetta Labiroo.md",
     "Emperor.md",
     "Edwington Gar High School.md",
     "Dry Eye Mcgee.md",
-    "Douraradan.md",
-    "Dogland Industrial Revolution.md",
-    "Chiuanna.md",
-    "Captain Merangue.md",
-    "Butchery.md",
-    "Boner.md",
-    "Blingue.md",
-    "Aru Sayaki.md",
-    "Ardming.md",
-    "Amarill Ciccer.md",
-    "Alusia Mentha Piperita.md",
-    "Al Borges.md",
-    "UNIVERSAL ERAS/Megalo Era/Megalo Era.md",
-    "UNIVERSAL ERAS/Lax Era/Lax Era.md",
     "UNIVERSAL ERAS/Worthwhile Era"
   ]
 }

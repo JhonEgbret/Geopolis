@@ -54,7 +54,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Stay at the music shop of [[Semperho]] --> First heist
 - First encounter with the Interstellar Government as enemies --> Officer by the name of "[[Waton]]"
 - Defeat --> First classified as a Space Pirate (Bounty of $400, at 13)
-- They make their last stop at the dying planet of [[Janzal]] --> Encounter with up-and-coming space group "Kinrin", and their leaders, Ghost-Lady Flory and Canis Eyes Mathias. --> NEKOUTA makes its first alliance before its disbanding.
+- They make their last stop at the dying planet of [[Janzal]] --> Encounter with up-and-coming space group "Kinrin", and their leaders, [[Ghost-Lady Flory]] and [[Canis Eyes Mathias]]. --> NEKOUTA makes its first alliance before its disbanding.
 - Separation from Ony --> Training at the moon of [[Satellaria]] by herself, learning magic for the first time.
 ## 2 YEARS SKIP - TLDR
 - Halrebar poisoning itself -> Hate against Aeluningen at an all time high
@@ -183,7 +183,6 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - She calls Kinrin for backup and is forced to draw first blood. Ony is now one of "them".
 - As Kinrin arrives on the scene of the battle, The Queen's Guards (Salamar, Narith, Dominic) realize the true scale of the attack -> Queen Vanabara calls the Interstellar Government. Commander Sengano Danki is on his way.
 - Ony finds Jerojero and retrieves him. "Told you I'd do it, dummy." Ony says with a smirk, trying to hide her tears. 
-- "We're not out of this yet, Nyny." Lambarin says, concerned. 
 - Before they can leave the Castle Grounds they are intercepted by Sengano -> The Fighters Guild has fallen and the Queen's Guards are picking off who's left. -> Before Sengano can strike, they are protected by Mathias. He looks at the two with the look of a concerned parent. "Just what have you two done."
 - The Interstellar Government tries to take the Onylicious, thus revealing the Security Measures Ony had implemented. It mows down any officer that comes in its path.
 - The Castle is in pieces, the Queen has left the planet and the Castle Grounds are stained with blood and littered with bodies and flies.
@@ -194,7 +193,8 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Guard Dominic is killed by Pamin from Kinrin after being impaled five times.
 - Guard Narith flees the scene, never to be seen again.
 - The Onylicious is destroyed permanently and explodes
-- The Castle of Palagna is now a massive pile of rubble and all forests and cities and people have died. The planet of Tchaldaq-Nabir is now a wasteland. Sunrise.
+- The Castle of Palagna is now a massive pile of rubble and all forests and cities and people have died. The planet of Tchaldaq-Nabir is now a wasteland.
+- Sunrise.
 - Jerojero limps along the empty roads while dragging Ony's dead body, only hearing explosions and screams from afar.
 - Flory locates Lambarin from her ship and lands to assist him -> Ony isn't breathing and her heart has stopped over an hour ago -> A deep felling of dread overtakes them all. "I couldn't even say goodbye..."
 - Flory decides to use her last spell to guarantee the New Generation - A Black Magic spell to save one from death, but that in exchange requires Untainted Souls. Flory gives her own life alongside the lives of her 7 fallen crewmates. 100 years of solitude on her back, she fulfills her selfish act. 
