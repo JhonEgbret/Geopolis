@@ -1,1 +1,1 @@
-Kinrin is a resistance group responsible for several events 
+Kinrin is a resistance group responsible for several events in Universal History and 
