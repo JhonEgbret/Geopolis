@@ -14,7 +14,7 @@
 > ##### Gender
 > Male
 > ##### Height
-> 20'6'' - 624 cm
+> 8'11'' - 271 cm
 > ##### Affiliation
 > - Affiliated with The Divide's Elites
 > - Protected by Azure
@@ -38,5 +38,3 @@
 Limme Kimbler is an [[Akai|Akai-born]] man that has trained his entire life to become one of the strongest men in the universe, currently being part of The Elites. He has a deep passion for philosophy and during training is always reading a book or two on philosophical concepts and taking in as much knowledge as he can about the meaning of life and humanity's finite existence on The Divide. His favorite philosophical concepts are related to human nature, ignoramus et ignorabimus and the pursuit of happiness.
 
 Limme has spent his entire life worshipping the God of Death Shinue, as he is acutely aware that despite the absurd level of power he has achieved, he one day will lose all he has fought for, as he is only human, and will never be able achieve godhood. He prays every day to Shinue in order to keep his life for another day, and continue becoming stronger.
-
-He has grown in stature significantly due to his body mass adapting to his power level, and is known as the biggest human being in history, being the approximate height of, citing equivalents from our world, the Louvre Pyramid and the Great Sphinx of Giza, taller than Mount Rushmore, the Hollywood Sign and the Great Buddha of Kamakura, as well as being half the height of Christ the Redeemer.
