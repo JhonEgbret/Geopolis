@@ -1,1 +1,1 @@
-Canis is dog people
+The Canis are a species native to [[The Divide|The Divide's]] both sides, rumored to originate from [[The Seam]] then having migrated to more populated areas. They have been victim of much prejudice by humans but have fought back in recent years to gain their independence, using their higher intelligence to their advantage against humanity, thus forming the nation of [[Dogland]] in [[The Divide SIDE A]] and some parts of [[The Divide SIDE B|SIDE B]], as well as The Seam.

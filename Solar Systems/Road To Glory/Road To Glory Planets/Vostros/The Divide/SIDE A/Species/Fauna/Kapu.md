@@ -1,0 +1,1 @@
+The Kapu is a bird native to The Divide SIDE A and the main culprit behind the Kapu Plague of the Fallscure Era
