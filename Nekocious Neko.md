@@ -21,6 +21,8 @@
 > CONQUEROR LEVEL - PREVIOUSLY $4,839,544,000,000,000,000,000,000,000
 > ##### Occupation
 > [[Conquerors|Conqueror]] - [[NEKOUTA]] Vocalist
+> ##### Status
+> Alive
 > # Relationships
 > - Unknown parents †
 > - Unknown step-parents † (Hates)
@@ -44,7 +46,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 
 # EARLY NEKOUTA
 ## 1733 - 1751
-- Peasant childhood at the planet of [[Halrebar ]]--> Shitty stepfamily, abusive
+- Peasant childhood at the planet of [[Halrebar ]]--> Terrible, abusive stepparents.
 - Friendship with street kids --> Encounter with the post-cun band "[[Emperor]]" during their tour, wherein their guitarist gives her one of his prized Guitars. Love for music develops
 ## 1745
 - Heist at [[Abraxis]] goes wrong --> Friends are killed --> She encounters the Interstellar Government [[Commanders|Commander]] Tokillius Relvashin
@@ -103,7 +105,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Nekocious is the victor, but she finally realizes her weakness, barely being able to protect her crew and their allied partners.
 - The Onylicious breaks down --> They are forced to communicate with the Interstellar Government and steal their ship
 - Travel to Mecina --> They hire Mechanic [[Ortino]] to help tow their ship --> Return to Lugili
-- The Onylicious was taken.
+- The Onylicious is taken
 ### **- END OF THE HEIST OF LIMPEX -**
 #### - TOTAL CASUALTIES: 
 ##### - CIVILIAN: 0
@@ -245,4 +247,4 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - They understand, and Tawurna then gives the two their "mission", to recover intel stolen from them, being kept in a stronghold at the Border Moon of [[Zelkai]] by a terrifying space pirate crew. She did not have much faith in their skill, and even sent Bringue to assist them.
 - They arrive at the lush green moon, walking slowly towards the stronghold, littered with impaled corpses and a flag very easily recognizable, the symbol of the Harbinger of Rot, Personagem. Whoever they come across inside, it will not be a fair fight. Lambarin knocks on the door as the other two hide in the bushes and observe.
 - In the span of seconds, two archers show up at the East and West walls of the stronghold, and they are quickly dealt with by Ony's knife-throwing skill, shooting frantically at the trees before quickly falling over and dying. The door slowly begins to open as that ominous feeling gets even stronger.
-- Bringue is grabbed from behind by two cold hands, and before he can even turn around, is knocked out by whatever it is. Ony realizes Bringue is gone and begins to panic, but soon realizes 
+- Bringue is grabbed from behind by two cold hands, and before he can even turn around, is knocked out by whatever it is. Ony realizes Bringue is gone and begins to panic, but soon realizes the situation.
