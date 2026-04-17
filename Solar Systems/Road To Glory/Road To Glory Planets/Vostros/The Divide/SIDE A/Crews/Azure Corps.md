@@ -10,7 +10,7 @@ Azure Corps' headquarters is located on a private island East of the territory t
 
 ### **||NUMBER ONE - [[Tomoe Gervogyan|TOMOE GERVOGYAN WILLIAMSON BARBOSA BAGHDASAR]] - NO BOUNTY||**
 
-### **||NUMBER TWO - IGNATIUS POLANKA - BOUNTY: $900,000,000,000,000,000,000,000,000,000,000||**
+### **||NUMBER TWO - [[Ignatius Polanka|IGNATIUS POLANKA]] - BOUNTY: $900,000,000,000,000,000,000,000,000,000,000||**
 
 ### **||NUMBER THREE - [ALUSIA MENTHA PIPERITA](Alusia Mentha Piperita) - BOUNTY: $540,000,000,000,000,000,000,000,000||**
 

@@ -18,7 +18,7 @@ The Conquerors are a group of people considered to be the "most powerful" in the
 
 ## Candidates (Can only be recruited after a Conqueror's death or fall) | **Pre-Saltman**)
 
-### [[Alusia Mentha Piperita]] (BOUNTY: $540,000,000,000,000,000,000,000,000)
+### [[Alusia Mentha Piperita]] (BOUNTY: $982,000,000,000,000,000)
 
 ### [[Ignatius Polanka|Ignatius Artjen Polanka]]
 

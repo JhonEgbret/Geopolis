@@ -17,7 +17,7 @@ On their travels to the universe they have come into contact or befriended sever
 
 ## Members (Pre-Saltman Start)
 
-### The Parasite Swordswoman | [[Alusia Mentha Piperita]] (BOUNTY: $540,000,000,000,000,000,000,000,000) | NUMBER SIX BIGGEST THREAT TO THE INTERSTELLAR GOVERNMENT
+### The Parasite Swordswoman | [[Alusia Mentha Piperita]] (BOUNTY: $982,000,000,000,000,000) | NUMBER SIX BIGGEST THREAT TO THE INTERSTELLAR GOVERNMENT
 
 her
 
@@ -64,19 +64,19 @@ A dark edgy guy whos just really edgy. He's half-demon and evil, but a chill dud
 
 ## Members (Post-Saltman Start)
 
-### Nobody | Alusia Mentha Piperita (BOUNTY: $540,000,000,000,000,000,000,000,000) | NUMBER SIX BIGGEST THREAT TO THE INTERSTELLAR GOVERNMENT
+### Nobody | Alusia Mentha Piperita (BOUNTY: $540,000,000,000,000) | NUMBER SIX BIGGEST THREAT TO THE INTERSTELLAR GOVERNMENT
 
 her again
 
-### [[Lebadoo]] | Osmo Cavailhé (BOUNTY: $5,000,000,000,677,000)
+### [[Lebadoo]] | Osmo Cavailhé (BOUNTY: $)
 
 Only surviving crew member of the Ballad's crash on Earth besides the Captain.
 
-### [[The Bowling King]] | Kuglanje Bunisalić
+### [[The Bowling King]] | Kugla Bunisalić
 
 Dreams of becoming the best at bowling in the universe to avenge his lost love "Schiavonesca Bunisalić".
 
-### [[Wah]] | True Name Unknown (BOUNTY: $18)
+### [[Wah]] | True Name Unknown (BOUNTY: $8)
 
 Secret dream.
 

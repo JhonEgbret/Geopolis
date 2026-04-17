@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSAL ERAS/Ganymetsu Era/Ganymetsu Era.md",
+                "file": "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Crews/Azure Corps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ganymetsu Era"
+              "title": "Azure Corps"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bounty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,32 +203,32 @@
   },
   "active": "fa44357eed67dc02",
   "lastOpenFiles": [
+    "Space Crews/Conquerors.md",
+    "Space Crews/Space Pirate Society/Orion's Wrath.md",
+    "Truth Society Azure.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Crews/Azure Corps.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Crews/Elites.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/Fallscure Era/Fallscure Era Events/Fascure Era Wars/War of The Josuns.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/Fallscure Era/Fallscure Era Events/Fascure Era Wars/Attack On The World Capital of Musse.md",
+    "Concepts/Magic/Magic.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Strixitania/Kumie Tachibaru.md",
+    "UNIVERSAL ERAS/Ganymetsu Era/Ganymetsu Era.md",
     "UNIVERSAL ERAS/1 - Beginning Era/Beginning Era.md",
     "Nekocious Neko.md",
     "Space Crews/Space Pirate Society/NEKOUTA.md",
     "Space Crews/Space Pirate Society/Mahou Shoujiety.md",
-    "Space Crews/Space Pirate Society/Orion's Wrath.md",
     "Space Crews/Kinrin.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Crews/Elites.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Crews/Azure Corps.md",
-    "Space Crews/Conquerors.md",
     "Space Crews/Space Pirate Society/Donnas.md",
     "Space Crews/Interstellar Government/Governmental Protection Community.md",
     "Space Crews/Interstellar Government/-Interstellar Government.md",
     "Space Crews/Interstellar Government/Commanders.md",
     "Space Crews/Space Pirate Society/-Space Pirate Society.md",
-    "UNIVERSAL ERAS/Ganymetsu Era/Ganymetsu Era.md",
     "Space Crews/Space Pirate Society/Dry Pirates.md",
     "Gabigool Family.md",
     "Jerojero Lambarin.md",
     "Ignatius Polanka.md",
     "Hunters' Reunion.md",
     "Hekos.md",
-    "Grimm Edon.md",
-    "GEOPOLIS CENTRAL.md",
-    "Gabetta Labiroo.md",
-    "Emperor.md",
-    "Edwington Gar High School.md",
     "UNIVERSAL ERAS/Worthwhile Era"
   ]
 }

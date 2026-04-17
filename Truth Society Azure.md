@@ -5,6 +5,6 @@ Truth Society Azure, commonly known as the "T.S.A.", is a [[Strixitania|Trixan]]
 
 ### [[Phoenix Gabigool]] - Informant
 
-### Entity 66 (Nicknamed "[[Putie]]") - Lab Escapee (BOUNTY: $532,000,000)
+### Entity 66 (Nicknamed "[[Putie]]") - Lab Escapee (BOUNTY: $1,000)
 
 ### [[Douraradan]] - CGI Expert
