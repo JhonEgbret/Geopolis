@@ -3,10 +3,10 @@
 > 
 > ##### Aliases
 > - Illius Ablatio
-> - Tereza Dvořák
+> - Teresa Dvořák
 > - Amira Bayan
-> - Bankuroku Ashi
-> - Stephan Lockfred
+> - Sanroku Ashi
+> - Steph Lockness
 > - Gabetta Labiroo
 > - GG
 > ##### Age
@@ -20,11 +20,11 @@
 > ##### Affiliation
 > - Unknown
 > ##### Occupation
-> Student
+> Student at Sairakel High School
 > # Relationships
 >- Several historical figures in several solar systems, such as [[Lord Noir]], [[Limme Kimbler]], [[Lana Retrodus]], [[Personagem]], [[Ignatius Polanka]], [[Mr. Azure]], [[Khan Gabigool]], [[Kanpai]] and [[Kanashimi]], [[Bartholomew Strixitania]], [[Adanona Donna]], [[Joey Vinedade]], [[Captain Merangue]], [[Aru Sayaki]], etc.
 
-Gabetta Bankuroku Stephan Amira Dvořák Illius Labiroo is a 40000+ years old immortal angel with the power of infinite handguns. She is also a high-schooler, studying at the High School of [[Sairakel]] , in the Nation of [[Akai]] of [[Vostros]] at the top of [[Mount Sal]].
+Gabetta Bankuroku Stephan Amira Dvořák Illius Labiroo is a 40000+ years old immortal angel with the power of infinite handguns. She is also a high-schooler, studying at the High School of [[Sairakel]] , in the Nation of [[Akai]] in [[The Divide SIDE A|SIDE A of The Divide]], at the top of [[Mount Sal]].
 
 ## Abilities and Techniques
 
