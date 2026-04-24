@@ -1,1 +1,1 @@
-Lennes Jalop is a necromancer in the planet of [[Miriam]]'s C-Zone, [[Oldcast]]. He is an active believer of Jolism and part of [[Orion's Wrath]] before its crash.
+Lennes Jalop is a necromancer in the planet of [[Miriam]]'s C-Zone, [[Oldcast]]. He is an active believer of Holism and part of [[Orion's Wrath]] before its crash.

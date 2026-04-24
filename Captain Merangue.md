@@ -1,1 +1,1 @@
-" *Back when I was a rookie, I comforted a little girl who had only seen war. Nowadays, she's chief of The Orions. Was I wrong, for giving her a taste of the life she never had?* "
+" *Back when I was a rookie, I saved a little girl who had only seen war. Now, she's chief of The Orions. In the end, was I wrong for giving her a taste of the life she never had?* "

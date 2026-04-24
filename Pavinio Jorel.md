@@ -19,7 +19,7 @@
 > [[Conquerors|Conqueror]]
 > # Relationships
 > - [[Dry Eye Mcgee]] (Former Enemy)
-> - [[Al Borges]] (Friend)
+> - [[Al Bonte]] (Friend)
 > - [[Gabetta Labiroo]] (Friend)
 > - [[MC Amblingo]] (Dislikes)
 > - [[Anna Yazel]] (Ex-Wife)

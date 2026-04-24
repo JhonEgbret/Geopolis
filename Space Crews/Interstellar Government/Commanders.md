@@ -10,4 +10,4 @@ The Commanders are the [[-Interstellar Government|Interstellar Government's]] be
 
 ### [[Nakamura Atatsun]] (The Master of Darkness)
 
-### [[Al Borges]] (The Swordsman of Fate)
+### [[Al Bonte]] (The Swordsman of Fate)

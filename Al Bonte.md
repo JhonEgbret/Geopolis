@@ -1,0 +1,3 @@
+Al Bonte is a swordsman known for his prowess in battle and allegiance to the interstellar government as one of the commanders, his dream is that of protecting and preserving life that he considers precious. His daughter, [[Licci]], shares his love of nature.
+
+Al has been part of two Universal Strikes, several conflicts and has survived all alongside his sworn brother [[La]], an equally talented swordsman. He owns 2 Sacred Blades created by The [[G-Blips]] 2 weeks after their assassination at the end of the [[Lax Era]].
