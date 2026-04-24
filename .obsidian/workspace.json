@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagem.md",
+                "file": "UNIVERSAL ERAS/Megalo Era/Megalo Era.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personagem"
+              "title": "Megalo Era"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "joli",
+                "query": "personag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,32 +202,32 @@
   },
   "active": "fa44357eed67dc02",
   "lastOpenFiles": [
-    "Pavinio Jorel.md",
-    "Onmoy.md",
-    "Nekocious Neko.md",
-    "Narmiller Knox.md",
-    "Nakamura Atatsun.md",
-    "Nagaiji Tsurugi.md",
-    "Mr. Azure.md",
-    "MC Amblingo.md",
-    "Masaru of the Winds.md",
-    "Macellarius.md",
-    "Lupino Crime Family.md",
-    "Lord Noir.md",
-    "Lennes Jalop.md",
-    "Lebadoo.md",
-    "Lana Retrodus.md",
-    "Lady Lamina.md",
-    "Kargos Alenthae.md",
-    "Kaputerica Pestis.md",
-    "Kapprana.md",
-    "Joey Vinedade.md",
-    "Jerojero Lambarin.md",
-    "Ignatius Polanka.md",
-    "Hekos.md",
-    "Grimm Edon.md",
-    "Edwington Gar High School.md",
+    "UNIVERSAL ERAS/Lax Era/Lax Era.md",
+    "UNIVERSAL ERAS/Megalo Era/Megalo Era.md",
+    "UNIVERSAL ERAS/Ganymetsu Era/Ganymetsu Era.md",
     "UNIVERSAL ERAS/-Events (GENERAL)/Hunters' Reunion.md",
+    "UNIVERSAL ERAS/-Events (GENERAL)/Universal Strike.md",
+    "UNIVERSAL ERAS/1 - Beginning Era/Beginning Era.md",
+    "Space Crews/Space Pirate Society/Donnas.md",
+    "Space Crews/Space Pirate Society/-Space Pirate Society.md",
+    "Al Bonte.md",
+    "UNIVERSAL ERAS/UNIVERSAL HISTORY.md",
+    "Space Crews/Space Pirate Society/Dry Pirates.md",
+    "Space Crews/Space Pirate Society/Mahou Shoujiety.md",
+    "Captain Merangue.md",
+    "Dogland Industrial Revolution.md",
+    "Butchery.md",
+    "Blingue.md",
+    "Aru Sayaki.md",
+    "Ardming.md",
+    "Amarill Ciccer.md",
+    "Alusia Mentha Piperita.md",
+    "Boner.md",
+    "Douraradan.md",
+    "Nakamura Atatsun.md",
+    "Narmiller Knox.md",
+    "Nekocious Neko.md",
+    "Onmoy.md",
     "UNIVERSAL ERAS/Worthwhile Era"
   ]
 }

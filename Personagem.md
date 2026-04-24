@@ -18,11 +18,12 @@
 > ##### Occupation
 > [[Conquerors|Conqueror]]
 > # Relationships
+> - [[Lord Noir]] (Creator/Father)
 > - [[Masaru of the Winds]] (Enemy)
 
 **Personagem** is a mysterious cartoon bear with ambiguous motives, created by Lord Noir to cause chaos and hatred. He is the 3rd newest member of [[Conquerors|The Conquerors]].
 
-His appearance is that of a small, brown bear-like creature with button eyes and deformed feet, while always sporting a clean smile and smelling of a mixture of dog food and the odor of death and rot. He has a set of metal hydraulic claws stuck permanently on his back that give him an additional weight and can be used as weapons.
+His appearance is that of a small, brown bear-like creature with button eyes and deformed feet, always sporting a clean smile and smelling of a mixture of dog food and the odor of death and rot. He has a set of metal hydraulic claws stuck permanently on his back that give him an additional weight and can be used as weapons.
 
 Not much is known of him, but he has a very advanced level of intelligence and a confusing sense of morality, giving him a terrifying unpredictability. It is unknown where he first came into existence, but there have been records of his existence dating back to the [[Fallscure Era]] of humanity, although some people claim he was "never there" in the first place.
 ## Backstory
