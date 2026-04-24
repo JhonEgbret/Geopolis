@@ -5,7 +5,7 @@
 > ##### Aliases
 > - The Drunkard
 > ##### Age
-> 67
+> 63
 > ##### Species
 > [[Canis]]
 > ##### Gender
@@ -15,14 +15,16 @@
 > ##### Affiliation
 > - Affiliated with The Divide's Elites
 > - Protected by Azure
+> ##### Bounty
+> $
 > ##### Occupation
 > [Elite](Elites.md) - Ex-Captain of The Drunkard Pirates
 > # Relationships
 > - Unknown parents 
 > - Borbonne (Alcohol Supplier/Childhood best friend/Enabler) 
 > - [[Lana Retrodus]] (Friend/Ex-love interest)
-> - Mann'o'man (Ex-rival)
-> - Bronco Calloway (Supposed Uncle)
+> - Mallow (Ex-rival)
+> - Broncky Laman (Supposed Uncle)
 > - [[Lupino P. Alerma]] (Dislikes)
 > - [[Limme Kimbler]] (Is indifferent to)
 > - [[Narmiller Knox]] (Likes)
@@ -34,13 +36,13 @@ Durinki W; mostly known as "The Drunkard", is an old and bruised Canis man, way 
 
 Though he is known for being a drunkard who never goes anywhere without a bottle of some alcoholic substance, he is by far the most intelligent member of The Elites. He formed his band of Pirates at 10 years old to escape his place of birth and has meticulously planned every step of his journey since then. Many members of The Elites seem to look down upon him, but the most experienced and wise members such as Narmiller, Limme and Anfie are able to recognize his true nature and all of the suffering that got him to the place he wished to die in since a child.
 
-Durinki is the most powerful Canis man in [[The Divide SIDE A|The Divide]], being able to get past all of the limitations of his species. He invented a brand new form of martial arts which he named "Inugeki" that involves the use of the Canis' unique intelligence, increased sense of smell and agility to use their combat ability in the fullest. If he had learned [[Black Magic]] at some point in his life he could have become of the most powerful people in the universe, but he despises the concept of magic and magic users, and does not wish to live alongside them.
+Durinki is the most powerful Canis man in [[The Divide SIDE A|The Divide]], being able to get past all of the limitations of his species. He invented a brand new form of martial arts which he named "Inugeki" that involves the use of the Canis' unique intelligence, increased sense of smell and agility to use their combat ability in the fullest. If he had learned [[Black Magic]] at his prime he could have become of the most powerful people in [[Geopolis]], but he despises the concept of magic and magic users, and does not wish to live alongside them.
 
-He has had a hatred for the government ever since a child, despite his own family being part of one of the first divisions of Azure Corps, and instilling on him a love for authority which ended up never growing further than recognizing their existence. The more he traveled as a pirate, and the more people he met and islands he visited, the greater his hatred for Azure Corps grew upon seeing all of the pain and suffering that they had hidden from the public eye, and that he worked so hard to fight against. He slowly formed his crew of equal-minded people with a dream of freedom and rebellion against all that is wrong in the world, and grew more powerful with the years alongside the people he considered family.
+He has had a hatred for the government ever since a child, despite his own family being part of one of the first divisions of [[Azure Corps]], trying to force on him a love for authority which ended up never growing further than recognizing their existence. The more he traveled as a pirate, and the more people he met and islands he visited, the greater his hatred for Azure Corps grew upon seeing all of the pain and suffering that they had hidden from the public eye, and that he worked so hard to fight against. He slowly formed his crew of equal-minded people with a dream of freedom and rebellion against all that is wrong in the world, and grew more powerful with the years alongside the people he considered family.
 
-This hatred culminated in The Conflict of Law, an incredible battle that lasted only 6 hours but changed the fate of The Divide forever, wherein him and his crew fought against the most powerful members of Azure Corps in order to prove their worth to the world and avenge his first mate, [[Totsugeki Majin]]. The battle ended at midnight, and Durinki was the only survivor, with a missing leg and a scar across his snout that never healed.
+This hatred culminated in The [[Conflict of Law]], an incredible battle that lasted only 6 hours but changed the fate of The Divide forever, wherein him and his crew fought against the most powerful members of Azure Corps in order to prove their worth to the world and avenge his first mate, [[Totsugeki Majin]]. The battle ended at midnight, and Durinki was the only survivor, with a missing leg and a scar on his back that never healed.
 
-After the Conflict of Law, after all of the casualties him and his crew had dealt, he, in a moment of weakness and selfishness, made an offer with Mr. Azure himself in order to gain a spot at the "top of the world", reserved only for the truly special and worthy. That resulted in the creation of The Elites. After finally being able to sit in the spot he desired since childhood, the infamous Throne of Ashes, at the top of the known world, above even Azure Corps, he only felt... empty.
+After the Conflict of Law, after all of the casualties him and his crew had dealt, he, in a moment of weakness and selfishness, made an offer with Mr. Azure himself in order to gain a spot at the "top of the world", reserved only for the truly special and worthy. That resulted in the creation of The Elites. After finally being able to sit in the spot he desired since childhood, the infamous [[Throne of Ashes]], at the top of the known world, above even Azure Corps, he only felt... empty.
 ## Relationships
 
 ### Narmiller Knox

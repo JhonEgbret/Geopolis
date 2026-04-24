@@ -16,8 +16,7 @@
 > ##### Bounty
 > $8
 > ##### Occupation
-> Student at Partali High School - Member of Orion's Wrath (Post-Saltman Start)
+> Student at Partali High School - Member of [[Orion's Wrath]] (Post-Saltman Start)
 > # Relationships
 >- Unknown Parents
->- Kumie Tachibaru (Friend/Leader)
->- Phoenix Gabigool (Friend)
+>- 
