@@ -76,7 +76,7 @@ Only surviving crew member of the Ballad's crash on Earth besides the Captain.
 
 Dreams of becoming the best at bowling in the universe to avenge his lost love "Schiavonesca Bunisalić".
 
-### [[Wah]] | True Name Unknown (BOUNTY: $8)
+### [[Wah]] | True Name Unknown
 
 Secret dream.
 

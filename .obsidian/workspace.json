@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Captain Merangue.md",
+                "file": "Alusia Mentha Piperita.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Captain Merangue"
+              "title": "Alusia Mentha Piperita"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSAL ERAS/Megalo Era/Megalo Era.md",
+                "file": "Wah.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Megalo Era"
+              "title": "Wah"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "personag",
+                "query": "Orion's",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,8 +203,24 @@
   },
   "active": "fa44357eed67dc02",
   "lastOpenFiles": [
-    "UNIVERSAL ERAS/Lax Era/Lax Era.md",
+    "Alusia Mentha Piperita.md",
+    "Wah.md",
+    "Space Crews/Space Pirate Society/Orion's Wrath.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Strixitania/Phoenix Gabigool.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Strixitania/Kumie Tachibaru.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Nations/Strixitania/Strixitania.md",
+    "Captain Merangue.md",
+    "Personagem.md",
+    "Prince of Aofuria Ogeki.md",
+    "Rataria Mango.md",
+    "Putie.md",
+    "Workarth.md",
+    "World Capital of Musse.md",
+    "Yaghvardi.md",
+    "Nekocious Neko.md",
+    "Zal.md",
     "UNIVERSAL ERAS/Megalo Era/Megalo Era.md",
+    "UNIVERSAL ERAS/Lax Era/Lax Era.md",
     "UNIVERSAL ERAS/Ganymetsu Era/Ganymetsu Era.md",
     "UNIVERSAL ERAS/-Events (GENERAL)/Hunters' Reunion.md",
     "UNIVERSAL ERAS/-Events (GENERAL)/Universal Strike.md",
@@ -212,22 +229,6 @@
     "Space Crews/Space Pirate Society/-Space Pirate Society.md",
     "Al Bonte.md",
     "UNIVERSAL ERAS/UNIVERSAL HISTORY.md",
-    "Space Crews/Space Pirate Society/Dry Pirates.md",
-    "Space Crews/Space Pirate Society/Mahou Shoujiety.md",
-    "Captain Merangue.md",
-    "Dogland Industrial Revolution.md",
-    "Butchery.md",
-    "Blingue.md",
-    "Aru Sayaki.md",
-    "Ardming.md",
-    "Amarill Ciccer.md",
-    "Alusia Mentha Piperita.md",
-    "Boner.md",
-    "Douraradan.md",
-    "Nakamura Atatsun.md",
-    "Narmiller Knox.md",
-    "Nekocious Neko.md",
-    "Onmoy.md",
     "UNIVERSAL ERAS/Worthwhile Era"
   ]
 }
