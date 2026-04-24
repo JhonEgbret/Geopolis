@@ -1,3 +1,5 @@
 The Yaghvardi, commonly known as the Harbingers of Noir, are creatures from a distant galaxy and seemingly no planet of origin. They resemble a flower of fleshy material, and are highly intelligent, perhaps even more so than humanity itself.
 
 Their job is to wander throughout the universe and provide an estimate of how close [[Lord Noir]] is to the solar system of whoever or whatever is able to listen, then make their way back to wherever they have come from, in the confines of the [[Forgotten Systems]]. They seem to communicate via several means, including noises certain animals and insects can hear and understand and psychic communication with other species, breaking language barriers.
+
+Before gaining consciousness, the Yaghvardi's young were merely pets, gifted by Noir to his dear [[Ganymetsu]].

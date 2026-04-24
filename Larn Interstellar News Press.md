@@ -1,0 +1,1 @@
+The Larn Interstellar News Press has been present throughout most of Universal History, being responsible, alongside the Interstellar Government, for delivering news of Geopolis throughout the Known Universe and parts of the Forgotten Systems. They are also charged with determining the Influentials for each Universal Era
