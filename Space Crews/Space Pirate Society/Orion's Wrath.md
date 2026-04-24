@@ -6,12 +6,9 @@ _that goes for everyone. would you be able to do the most vile things humanity h
 
 Orion's Wrath (or The Orions) is one of the most infamous space pirate crews in the universe, being the main catalyst behind the [[Universal Strike|2nd Universal Strike]] and, by association, the original impetus for the arrival of The [[Gabigool Family]] on planet [[Vostros]].
 
-Before their eventual downfall, their captain, Alusia Mentha Piperita, was speculated by many to be the next member of [[Conquerors|The Conquerors]], due to her and her crew's influence on the universe and unabashed level of power and recklessness. Much of their reputation comes from their combination of determination, firepower, intelligence and plot armor being considered one of the best to have in a crew, as well as their mark being left in universal history since their rise to power, taking part in many historical events outside of [[Road To Glory|The Road to Glory]].
+Before their eventual downfall, their captain, Alusia Mentha Piperita, was speculated by many to be the next member of [[Conquerors|The Conquerors]], due to her and her crew's influence on the universe and unabashed level of power and recklessness. Much of their reputation comes from their combination of determination, firepower, intelligence and plot armor being considered one of the best to have in a crew, as well as their mark being left in [[Universal History]] since their rise to power, taking part in many historical events.
 
-The combined bounty of all the members of Orion's Wrath is approximately $
-
-
-due to being deemed a massive threat to the [[-Interstellar Government|Interstellar Government]] as well as The Conquerors for several reasons. After their "death" was confirmed on [[The Divide SIDE A|The Divide]], their bounty was frozen.
+They are deemed a massive threat to the [[-Interstellar Government|Interstellar Government]] as well as the Conquerors. After their "death" was confirmed on [[The Divide SIDE A|The Divide]], their bounty was frozen.
 
 On their travels to the universe they have come into contact or befriended several notable characters, and control and protect the territory of over 400 planets, indicated by their flag, which strikes fear into other space pirate crews. They are crucial members of the [[-Space Pirate Society|S.P.S.]]
 

@@ -21,7 +21,7 @@
 > - Unknown parents
 > - [[Lupino P. Alerma]] (Friend)
 > - [[Anfie Anetralli]] (Friend/Love interest)
-> - [[Drinken W. Ine]] (Dislikes)
+> - [[Durinki W.]] (Dislikes)
 > - [[Limme Kimbler]] (Scared of)
 > - [[Narmiller Knox]] (Highly scared of)
 > - [[Rataria Mango]] (Friend)

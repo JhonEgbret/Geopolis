@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alusia Mentha Piperita.md",
+                "file": "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/The Divide SIDE A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alusia Mentha Piperita"
+              "title": "The Divide SIDE A"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Kinrin"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Orion's",
+                "query": "drinken",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,13 +199,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa44357eed67dc02",
+  "active": "d5468304fc15ceb8",
   "lastOpenFiles": [
-    "Alusia Mentha Piperita.md",
-    "Wah.md",
-    "Space Crews/Space Pirate Society/Orion's Wrath.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Strixitania/Phoenix Gabigool.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/The Divide.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE B/The Divide SIDE B.md",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Strixitania/Kumie Tachibaru.md",
+    "Space Crews/Space Pirate Society/-Space Pirate Society.md",
+    "Space Crews/Conquerors.md",
+    "Truth Society Azure.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Crews/Royal Families - SIDE A/-Royal Families - SIDE A.md",
+    "Images/Character Profs/35-durinki w..png",
+    "Images/Character Profs/38-pecatta 1.png",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Elite Island/Durinki W..md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Elite Island/Weepasta Ordos.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Elite Island/Lupino P. Alerma.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Elite Island/Limme Kimbler.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Crews/Elites.md",
+    "Concepts/Martial Arts/Inugeki.md",
+    "Alusia Mentha Piperita.md",
+    "Space Crews/Space Pirate Society/Orion's Wrath.md",
+    "Wah.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Strixitania/Phoenix Gabigool.md",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Nations/Strixitania/Strixitania.md",
     "Captain Merangue.md",
     "Personagem.md",
@@ -217,18 +229,6 @@
     "Workarth.md",
     "World Capital of Musse.md",
     "Yaghvardi.md",
-    "Nekocious Neko.md",
-    "Zal.md",
-    "UNIVERSAL ERAS/Megalo Era/Megalo Era.md",
-    "UNIVERSAL ERAS/Lax Era/Lax Era.md",
-    "UNIVERSAL ERAS/Ganymetsu Era/Ganymetsu Era.md",
-    "UNIVERSAL ERAS/-Events (GENERAL)/Hunters' Reunion.md",
-    "UNIVERSAL ERAS/-Events (GENERAL)/Universal Strike.md",
-    "UNIVERSAL ERAS/1 - Beginning Era/Beginning Era.md",
-    "Space Crews/Space Pirate Society/Donnas.md",
-    "Space Crews/Space Pirate Society/-Space Pirate Society.md",
-    "Al Bonte.md",
-    "UNIVERSAL ERAS/UNIVERSAL HISTORY.md",
     "UNIVERSAL ERAS/Worthwhile Era"
   ]
 }

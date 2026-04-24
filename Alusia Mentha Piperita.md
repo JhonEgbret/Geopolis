@@ -14,7 +14,7 @@
 > ##### Affiliation
 > - Affiliated with the [[-Space Pirate Society|S.P.S.]]
 > ##### Bounty
-> $540,000,000,000,000,000,000,000,000
+> $982,000,000,000,000,000
 > ##### Occupation
 > None - Captain of [[Orion's Wrath]]
 > # Relationships
@@ -22,7 +22,7 @@
 > - [[Captain Merangue|Merangue Saccharum]] (Idol/Inspiration)
 > - [[Ponadrum Verum]] (Brother)
 > - [[Limme Kimbler]] (Childhood Friend/Is fascinated by)
-> - [[Drinken W. Ine]] (Understands/Respects)
+> - [[Durinki W.]] (Understands/Respects)
 > - [[Lady Lamina]] (Ex-First Mate/Friend)
 > - [[Nagaiji Tsurugi]] (Ex-Crewmember/Friend)
 > - [[Elanin]] (Commander/Friend)

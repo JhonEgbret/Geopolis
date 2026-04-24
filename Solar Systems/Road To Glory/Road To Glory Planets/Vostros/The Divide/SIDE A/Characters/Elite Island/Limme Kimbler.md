@@ -27,7 +27,7 @@
 > - [[Alusia Mentha Piperita]] (Childhood Friend/Rival/It's complicated)
 > - [[Gabetta Labiroo]] (Friend..?)
 > - [[Ponadrum Verum]] (Best Friend/Inspiration)
-> - [[Drinken W. Ine]] (Understands)
+> - [[Durinki W.]] (Understands)
 > - [[Anfie Anetralli]] (Dislikes)
 > - [[Weepasta Ordos]] (Is indifferent to)
 > - [[Rataria Mango]] (Hates/Looks down on)

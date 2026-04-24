@@ -1,4 +1,4 @@
-Inugeki is a martial arts style created by [[Canis]] [[Elites|Elite]] [[Drinken W. Ine]] from [[The Divide SIDE A|SIDE A of The Divide]], in an attempt to prove his species, the Canis', true ability to his [[Vostros|planet]], which considered the species lesser than humans. 
+Inugeki is a martial arts style created by [[Canis]] [[Elites|Elite]] [[Durinki W.]] from [[The Divide SIDE A|SIDE A of The Divide]], in an attempt to prove his species, the Canis', true ability to his [[Vostros|planet]], which considered the species lesser than humans. 
 
 It is a style exclusive for the Canis Species and its subspecies [[Lupis]], as it utilizes their distinction from humans to their full capability. It is taught by many Inugeki Masters throughout [[The Divide]] and even other parts of Geopolis, although few know of the secret techniques developed by its creator, that he only passed on to certain highly trusted people.
 # Techniques

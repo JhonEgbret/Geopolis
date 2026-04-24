@@ -12,11 +12,11 @@
 > ##### Height
 > 5'1'' - 154 cm
 > ##### Affiliation
-> - Affiliated with the S.P.S.
+> - Affiliated with the [[-Space Pirate Society|S.P.S.]]
 > ##### Bounty
 > $8
 > ##### Occupation
-> Student at Partan High School
+> Student at Partali High School - Member of Orion's Wrath (Post-Saltman Start)
 > # Relationships
 >- Unknown Parents
 >- Kumie Tachibaru (Friend/Leader)
