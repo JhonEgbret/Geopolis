@@ -18,7 +18,7 @@
 > - Affiliated with the [[Nekocious Fighters' Guild]]
 > - Affiliated with the [[-Space Pirate Society|S.P.S.]]
 > ##### Bounty
-> CONQUEROR LEVEL - PREVIOUSLY $4,839,544,000,000,000,000,000,000,000
+> CONQUEROR LEVEL
 > ##### Occupation
 > [[Conquerors|Conqueror]] - [[NEKOUTA]] Vocalist
 > ##### Status

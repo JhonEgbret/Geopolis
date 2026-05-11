@@ -16,7 +16,7 @@
 > ##### Bounty
 > CONQUEROR LEVEL
 > ##### Occupation
-> [[Conquerors|Conqueror]]
+> [[Conquerors|Conqueror]] - Wanderer
 > # Relationships
 > - [[Dry Eye Mcgee]] (Former Enemy)
 > - [[Al Bonte]] (Friend)

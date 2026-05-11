@@ -16,7 +16,7 @@
 > ##### Bounty
 > CONQUEROR LEVEL
 > ##### Occupation
-> [[Conquerors|Conqueror]]
+> [[Conquerors|Conqueror]] - Retired
 > # Relationships
 > - Unknown parents
 > - [[Masaru of the Winds]] (Enemy)

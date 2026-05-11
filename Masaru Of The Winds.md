@@ -16,7 +16,7 @@
 >##### Bounty
 >CONQUEROR LEVEL
 > ##### Occupation
-> [[Conquerors|Conqueror]]
+> [[Conquerors|Conqueror]] - Warlord
 > # Relationships
 > - [[Personagem]] (Enemy)
 

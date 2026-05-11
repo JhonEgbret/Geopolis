@@ -28,4 +28,4 @@ The Conquerors are a group of people considered to be the "most powerful" in the
 
 ### Anfilis Amad †
 
-### [[Tomoe Gervogyan|Tomoe Gervogyan Williamson Barbosa Baghdasar]] (NO BOUNTY: CONSIDERED TOO DANGEROUS
+### [[Tomoe Gervogyan|Tomoe Gervogyan Williamson Barbosa Baghdasar]] (NO BOUNTY: DEEMED TOO DANGEROUS)

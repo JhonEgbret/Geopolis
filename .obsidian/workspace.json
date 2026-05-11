@@ -69,12 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Space Crews/Conquerors.md",
+                "file": "Pavinio Jorel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conquerors"
+              "title": "Pavinio Jorel"
+            }
+          },
+          {
+            "id": "8c5ccd204de00c10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Sunfarers/Tomoe Gervogyan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tomoe Gervogyan"
             }
           },
           {
@@ -106,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -256,19 +270,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a614b626f0b8830f",
+  "active": "8c5ccd204de00c10",
   "lastOpenFiles": [
+    "Space Crews/Conquerors.md",
+    "Masaru of the Winds.md",
+    "Nekocious Neko.md",
     "Pavinio Jorel.md",
-    "Ignatius Polanka.md",
     "Solar Systems/Sect/Sect Planets/Miriam/The Conditioning Zone/The Conditioning Zone.md",
+    "Ignatius Polanka.md",
+    "Amacia Tabor.md",
+    "Alusia Mentha Piperita.md",
+    "Personagem.md",
     "Concepts/Magic/Black Magic.md",
     "UNIVERSAL ERAS/Lax Era/Lax Era.md",
     "UNIVERSAL ERAS/Lax Era/Lax Era Wars/Duel of The Winds.md",
     "UNIVERSAL ERAS/Ganymetsu Era/Ganymetsu Era.md",
-    "Alusia Mentha Piperita.md",
-    "Amacia Tabor.md",
-    "Personagem.md",
-    "Space Crews/Conquerors.md",
     "Space Crews/Space Pirate Society/Donnas.md",
     "Space Crews/Space Pirate Society/-Space Pirate Society.md",
     "Space Crews/Interstellar Government/Governmental Protection Community.md",
@@ -282,8 +298,6 @@
     "Salankappa Gerorin.md",
     "Saltman (Character).md",
     "Saltman (Story).md",
-    "Sarah Suki.md",
-    "Strixitania Royal Family.md",
     "UNIVERSAL ERAS/Lax Era/Lax Era Wars",
     "UNIVERSAL ERAS/Lax Era/Lax Era Events",
     "Images/Character Profs/35-durinki w..png",

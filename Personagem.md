@@ -16,7 +16,7 @@
 > ##### Bounty
 > CONQUEROR LEVEL
 > ##### Occupation
-> [[Conquerors|Conqueror]]
+> [[Conquerors|Conqueror]] - None
 > # Relationships
 > - [[Lord Noir]] (Creator/Father)
 > - [[Masaru of the Winds]] (Enemy)
