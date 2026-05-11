@@ -1,4 +1,4 @@
-" Kanashimi, you fool... Alongside you, our land has been forsaken."
+" *Kanashimi, you fool... Alongside you, our land has been forsaken.*"
 — Josun Kanpai to a dying Kanashimi.
 
 The War of The Josuns is a historical event in [[The Divide SIDE A|SIDE A of The Divide]] responsible for the death of the [[Josun]] system in [[Konatsuka]], and its split-up and transformation into the nations of [[Nonoka]] and [[Aofuria]] during the [[Fallscure Era]].
