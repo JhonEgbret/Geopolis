@@ -12,7 +12,7 @@
 > ##### Height
 > 3'6'' - 106 cm
 > ##### Affiliation
-> - Number Four Biggest Threat to [[-Interstellar Government|The Interstellar Government]]
+> - None.
 > ##### Bounty
 > CONQUEROR LEVEL
 > ##### Occupation

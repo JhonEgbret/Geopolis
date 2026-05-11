@@ -10,7 +10,7 @@ The Conquerors are a group of people considered to be the "most powerful" in the
 
 ### [[Pavinio Jorel]]
 
-### Person
+### [[Amacia Tabor]]
 
 ### [[Wells Ataranis]]
 
