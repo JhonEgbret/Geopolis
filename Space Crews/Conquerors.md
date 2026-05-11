@@ -8,9 +8,9 @@ The Conquerors are a group of people considered to be the "most powerful" in the
 
 ### [[Personagem]]
 
-### [[Pavinio Jorel]]
-
 ### [[Amacia Tabor]]
+
+### [[Pavinio Jorel]]
 
 ### [[Wells Ataranis]]
 
@@ -28,4 +28,4 @@ The Conquerors are a group of people considered to be the "most powerful" in the
 
 ### Anfilis Amad †
 
-### [[Tomoe Gervogyan|Tomoe Gervogyan Williamson Barbosa Baghdasar]] (NO BOUNTY) | CONSIDERED TOO DANGEROUS TO BECOME A TARGET |
+### [[Tomoe Gervogyan|Tomoe Gervogyan Williamson Barbosa Baghdasar]] (NO BOUNTY: CONSIDERED TOO DANGEROUS

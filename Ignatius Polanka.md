@@ -12,7 +12,7 @@
 > ##### Height
 > 6'2''- 187 cm
 > ##### Affiliation
-> - Number Four Biggest Threat to [[-Interstellar Government|The Interstellar Government]]
+> - 
 > ##### Occupation
 > Wanderer
 > # Relationships

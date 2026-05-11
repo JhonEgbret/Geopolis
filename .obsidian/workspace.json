@@ -36,17 +36,45 @@
             }
           },
           {
+            "id": "ef1ae3d99972116c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alusia Mentha Piperita.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alusia Mentha Piperita"
+            }
+          },
+          {
+            "id": "0d345c92bee25969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ignatius Polanka.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ignatius Polanka"
+            }
+          },
+          {
             "id": "a614b626f0b8830f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pavinio Jorel.md",
+                "file": "Space Crews/Conquerors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pavinio Jorel"
+              "title": "Conquerors"
             }
           },
           {
@@ -62,9 +90,23 @@
               "icon": "lucide-file",
               "title": "The Conditioning Zone"
             }
+          },
+          {
+            "id": "1d0602e7021d184b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Magic/Black Magic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Black Magic"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -216,11 +258,17 @@
   },
   "active": "a614b626f0b8830f",
   "lastOpenFiles": [
+    "Pavinio Jorel.md",
+    "Ignatius Polanka.md",
+    "Solar Systems/Sect/Sect Planets/Miriam/The Conditioning Zone/The Conditioning Zone.md",
+    "Concepts/Magic/Black Magic.md",
+    "UNIVERSAL ERAS/Lax Era/Lax Era.md",
+    "UNIVERSAL ERAS/Lax Era/Lax Era Wars/Duel of The Winds.md",
+    "UNIVERSAL ERAS/Ganymetsu Era/Ganymetsu Era.md",
+    "Alusia Mentha Piperita.md",
     "Amacia Tabor.md",
     "Personagem.md",
     "Space Crews/Conquerors.md",
-    "Pavinio Jorel.md",
-    "Solar Systems/Sect/Sect Planets/Miriam/The Conditioning Zone/The Conditioning Zone.md",
     "Space Crews/Space Pirate Society/Donnas.md",
     "Space Crews/Space Pirate Society/-Space Pirate Society.md",
     "Space Crews/Interstellar Government/Governmental Protection Community.md",
@@ -236,12 +284,6 @@
     "Saltman (Story).md",
     "Sarah Suki.md",
     "Strixitania Royal Family.md",
-    "Sudokubo Assassin Family.md",
-    "Tokillius Relvashin Aquir.md",
-    "Truth Society Azure.md",
-    "Wah.md",
-    "World Capital of Musse.md",
-    "Yaghvardi.md",
     "UNIVERSAL ERAS/Lax Era/Lax Era Wars",
     "UNIVERSAL ERAS/Lax Era/Lax Era Events",
     "Images/Character Profs/35-durinki w..png",
