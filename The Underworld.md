@@ -1,0 +1,1 @@
+Little is known of The Underworld by the general public, but it may just be the answer to all anomalies in Geopolis, such as Personagem or even Lord Noir himself. It is a funnel-shaped, impossible aglomeration of 
