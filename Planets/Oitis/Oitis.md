@@ -1,1 +1,1 @@
-Lebadoo origin planet.
+[[Lebadoo]]'s origin planet, near the [[Border]]. Oitis was responsible for the creation and proliferation of the [[Lanic Stations]] due to their advanced technology.

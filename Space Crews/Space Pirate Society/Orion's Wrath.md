@@ -38,7 +38,7 @@ him
 
 Dreams of uniting his planet, technologically and socially, with the rest of the universe.
 
-Alusia first discovered him in a [[Lanic Station]] located in the snowy planet of [[Oitis]], where she found him freezing people with a freeze gun in order to avoid paying gas prices (capitalism). She thought his enthusiasm and dream inspiring, and recruited him, being her 5th crewmate ever.
+Alusia first discovered him in a [[Lanic Stations|Lanic Station]] located in the snowy planet of [[Oitis]], where she found him freezing people with a freeze gun in order to avoid paying gas prices (capitalism). She considered his enthusiasm and dream inspiring and recruited him, being her 5th crewmate ever.
 
 ### Espirion | Ruby Ali † (?)
 
