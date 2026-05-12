@@ -1,0 +1,1 @@
+Ganymetsu -Gan is one of the most important figures in [[Universal History]], and has caused much change to [[Geopolis]] since her arrival.

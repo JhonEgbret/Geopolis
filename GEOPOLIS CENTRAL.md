@@ -11,14 +11,21 @@
 ### - [[Sect]]
 ####   -- [[Miriam]]
 
+### - [[Forgotten Systems]]
+
+
 
 ## Space Crews
 
 ### - [[-Interstellar Government|Interstellar Government]]
 
 ### - [[-Space Pirate Society|Space Pirate Society]]
+####   -- [[NEKOUTA]]
+####   -- [[Orion's Wrath]]
+####   -- [[Mahou Shoujiety]]
 
 ### - Other
+####   -- [[Kinrin]]
 
 
 
@@ -35,3 +42,8 @@
 ## Space Eras
 
 ### - [[Universal Strike|Universal Strikes]]
+
+### - [[Beginning Era]]
+
+### - [[Ganymetsu Era]]
+### - [[Megalo Era]]
