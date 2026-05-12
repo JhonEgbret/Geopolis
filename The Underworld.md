@@ -1,1 +1,1 @@
-Little is known of The Underworld by the general public, but it may just be the answer to all anomalies in Geopolis, such as Personagem or even Lord Noir himself. It is a funnel-shaped, impossible aglomeration of 
+Little is known of The Underworld by the general public, but it may just be the answer to all anomalies in [[Geopolis]], such as [[Personagem]] or even [[Lord Noir]] himself. It is a funnel-shaped, impossible agglomeration of buildings, people and skies, located in a plane outside of the [[Forgotten Systems]] and even Geopolis itself. [[Ganymetsu]] has seen it.
