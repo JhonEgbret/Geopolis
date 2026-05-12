@@ -28,7 +28,7 @@
 > - [[Elanin]] (Commander/Friend)
 > - [[Lebadoo]] (Crewmember/Friend)
 
- Alusia Mentha Piperita is an evil space tyrant with an immense hatred for her brother, Ponadrum Cinnamomum Verum. She dreams of being the biggest villain of the universe. She is allied with a strange, jelly-like creature from planet [[Karn]], a parasite that devours her blood slowly, but also helps her in many occasions with its strange anatomy and power. She calls it "[[Kairin]]".
+ Alusia Mentha Piperita is an evil space tyrant with an immense hatred for her brother, Ponadrum Cinnamomum Verum. She dreams of being the biggest villain of the universe. She is allied with a strange, jelly-like creature from planet [[Karn]], a parasite that devours her blood slowly, but also helps her in many occasions with its strange powers. She calls it "[[Kairin]]".
 
 Together with her crew, known as [[Orion's Wrath]], she has conquered several planets and destroyed millions of civilizations throughout the [[Known Universe]], is extremely intelligent and ruthless, but a complete idiot when it comes to her family and relationships outside of "work".
 
