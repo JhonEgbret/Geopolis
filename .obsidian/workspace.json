@@ -95,10 +95,14 @@
             "id": "80a64b7d07242ba3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Space Crews/Space Pirate Society/Mahou Shoujiety.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mahou Shoujiety"
             }
           },
           {
@@ -148,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "underworl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,8 +173,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,12 +270,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80a64b7d07242ba3",
+  "active": "f8650768e62f7eca",
   "lastOpenFiles": [
+    "Nekocious Neko.md",
+    "Pavinio Jorel.md",
     "The Underworld.md",
     "Concepts/Objects/Hell-Radios.md",
     "Larn Interstellar News Press.md",
-    "Pavinio Jorel.md",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Sunfarers/Tomoe Gervogyan.md",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Nations/Dogland/Dogland.md",
     "Notes/NOTES.md",
@@ -284,7 +288,6 @@
     "Solar Systems/Sect/Sect Planets/Miriam/The Conditioning Zone/The Conditioning Zone.md",
     "Space Crews/Conquerors.md",
     "Masaru of the Winds.md",
-    "Nekocious Neko.md",
     "Ignatius Polanka.md",
     "Amacia Tabor.md",
     "Alusia Mentha Piperita.md",
