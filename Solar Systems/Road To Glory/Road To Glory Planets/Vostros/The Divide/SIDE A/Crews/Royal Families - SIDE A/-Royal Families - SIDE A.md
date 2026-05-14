@@ -1,4 +1,4 @@
-[[The Divide SIDE A|The Divide]] is home to several Royal Families, each ruling their own kingdom in or outside of it. Some Royal Families have been exiled from their territory by other forces (See: Queen Amarill) or have lost access to their original kingdom (See: King Khan).
+[[The Divide SIDE A|The Divide]] is home to several Royal Families, each ruling their own kingdom in or outside of it. Some Royal Families have been exiled from their territory by other forces (See: [[Amarill Ciccer|Queen Amarill]]) or have lost access to their original kingdom (See: King Khan).
 
 ## SIDE A
 
