@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/Vostros.md",
+                "file": "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/-Events (GENERAL)/Wars/Proto-Azure Wars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vostros"
+              "title": "Proto-Azure Wars"
             }
           },
           {
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/Amacy Era/Amacy Era Events/Amacy Era Wars/Bodement War.md",
+                "file": "Space Crews/Interstellar Government/Commanders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bodement War"
+              "title": "Commanders"
             }
           }
         ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hunters",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,8 +159,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -259,6 +258,12 @@
   },
   "active": "bc35b046fd767aed",
   "lastOpenFiles": [
+    "Space Crews/Interstellar Government/-Interstellar Government.md",
+    "Solar Systems/Sect/Sect Planets/Miriam/The Conditioning Zone/The Conditioning Zone.md",
+    "Solar Systems/Sect/Sect Planets/Miriam/Miriam.md",
+    "Ardming.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/Amacy Era/Amacy Era Events/Amacy Era Wars/Bodement War.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/-Events (GENERAL)/Wars/Proto-Azure Wars.md",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/Vostros.md",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/The Divide.md",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/The Divide SIDE A.md",
@@ -279,12 +284,6 @@
     "Space Crews/Space Pirate Society/-Space Pirate Society.md",
     "Ganymetsu.md",
     "Gabigool Family.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Sunfarers/Tomoe Gervogyan.md",
-    "UNIVERSAL ERAS/Ganymetsu Era/Ganymetsu Era.md",
-    "Planets/Oitis/Oitis.md",
-    "Dogland Industrial Revolution.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Nations/Dogland/Dogland.md",
-    "Concepts/Objects/Hell-Radios.md",
     "UNIVERSAL ERAS/Lax Era/Lax Era Wars",
     "UNIVERSAL ERAS/Lax Era/Lax Era Events",
     "Images/Character Profs/35-durinki w..png",
