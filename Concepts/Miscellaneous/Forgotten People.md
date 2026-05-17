@@ -1,0 +1,5 @@
+The Forgotten People are a subset of all species that appear to suddenly have become invisible to others, all memories of them wiped out from the entire universe and replaced with others, thus having them only be able to be seen by other Forgotten People. They have formed communities all across [[Geopolis]], with very few others in [[Universal History]] seeming to be aware of their existence. 
+
+The Forgotten are forced to forsake their names and past, emotions such as anger and sadness being diluted over time into a calm acceptance of their fates. When a Forgotten Person dies, other Forgotten can remember who that person used to be (if they were in contact with the Forgotten before their death), making it the only way a Forgotten can be remembered by others after their death.
+
+[[Ganymetsu]] remembered them all, and has kept a list of all their true names, which may be the key to freeing them.
