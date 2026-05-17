@@ -1,1 +1,1 @@
-Dokoaelice is an S-Class Titan Space Station, assembled from the scrap of several Interstellar Gov
+Dokoaelice is an S-Class Titan Space Station in the [[Forgotten Systems]], assembled from the scrap of several [[-Interstellar Government|Interstellar Government]] [[Interstellar Government Freighters|Freighters]] as well as ancient spaceships from the [[Original Humans]].

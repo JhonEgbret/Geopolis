@@ -49,7 +49,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Peasant childhood at the planet of [[Halrebar ]]--> Terrible, abusive stepparents.
 - Friendship with street kids --> Encounter with the post-cun band "[[Emperor]]" during their tour, wherein their guitarist gives her one of his prized Guitars. Love for music develops
 ## 1745
-- Heist at [[Abraxis]] goes wrong --> Friends are killed --> She encounters the Interstellar Government [[Commanders|Commander]] Tokillius Relvashin
+- Heist at [[Abraxis]] goes wrong --> Friends are killed --> She encounters the [[-Interstellar Government|Interstellar Government]] [[Commanders|Commander]] Tokillius Relvashin
 - Escape from Halrebar --> Wounded crash-land at the moon of [[Tephades]] --> Destruction of Guitar
 - Fateful encounter with Ponokota Ony during her personal graduation trip --> They begin traveling together
 ## 1746
@@ -201,7 +201,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Flory locates Lambarin from her ship and lands to assist him -> Ony isn't breathing and her heart has stopped over an hour ago -> A deep felling of dread overtakes them all. "I couldn't even say goodbye..."
 - Flory decides to use her last spell to guarantee the New Generation - A Black Magic spell to save one from death, but that in exchange requires Untainted Souls. Flory gives her own life alongside the lives of her 7 fallen crewmates. 100 years of solitude on her back, she fulfills her selfish act. 
 - As her last order, Flory asks Jerojero to protect Ony at all costs, and fades away. In 3000 years of Universal History, there had never been one like her, and why she gave her life to such an insignificant soul (at the time) still remains a mystery, although her reason becomes clearer and clearer with time.
-- Ony goes back to life, but their ship is intercepted, by the [[Interstellar Government's Second Freighter]], transmitting footage of the Raid to the whole universe. -> The IG cartos them, inquiring about their details and objective.
+- Ony goes back to life, but their ship is intercepted, by the [[Interstellar Government Freighters|Interstellar Government's Second Freighter]], transmitting footage of the Raid to the whole universe. -> The IG cartos them, inquiring about their details and objective.
 - "I'm Ponokota Ony, from the group NEKOUTA! I was a [[Lite Citizen]] on [[Kurandel]], but not anymore I'm not! My objective, and the one of my crew is... To kill all the Conquerors! I hope you all are ready for us!"
 - It was the first time Geopolis had seen such a bold statement from a complete rookie. Some laughed at the absurdity of it, others admired their confidence, but most... were terrified. The people were afraid of NEKOUTA. And for forever more they will be.
 ### **- END OF THE ROYAL RAID OF TCHALDAQ -**

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagem.md",
+                "file": "Nekocious Neko.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personagem"
+              "title": "Nekocious Neko"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amacia Tabor.md",
+                "file": "Space Crews/Conquerors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amacia Tabor"
+              "title": "Conquerors"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alusia Mentha Piperita.md",
+                "file": "Space Crews/Space Pirate Society/-Space Pirate Society.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alusia Mentha Piperita"
+              "title": "-Space Pirate Society"
             }
           },
           {
@@ -109,14 +109,10 @@
             "id": "8ef0ea32bddf6d59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dokoaelice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dokoaelice"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -273,10 +269,21 @@
   "active": "8ef0ea32bddf6d59",
   "lastOpenFiles": [
     "Dokoaelice.md",
+    "Known Universe.md",
+    "UNIVERSAL ERAS/UNIVERSAL HISTORY.md",
+    "Nekocious Neko.md",
+    "Space Crews/Space Pirate Society/-Space Pirate Society.md",
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/-Events (GENERAL)/Wars/Proto-Azure Wars.md",
+    "Pavinio Jorel.md",
+    "Ignatius Polanka.md",
+    "Space Crews/Conquerors.md",
+    "Lana Retrodus.md",
+    "Personagem.md",
+    "Amacia Tabor.md",
+    "Alusia Mentha Piperita.md",
     "Concepts/Miscellaneous/Forgotten Systems.md",
     "Concepts/Miscellaneous/Races.md",
     "GEOPOLIS CENTRAL.md",
-    "UNIVERSAL ERAS/UNIVERSAL HISTORY.md",
     "Concepts/Miscellaneous/Forgotten People.md",
     "Concepts/Miscellaneous/Space Travel.md",
     "Concepts/Objects/Hell-Radios.md",
@@ -287,17 +294,6 @@
     "Solar Systems/Sect/Sect Planets/Miriam/Miriam.md",
     "Ardming.md",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/Amacy Era/Amacy Era Events/Amacy Era Wars/Bodement War.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/-Events (GENERAL)/Wars/Proto-Azure Wars.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/Vostros.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/The Divide.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/The Divide SIDE A.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Nations/Sunfarers.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Nations/Akai.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Nations/The Fool.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Nations/Olvephus.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/Fallscure Era/Fallscure Era.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/Fallscure Era/Fallscure Era Events/Fascure Era Wars/Attack On The World Capital of Musse.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Crews/Royal Families - SIDE A/-Royal Families - SIDE A.md",
     "UNIVERSAL ERAS/Lax Era/Lax Era Wars",
     "UNIVERSAL ERAS/Lax Era/Lax Era Events",
     "Images/Character Profs/35-durinki w..png",

@@ -22,4 +22,4 @@
 > - [[Nakamura Atatsun]] (Hates/Traitor/Interstellar Government's 7th Commander)
 > - [[Salankappa Gerorin]] (Frog wife)
 
-Ignatius Artjen Polanka is a Space Pirate not connected to the SPS, and a major target for the Interstellar Government.
+Ignatius Artjen Polanka is a Space Pirate not connected to the SPS, and a major target for the [[-Interstellar Government|Interstellar Government]].

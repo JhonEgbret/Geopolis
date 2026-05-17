@@ -1,0 +1,1 @@
+The Known Universe is what is known as [[Geopolis]] for most people, although it is miniscule compared to the [[Forgotten Systems]] (Also called the Unknown Universe). It represents all Solar Systems protected by the [[Border]] and under the jurisdiction of the [[-Interstellar Government|Interstellar Government]].
