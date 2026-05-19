@@ -1,0 +1,1 @@
+The Interstellar Net System is a foreign OS illegally utilized by several Solar Systems to communicate between one another, originally created by Oitis
