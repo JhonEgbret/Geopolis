@@ -1,1 +1,2 @@
-[[Lebadoo]]'s origin planet, near the [[Border]]. Oitis was responsible for the creation and proliferation of the [[Lanic Stations]] due to their advanced technology.
+Oitis is a planet near the [[Border]], mostly independent from the [[-Interstellar Government|Interstellar Government|]]. It was responsible for the creation and proliferation of the [[Lanic Stations]] (and consequently, the [[INS]]) due to its advanced technology.
+[[Lebadoo]]'s origin planet.

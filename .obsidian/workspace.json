@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INS.md",
+                "file": "Solar Systems/Panko/Panko Planets/Halrebar/Halrebar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INS"
+              "title": "Halrebar"
             }
           },
           {
@@ -118,9 +118,19 @@
               "icon": "lucide-file",
               "title": "Oitis"
             }
+          },
+          {
+            "id": "a40bf4194ae5b496",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "carto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +183,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -270,9 +281,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "231b9d0f04eb4340",
+  "active": "8ef0ea32bddf6d59",
   "lastOpenFiles": [
+    "Planets/Oitis/Oitis.md",
+    "Solar Systems/Panko/Panko Planets/Halrebar/Halrebar.md",
     "INS.md",
+    "Nekocious Neko.md",
     "Lanic Stations.md",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Nations/Strixitania/Strixitania.md",
     "UNIVERSAL ERAS/UNIVERSAL HISTORY.md",
@@ -286,7 +300,6 @@
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/Amacy Era/Amacy Era Events/Amacy Era Wars/Bodement War.md",
     "Images/Radio.webp",
     "Dokoaelice.md",
-    "Nekocious Neko.md",
     "Space Crews/Space Pirate Society/-Space Pirate Society.md",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/-Events (GENERAL)/Wars/Proto-Azure Wars.md",
     "Pavinio Jorel.md",
@@ -297,8 +310,6 @@
     "Amacia Tabor.md",
     "Alusia Mentha Piperita.md",
     "Concepts/Miscellaneous/Forgotten Systems.md",
-    "Concepts/Miscellaneous/Races.md",
-    "GEOPOLIS CENTRAL.md",
     "UNIVERSAL ERAS/Lax Era/Lax Era Wars",
     "UNIVERSAL ERAS/Lax Era/Lax Era Events",
     "Images/Character Profs/35-durinki w..png",
