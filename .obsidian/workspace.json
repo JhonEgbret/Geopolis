@@ -179,8 +179,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,7 +276,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ef0ea32bddf6d59",
+  "active": "f8650768e62f7eca",
   "lastOpenFiles": [
     "Solar Systems/Panko/Panko Planets/Halrebar/Halrebar.md",
     "Planets/Oitis/Oitis.md",
