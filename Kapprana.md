@@ -1,1 +1,1 @@
-kappa + frog (rana) species, from planet [[Nautilli]]
+kappa + frog species, from planet [[Nautilli]]

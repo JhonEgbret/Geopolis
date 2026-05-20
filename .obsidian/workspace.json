@@ -95,10 +95,14 @@
             "id": "8ef0ea32bddf6d59",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Kaputerica Pestis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kaputerica Pestis"
             }
           },
           {
@@ -158,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "carto",
+                "query": "kapu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +183,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -278,6 +283,23 @@
   },
   "active": "8ef0ea32bddf6d59",
   "lastOpenFiles": [
+    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Strixitania/Fumblington Pickleswallow.md",
+    "Kaputerica Pestis.md",
+    "Kapprana.md",
+    "Joey Vinedade.md",
+    "Jerojero Lambarin.md",
+    "INS.md",
+    "Ignatius Polanka.md",
+    "Grimm Edon.md",
+    "Emperor.md",
+    "Gabigool Family.md",
+    "Douraradan.md",
+    "Elanin.md",
+    "Dry Eye Mcgee.md",
+    "Dokoaelice.md",
+    "Dogland Industrial Revolution.md",
+    "Captain Merangue.md",
+    "Butchery.md",
     "Aru Sayaki.md",
     "Amarill Ciccer.md",
     "Amacia Tabor.md",
@@ -285,26 +307,9 @@
     "Concepts/Miscellaneous/Forgotten People.md",
     "Solar Systems/Panko/Panko Planets/Halrebar/Halrebar.md",
     "Planets/Oitis/Oitis.md",
-    "INS.md",
     "Nekocious Neko.md",
     "Lanic Stations.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Nations/Strixitania/Strixitania.md",
-    "UNIVERSAL ERAS/UNIVERSAL HISTORY.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Strixitania/Fumblington Pickleswallow.md",
-    "Kaputerica Pestis.md",
-    "Kapprana.md",
-    "Kargos Alenthae.md",
-    "Known Universe.md",
-    "Lady Lamina.md",
-    "Concepts/Objects/Hell-Radios.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/Amacy Era/Amacy Era Events/Amacy Era Wars/Bodement War.md",
     "Images/Radio.webp",
-    "Dokoaelice.md",
-    "Space Crews/Space Pirate Society/-Space Pirate Society.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/-Events (GENERAL)/Wars/Proto-Azure Wars.md",
-    "Pavinio Jorel.md",
-    "Ignatius Polanka.md",
-    "Space Crews/Conquerors.md",
     "UNIVERSAL ERAS/Lax Era/Lax Era Wars",
     "UNIVERSAL ERAS/Lax Era/Lax Era Events",
     "Images/Character Profs/35-durinki w..png",

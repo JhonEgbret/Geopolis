@@ -1,1 +1,1 @@
-A [[Canis]] CGI Expert. Oldest Member of [[Truth Society Azure]] and TI guy of [[Edwington Gar High School]], wherein he was recruited. Kind of a loser.
+A [[Canis]] CGI Expert from [[The Divide SIDE A]]. Oldest Member of [[Truth Society Azure]] and IT guy of [[Edwington Gar High School]], wherein he was recruited. Kind of a loser.
