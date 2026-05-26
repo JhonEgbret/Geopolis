@@ -1,0 +1,1 @@
+The Universe of Geopolis can be described like a box inside a box inside a box or a room full of mirrors facing eachother, wherein each "box" cannot be accessed  they are (generally) impassable barriers that separate several places from eachother, such as The [[Underworld]] or The [[Pale]].
