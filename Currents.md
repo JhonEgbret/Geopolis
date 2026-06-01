@@ -6,8 +6,8 @@ Geopolis, also known as the Actual Current, is the main current detailed in this
 ## THE [[UNDERWORLD]] (HELL CURRENT)
 The Underworld, also known as the Hell Current, is a current known for its hellish atmosphere and design, home of terrible demons and primal creatures of old that have wreaked havoc on other Currents with their Currentblades.
 
-## THE PALE
+## [[The Pale|THE PALE]]
 The Pale is the most mysterious current, home of the being known as The Pale, depicted usually as a theater mask with two faces looming in the darkness. It is extremely intelligent and conniving, knowing everything there is to know about everything.
 
-## ERRATA
-Errata, known as the Alternate Current, is an alternate version of Geopolis that has crossed over multiple times with its other counterpart. It could also be that this was the original version, but it will never be truly known which came first. 
+## [[Errata|ERRATA]] (ALTERNATE CURRENT)
+Errata, known as the Alternate Current, is an alternate version of Geopolis that has crossed over multiple times with its other counterpart. It could also be that this was the original version, but it will never be truly known which came first. It is a direct reflection of Geopolis.
