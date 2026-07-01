@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alusia Mentha Piperita.md",
+                "file": "Concepts/Miscellaneous/Forgotten Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alusia Mentha Piperita"
+              "title": "Forgotten Systems"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "the underworld",
+                "query": "border",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,13 +174,14 @@
   },
   "active": "173202c00ed0fe46",
   "lastOpenFiles": [
+    "INS.md",
+    "Alusia Mentha Piperita.md",
+    "Untitled.base",
     "Katagira.md",
     "Untitled.canvas",
     "Untitled 2.base",
     "2026-07-01.md",
     "Untitled 1.base",
-    "Untitled.base",
-    "INS.md",
     "Currents.md",
     "Captain Merangue.md",
     "Butchery.md",
@@ -201,7 +203,6 @@
     "Space Crews/Space Pirate Society/-Space Pirate Society.md",
     "Space Crews/Conquerors.md",
     "Concepts/Objects/Hell-Radios.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/The Divide/SIDE A/Characters/Strixitania/Fumblington Pickleswallow.md",
     "Images/Radio.webp",
     "UNIVERSAL ERAS/Lax Era/Lax Era Wars",
     "UNIVERSAL ERAS/Lax Era/Lax Era Events",
