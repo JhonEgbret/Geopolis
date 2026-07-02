@@ -1,1 +1,1 @@
-Ganymetsu -Gan is one of the most important figures in [[Universal History]], and has caused much change to [[Geopolis]] since her arrival.
+Ganymetsu -Gan is one of the most important figures in [[Universal History]], and has caused much change to [[Geopolis]] since her arrival and discovery during the [[Ganymetsu Era]]. She is the embodiment of the inevitable and the fate of all things.
