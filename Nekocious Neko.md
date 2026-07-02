@@ -53,7 +53,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - Escape from Halrebar --> Wounded crash-land at the moon of [[Tephades]] --> Destruction of Guitar
 - Fateful encounter with Ponokota Ony during her personal graduation trip to visit the universe --> They begin traveling together under her spaceship, a medium-sized Miglia Class-D called the [[Onylicious]].
 ## 1746
-- Stay at the music shop of [[Semperho]] --> First heist, stealing of 
+- Stay at the music shop of [[Semperho]] --> On their first small heist, they rob several CC's and equipment of value from the shop to further their love of music.
 - First encounter with the Interstellar Government as enemies --> Officer by the name of "[[Waton]]"
 - Defeat --> First classified as a Space Pirate (Bounty of $400, at 13)
 - They make their last stop at the dying planet of [[Janzal]] --> Encounter with up-and-coming space group "Kinrin", and their leaders, [[Ghost-Lady Flory]] and [[Canis Eyes Mathias]]. --> NEKOUTA makes its first alliance before its disbanding.
