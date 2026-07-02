@@ -1,1 +1,1 @@
-The Onylicious is a Class-ZZ Titan-type ship utilized by the Conqueror group NEKOUTA for their music recordings and serving as an impenetrable fortress with an immense level of power, including an army of LOEs, the 
+The Onylicious is a Class-ZZ Titan-type ship utilized by the [[Conquerors|Conqueror]] group [[NEKOUTA]] for their music recordings and serving as an impenetrable fortress with an immense level of power, including an army of [[LOE]] MK3s, several cannons, top-class firearms and a collection of Forbidden [[Magician Community]] spells

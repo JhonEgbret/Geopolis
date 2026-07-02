@@ -1,0 +1,1 @@
+The Magician Community, as its name explains, is an underground group known for its usage and learning of [[Magic]], a relatively unexplored concept in [[Geopolis]].
