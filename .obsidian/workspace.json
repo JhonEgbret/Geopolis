@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ganymetsu.md",
+                "file": "Gabetta Labiroo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ganymetsu"
+              "title": "Gabetta Labiroo"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ganymetsu.md",
+                "file": "Gabetta Labiroo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ganymetsu"
+              "title": "Outline of Gabetta Labiroo"
             }
           }
         ]
@@ -201,6 +201,10 @@
   },
   "active": "173202c00ed0fe46",
   "lastOpenFiles": [
+    "Emperor.md",
+    "Gabetta Labiroo.md",
+    "Gabigool Family.md",
+    "Ganymetsu.md",
     "Concepts/Miscellaneous/Forgotten People.md",
     "Concepts/Miscellaneous/Currents.md",
     "Concepts/Objects/LOE.md",
@@ -211,7 +215,6 @@
     "Concepts/Objects/Spaceships.md",
     "Concepts/Major Groups/Space Pirate Society/NEKOUTA.md",
     "Nekocious Neko.md",
-    "Emperor.md",
     "Aru Sayaki.md",
     "Concepts/Major Groups/Space Pirate Society/-Space Pirate Society.md",
     "Concepts/Major Groups/Kinrin.md",
@@ -228,9 +231,6 @@
     "Captain Merangue.md",
     "Butchery.md",
     "Boner.md",
-    "Blingue.md",
-    "Concepts/Miscellaneous/Races.md",
-    "Dogland Industrial Revolution.md",
     "Images/Radio.webp",
     "UNIVERSAL ERAS/Lax Era/Lax Era Wars",
     "UNIVERSAL ERAS/Lax Era/Lax Era Events",
