@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Space Crews/Space Pirate Society/-Space Pirate Society.md",
+                "file": "Aru Sayaki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-Space Pirate Society"
+              "title": "Aru Sayaki"
+            }
+          },
+          {
+            "id": "3604cd785cade78d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Miscellaneous/Space Travel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Space Travel"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,10 +186,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "173202c00ed0fe46",
+  "active": "3604cd785cade78d",
   "lastOpenFiles": [
-    "Space Crews/Kinrin.md",
+    "Concepts/Objects/Spaceships.md",
+    "Nekocious Neko.md",
+    "LOE.md",
+    "Aru Sayaki.md",
     "Space Crews/Space Pirate Society/-Space Pirate Society.md",
+    "Space Crews/Kinrin.md",
     "Currents.md",
     "Underworld.md",
     "Concepts/Miscellaneous/Forgotten Systems.md",
@@ -192,7 +211,6 @@
     "Blingue.md",
     "Concepts/Miscellaneous/Forgotten People.md",
     "Concepts/Miscellaneous/Races.md",
-    "Nekocious Neko.md",
     "Dogland Industrial Revolution.md",
     "Dokoaelice.md",
     "Known Universe.md",
@@ -200,9 +218,6 @@
     "Kaputerica Pestis.md",
     "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/-Events (GENERAL)/Wars/Proto-Azure Wars.md",
     "Pavinio Jorel.md",
-    "Ignatius Polanka.md",
-    "Space Crews/Conquerors.md",
-    "Concepts/Objects/Hell-Radios.md",
     "Images/Radio.webp",
     "UNIVERSAL ERAS/Lax Era/Lax Era Wars",
     "UNIVERSAL ERAS/Lax Era/Lax Era Events",
