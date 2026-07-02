@@ -1,1 +1,1 @@
-Space Trav
+Space Travel is the beginning of all of [[Geopolis]] history, and where the [[Original Humans]] made their mark on everything. It was achieved through the first Space Vehicles, the [[Spaceships]], and all other forms of travel through space came as a result of them. 

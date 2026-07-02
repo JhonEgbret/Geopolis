@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aru Sayaki.md",
+                "file": "Nekocious Neko.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aru Sayaki"
+              "title": "Nekocious Neko"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Miscellaneous/Space Travel.md",
+                "file": "Concepts/Objects/Spaceships.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Space Travel"
+              "title": "Spaceships"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "onylicious",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,12 +186,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3604cd785cade78d",
+  "active": "987f94bb2423b240",
   "lastOpenFiles": [
-    "Concepts/Objects/Spaceships.md",
+    "Space Crews/Space Pirate Society/NEKOUTA.md",
     "Nekocious Neko.md",
-    "LOE.md",
+    "Emperor.md",
     "Aru Sayaki.md",
+    "Concepts/Objects/Spaceships.md",
+    "Concepts/Miscellaneous/Space Travel.md",
+    "LOE.md",
     "Space Crews/Space Pirate Society/-Space Pirate Society.md",
     "Space Crews/Kinrin.md",
     "Currents.md",
@@ -215,9 +218,6 @@
     "Dokoaelice.md",
     "Known Universe.md",
     "Planets/Oitis/Oitis.md",
-    "Kaputerica Pestis.md",
-    "Solar Systems/Road To Glory/Road To Glory Planets/Vostros/ERAS/-Events (GENERAL)/Wars/Proto-Azure Wars.md",
-    "Pavinio Jorel.md",
     "Images/Radio.webp",
     "UNIVERSAL ERAS/Lax Era/Lax Era Wars",
     "UNIVERSAL ERAS/Lax Era/Lax Era Events",

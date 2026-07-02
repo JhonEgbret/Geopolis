@@ -47,13 +47,13 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 # EARLY NEKOUTA
 ## 1733 - 1751
 - Peasant childhood at the planet of [[Halrebar ]]--> Terrible, abusive stepparents.
-- Friendship with street kids --> Encounter with the post-cun band "[[Emperor]]" during their tour, wherein their guitarist gives her one of his prized Guitars. Love for music develops
+- Friendship with street kids --> Encounter with the post-can band "[[Emperor]]" during their tour, wherein their guitarist gives her one of his prized Guitars. Love for music develops
 ## 1745
 - Heist at [[Abraxis]] goes wrong --> Friends are killed --> She encounters the [[-Interstellar Government|Interstellar Government]] [[Commanders|Commander]] Tokillius Relvashin
 - Escape from Halrebar --> Wounded crash-land at the moon of [[Tephades]] --> Destruction of Guitar
-- Fateful encounter with Ponokota Ony during her personal graduation trip --> They begin traveling together
+- Fateful encounter with Ponokota Ony during her personal graduation trip to visit the universe --> They begin traveling together under her spaceship, a medium-sized Miglia Class-D called the [[Onylicious]].
 ## 1746
-- Stay at the music shop of [[Semperho]] --> First heist
+- Stay at the music shop of [[Semperho]] --> First heist, stealing of 
 - First encounter with the Interstellar Government as enemies --> Officer by the name of "[[Waton]]"
 - Defeat --> First classified as a Space Pirate (Bounty of $400, at 13)
 - They make their last stop at the dying planet of [[Janzal]] --> Encounter with up-and-coming space group "Kinrin", and their leaders, [[Ghost-Lady Flory]] and [[Canis Eyes Mathias]]. --> NEKOUTA makes its first alliance before its disbanding.
@@ -77,7 +77,7 @@ Given to an unknown family living at the planet of Halrebar and separated from h
 - They land on a name. NEKOUTA. ---> Their first album is published, titled "[[Seed Of Hate]]".
 - Search for a publisher begins --> Nekocious begins torching every recording agency that does not accept their music
 - Mass production of bootleg [[CC's]] - Album reception high
-- Post-cun genre is revitalized, NEKOUTA reaches top charts. "They're criminals, but they make good music."
+- Post-can genre is revitalized, NEKOUTA reaches top charts. "They're criminals, but they make good music."
 - Nekocious is considered an [[Influential]] by the [[Larn Interstellar News Press]]. -> She has the money to live clean, but her mission is not over.
 - Neko recruits Jerojero Lambarin, at the planet of [[Aligunya]]. A man with a dream much alike hers.
 - Jerojero proves himself invaluable --> Preparations for Album 2 begin
