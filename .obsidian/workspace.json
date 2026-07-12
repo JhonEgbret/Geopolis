@@ -11,10 +11,14 @@
             "id": "173202c00ed0fe46",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSAL ERAS/Ganymetsu Era/Ganymetsu Era.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ganymetsu Era"
             }
           },
           {
@@ -192,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "173202c00ed0fe46",
+  "active": "0254906a05cb627d",
   "lastOpenFiles": [
     "UNIVERSAL ERAS/Ganymetsu Era/Ganymetsu Era.md",
     "Concepts/Miscellaneous/Currents.md",
