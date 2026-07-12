@@ -17,4 +17,4 @@
 > Student at Edwington Gar High School
 > # Relationships
 > - Unknown mother
-> - Khan Gabigool (Father/Hates)
+> - [[Khan Gapigool]] (Father/Hates)

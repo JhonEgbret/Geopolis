@@ -18,7 +18,7 @@
 > # Relationships
 > - [[Mitsuru Tachibaru]] (Mother)
 > - [[Fredford Tachibaru]] (Father)
-> - [[Phoenix Gabigool]] (Friend/Love Interest)
+> - [[Phoenix Gapigool]] (Friend/Love Interest)
 > - [[Douraradan]] (Friend)
 > - [[Peccata]] (Stalker/Scared of)
 > - [[Putie]] (Friend)

@@ -3,7 +3,7 @@ Truth Society Azure, commonly known as the "T.S.A.", is a [[Strixitania|Trixan]]
 # Members (In Order of Insanity)
 ### [[Kumie Tachibaru]] - [[Blingue]] Enthusiast
 
-### [[Phoenix Gabigool]] - Informant
+### [[Phoenix Gapigool]] - Informant
 
 ### Entity 66 (Nicknamed "[[Putie]]") - Lab Escapee (BOUNTY: $1,000)
 

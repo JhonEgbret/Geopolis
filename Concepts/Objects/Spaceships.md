@@ -1,1 +1,10 @@
 Spaceships are [[Space Travel]] vehicles used since the [[Beginning Era]] that can travel great distances, being of all shapes and sizes, although they are inaccessible for most people due to requiring a series of important licenses to be used, put into place by the [[-Interstellar Government|Interstellar Government]] to avoid interfering with the ecosystem of planets which haven't reached the same level of technological advancement as others. Ships are put into classes from F to SS (with the SS class being reserved only for Commander ships) and can be of several different types, including family-sized travel ships like the Miglia types, or combat types such as the Huntris. 
+
+### ZZ-CLASS SHIPS
+
+ZZ-Class Ships are the top illegally-modified ships in Geopolis, possessing technology either completely unknown to the universe or so far ahead it could only be made by a genius mechanic. They are the rarest class of ship of all.
+## The Ordinator ([[Ganymetsu]] -Gan)
+The Ordinator is a ship unlike any other, with the design of a small brown boot but sporting more living space inside of it than out, defying physics itself. It has the glyph () carved on its side, and can travel at insane speeds with ease.
+
+## The Barathrum ([[Lord Noir]])
+The Barathrum is a ship of myth, and most of what is known about it has come with horror stories. It is not only a ship, but an entire living complex the size of entire solar systems, that can move about with ease and even achieve something no ship has ever been able to, multiversal travel in seconds. It is also equipped with prisons for each of Noir's victims and can destroy entire Solar Systems with its immensely powerful weaponry. Of course, not all of this is known to be real, as no one has been able to see the Barathrum and live to tell the tale. 
